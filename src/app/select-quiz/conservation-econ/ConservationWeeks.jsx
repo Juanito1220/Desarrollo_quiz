@@ -25,6 +25,6 @@ export const quizzes = [
   { title: "Tema 8", description: "El proceso de auditoría de sistemas de la información", link: "week7" },
   { title: "Tema 9", description: "Auditorías operativas/técnicas", link: "week8" },
   { title: "Tema 10", description: "Auditorías de cumplimiento y metodologías de auditoría", link: "week9" },
-  { title: "Exámen Completo", description: 'Take the conmbined exam, with total 150+ questions', link: "finalexam" }, 
-  { title: "Preguntas Extras", description: 'Take the conmbined exam, with total 150+ questions', link: "extras" } 
+  { title: "Exámen Completo", description: 'Examén con todas las preguntas', link: "finalexam" }, 
+  { title: "Preguntas Extras", description: 'Preguntas formadas de los textos', link: "extras" } 
 ];
