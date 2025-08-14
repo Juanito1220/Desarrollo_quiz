@@ -15,15 +15,16 @@ export function ConservationWeeks() {
 }
 
 export const quizzes = [
-  { title: "Tema 1", description: "Practice/Intro Quiz", link: "week0" },
-  { title: "Tema 2", description: "What is Economics?", link: "week1" },
-  { title: "Tema 3", description: "What is Conservation?", link: "week2" },
-  { title: "Tema 4", description: "Modern Impacts Necessitating Conservation", link: "week3" },
-  { title: "Tema 5", description: "Threats To Wildlife", link: "week4" },
-  { title: "Tema 6", description: "How Can Economics Help?", link: "week5" },
-  { title: "Tema 7", description: "Markets - Places Where Economics Works", link: "week6" },
-  { title: "Tema 8", description: "Markets, Welfare And Conservation", link: "week7" },
-  { title: "Tema 9", description: "Public Sector And Conservation", link: "week8" },
-  { title: "Tema 10", description: "Industrial Organization And Conservation", link: "week9" },
-  { title: "Examen Completo", description: 'Take the conmbined exam, with total 150+ questions', link: "finalexam" } 
+  { title: "Tema 1", description: "Seguridad en el Ciclo de Vida de Desarrollo del Software", link: "week0" },
+  { title: "Tema 2", description: "Seguridad en el ciclo de vida del software en las fases de análisis y diseño", link: "week1" },
+  { title: "Tema 3", description: "Seguridad en el ciclo de vida del software en las fases de codificación, pruebas y operación", link: "week2" },
+  { title: "Tema 4", description: "Codificación segura de aplicaciones I", link: "week3" },
+  { title: "Tema 5", description: "Codificación segura de aplicaciones II", link: "week4" },
+  { title: "Tema 6", description: "Introducción al concepto de auditoría de sistemas de información", link: "week5" },
+  { title: "Tema 7", description: "Gobierno y gestión de la función de auditoría", link: "week6" },
+  { title: "Tema 8", description: "El proceso de auditoría de sistemas de la información", link: "week7" },
+  { title: "Tema 9", description: "Auditorías operativas/técnicas", link: "week8" },
+  { title: "Tema 10", description: "Auditorías de cumplimiento y metodologías de auditoría", link: "week9" },
+  { title: "Exámen Completo", description: 'Take the conmbined exam, with total 150+ questions', link: "finalexam" }, 
+  { title: "Preguntas Extras", description: 'Take the conmbined exam, with total 150+ questions', link: "extras" } 
 ];

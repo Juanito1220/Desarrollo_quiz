@@ -15,19 +15,7 @@ export const quizzes = [
   {
     title: "Desarrollo Seguro",
     description:
-      "Weeks 0-12 for the NPTEL course Conservation Economics",
+      "Preparación para examen",
     link: "/select-quiz/conservation-econ/",
-  },
-  {
-    title: "Wildlife Ecology",
-    description:
-      "Weeks 0-12 for the NPTEL course - Wildlife Ecology",
-      link: "#",
-  },
-  {
-    title: "More Quizzes Coming Soon",
-    description:
-      "Stay Tuned...",
-    link: "#",
-  },
+  }
 ];
