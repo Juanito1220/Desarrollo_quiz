@@ -106,7 +106,7 @@ export default function QuizPage() {
         <form onSubmit={handleSubmit} className="space-y-6">
           {questions.map((q, index) => (
             <div key={index} className="p-4 border rounded-lg">
-              <h2 className="font-semibold mb-4">Pregunta{index + 1}. {q.question}</h2>
+              <h2 className="font-semibold mb-4">{index + 1}. {q.question}</h2>
               
               {/* Show message for unanswered questions after submission */}
               {results && results[index] === "unanswered" && (

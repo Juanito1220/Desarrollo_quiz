@@ -15,7 +15,7 @@ export const quizzes = [
   {
     title: "Desarrollo Seguro",
     description:
-      "Preparación para examen",
+      "Preparación para exámen",
     link: "/select-quiz/conservation-econ/",
   }
 ];
