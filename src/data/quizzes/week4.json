@@ -1,74 +1,119 @@
 {
-    "quizzes": [
-      {
-        "title": "week4",
-        "questions": [
-          {
-            "index": 1,
-            "question": "Which of these is a deterministic factor?",
-            "options": ["environmental variation", "forest fire", "death rate", "diseases"],
-            "correct": "death rate"
-          },
-          {
-            "index": 2,
-            "question": "I tried growing vegetables under my teak plantation, but the vegetable plants died out. I should be concerned about",
-            "options": ["autophagy", "allelophagy", "autopathy", "allelopathy"],
-            "correct": "allelopathy"
-          },
-          {
-            "index": 3,
-            "question": "The movement of lions across the Gir landscape is an example of",
-            "options": ["diffusion", "secular dispersal", "jump dispersal", "drifting"],
-            "correct": "diffusion"
-          },
-          {
-            "index": 4,
-            "question": "The geographical distribution of a species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance. This is the statement for",
-            "options": ["Liebig’s law of the minimum", "Liebig’s law of the maximum", "Shelford’s law of tolerance", "Shelford’s law of intolerance"],
-            "correct": "Shelford’s law of tolerance"
-          },
-          {
-            "index": 5,
-            "question": "The regular, seasonal movement of animals, often along fixed routes is called",
-            "options": ["translocation", "migration", "dispersal", "drifting"],
-            "correct": "migration"
-          },
-          {
-            "index": 6,
-            "question": "Which of these is a stochastic factor?",
-            "options": ["birth rate", "death rate", "population structure", "environmental fluctuation"],
-            "correct": "environmental fluctuation"
-          },
-          {
-            "index": 7,
-            "question": "The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called",
-            "options": ["translocation", "migration", "dispersal", "drifting"],
-            "correct": "dispersal"
-          },
-          {
-            "index": 8,
-            "question": "Scarcity of food is a",
-            "options": ["chemical factor", "demographic factor", "push factor", "pull factor"],
-            "correct": "push factor"
-          },
-          {
-            "index": 9,
-            "question": "Which of these correctly represents the process of habitat fragmentation and loss?",
-            "options": [
-              "Original forest → Dissection → Perforation → Fragmentation → Attrition",
-              "Original forest → Dissection → Attrition → Fragmentation → Perforation",
-              "Original forest → Dissection → Perforation → Attrition → Fragmentation",
-              "Original forest → Dissection → Fragmentation → Perforation → Attrition"
-            ],
-            "correct": "Original forest → Dissection → Perforation → Fragmentation → Attrition"
-          },
-          {
-            "index": 10,
-            "question": "A root zone treatment plant is an example of",
-            "options": ["phytoremediation", "biological control", "biomagnification", "bioaccumulation"],
-            "correct": "phytoremediation"
-          }
-        ]
-      }
-    ]
-  }
+  "quizzes": [
+    {
+      "title": "week4",
+      "questions": [
+        {
+          "index": 1,
+          "question": "Señala la respuesta incorrecta. Con respecto a los errores y excepciones:",
+          "options": [
+            "Si un método declara que lanza una excepción checked, todos los objetos que lo utilizan deben manejar la excepción o declarar que lo lanzan también.",
+            "Los compiladores de Java no hacen cumplir las reglas en cuanto a excepciones checked.",
+            "Todas las excepciones en C++ son checked.",
+            "Las excepciones unchecked no tienen que ser declaradas o manejadas."
+          ],
+          "correct": "Todas las excepciones en C++ son checked."
+        },
+        {
+          "index": 2,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? public ResultSet execSQL(...) { stmt.executeQuery(sql); ... }",
+          "options": [
+            "Integer overflows",
+            "Desbordamiento de buffer",
+            "Format string",
+            "Manipulación de información privada"
+          ],
+          "correct": "Manipulación de información privada"
+        },
+        {
+          "index": 3,
+          "question": "Se tienen dos opciones para crear archivos temporales de forma segura:",
+          "options": [
+            "Generar nombres difíciles de adivinar usando un PRNG criptográficamente seguro.",
+            "Almacenar los archivos temporales bajo un directorio no accesible públicamente.",
+            "Almacenar los archivos temporales bajo un directorio público.",
+            "Generar nombres difíciles de adivinar usando un PRNG estadístico."
+          ],
+          "correct": "Generar nombres difíciles de adivinar usando un PRNG criptográficamente seguro."
+        },
+        {
+          "index": 4,
+          "question": "Señala la respuesta incorrecta. Métodos para detectar y prevenir integers overflows:",
+          "options": [
+            "Usar tipos sin signo.",
+            "Verificar el tipo de los buffers.",
+            "Restringir la entrada numérica de usuario.",
+            "Entender las reglas de conversión entre enteros."
+          ],
+          "correct": "Verificar el tipo de los buffers."
+        },
+        {
+          "index": 5,
+          "question": "Señala la respuesta incorrecta. Los ataques de escalada de privilegios pueden tener como objetivo:",
+          "options": [
+            "Archivos de sistema",
+            "Condiciones de carrera de acceso a archivos",
+            "Inyección de comandos",
+            "Mal uso de descriptores de archivo estándar"
+          ],
+          "correct": "Archivos de sistema"
+        },
+        {
+          "index": 6,
+          "question": "Señala la respuesta incorrecta. Consideraciones sobre potenciales vulnerabilidades de Java:",
+          "options": [
+            "Seguridad de tipos: campos privados o protegidos deberían ser públicos.",
+            "Campos públicos: no pueden ser accedidos por cualquier parte del programa.",
+            "Serialización: permite capturar y restaurar el estado del programa.",
+            "JVM: puede ser susceptible a desbordamientos si está implementada en C."
+          ],
+          "correct": "Campos públicos: no pueden ser accedidos por cualquier parte del programa."
+        },
+        {
+          "index": 7,
+          "question": "Revisando el programa con lista de caracteres prohibidos, ¿qué hace la función?",
+          "options": [
+            "Asegurar la no violabilidad espacial de la memoria",
+            "Validar la entrada mediante lista blanca",
+            "Asegurar la no violabilidad temporal de la memoria",
+            "Validar la entrada mediante lista negra"
+          ],
+          "correct": "Validar la entrada mediante lista negra"
+        },
+        {
+          "index": 8,
+          "question": "Señala la incorrecta. Errores comunes con funciones de strings limitadas:",
+          "options": [
+            "El buffer de destino se desborda por depender del tamaño de la fuente.",
+            "El buffer de destino se desborda por usar el tamaño total del buffer.",
+            "El buffer de destino se deja sin terminador nulo.",
+            "El programa escribe a una posición arbitraria por terminar con carácter nulo."
+          ],
+          "correct": "El programa escribe a una posición arbitraria por terminar con carácter nulo."
+        },
+        {
+          "index": 9,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código con fopen('/tmp/file.tmp')?",
+          "options": [
+            "Integer overflows",
+            "Desbordamiento de buffer",
+            "Condiciones de carrera",
+            "Use after free"
+          ],
+          "correct": "Condiciones de carrera"
+        },
+        {
+          "index": 10,
+          "question": "¿Cuándo ocurre un ataque de integer overflow?",
+          "options": [
+            "Al realizar una resta",
+            "Un entero es usado como puntero",
+            "Un entero es usado para acceder a un buffer fuera de sus límites",
+            "No hay espacio para almacenar un entero"
+          ],
+          "correct": "Un entero es usado para acceder a un buffer fuera de sus límites"
+        }
+      ]
+    }
+  ]
+}

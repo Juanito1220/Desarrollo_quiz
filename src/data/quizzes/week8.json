@@ -1,69 +1,119 @@
 {
-    "quizzes": [
+  "quizzes": [
+    {
+      "title": "week8",
+      "questions": [
         {
-            "title": "week8",
-            "questions": [
-                {
-                    "index": 1,
-                    "question": "For a positive consumption externality,",
-                    "options": ["SMB = PMB", "SMB = PMB − MD", "SMB = PMB + MB", "SMC = PMC / MD"],
-                    "correct": "SMB = PMB + MB"
-                },
-                {
-                    "index": 2,
-                    "question": "For a positive production externality,",
-                    "options": ["SMB = PMB", "SMB = PMB − MD", "SMB = PMB + MB", "SMC = PMC / MD"],
-                    "correct": "SMB = PMB"
-                },
-                {
-                    "index": 3,
-                    "question": "The direct cost to producers of producing an additional unit of a good is",
-                    "options": ["private marginal cost (PMC)", "social marginal cost (SMC)", "private marginal benefit (PMB)", "social marginal benefit (SMB)"],
-                    "correct": "private marginal cost (PMC)"
-                },
-                {
-                    "index": 4,
-                    "question": "For a negative production externality,",
-                    "options": ["SMC = PMC + MD", "SMC = PMC - MD", "SMC = PMC", "SMC = PMC - MB"],
-                    "correct": "SMC = PMC + MD"
-                },
-                {
-                    "index": 5,
-                    "question": "The private marginal cost to producers plus any costs associated with the production of the good that are imposed on others is",
-                    "options": ["private marginal cost (PMC)", "social marginal cost (SMC)", "private marginal benefit (PMB)", "social marginal benefit (SMB)"],
-                    "correct": "social marginal cost (SMC)"
-                },
-                {
-                    "index": 6,
-                    "question": "Partying with loud noise is an example of",
-                    "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-                    "correct": "negative consumption externality"
-                },
-                {
-                    "index": 7,
-                    "question": "When an individual’s consumption increases the well-being of others, but the individual is not compensated by those others, we have",
-                    "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-                    "correct": "positive consumption externality"
-                },
-                {
-                    "index": 8,
-                    "question": "When a firm’s production increases the well-being of others but the firm is not compensated by those others, we have",
-                    "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-                    "correct": "positive production externality"
-                },
-                {
-                    "index": 9,
-                    "question": "When an individual’s consumption reduces the well-being of others who are not compensated by the individual, we have",
-                    "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-                    "correct": "negative consumption externality"
-                },
-                {
-                    "index": 10,
-                    "question": "For a negative consumption externality,",
-                    "options": ["SMB = PMB", "SMB = PMB − MD", "SMB = PMB + MB", "SMC = PMC / MD"],
-                    "correct": "SMB = PMB − MD"
-                }
-            ]
+          "index": 1,
+          "question": "Una prueba de intrusión es:",
+          "options": [
+            "Solo un análisis de vulnerabilidades",
+            "Un tipo de hacking ético",
+            "Habitualmente de caja blanca, gris y negra",
+            "No es un pen test"
+          ],
+          "correct": "Habitualmente de caja blanca, gris y negra"
+        },
+        {
+          "index": 2,
+          "question": "¿Qué fases habitualmente se utilizan en una auditoría técnica de seguridad (test de intrusión)?",
+          "options": [
+            "La recopilación de información del sistema por auditar, análisis de vulnerabilidades, explotación/ataque de las vulnerabilidades detectadas y realización de informe técnico y ejecutivo",
+            "La recopilación de información del sistema por auditar, explotación/ataque de las vulnerabilidades detectadas. Nunca se realiza informe",
+            "Explotación/ataque de las vulnerabilidades detectadas y realización de informe técnico",
+            "La recopilación de información del sistema por auditar y realización de informe técnico y ejecutivo"
+          ],
+          "correct": "La recopilación de información del sistema por auditar, análisis de vulnerabilidades, explotación/ataque de las vulnerabilidades detectadas y realización de informe técnico y ejecutivo"
+        },
+        {
+          "index": 3,
+          "question": "Las pruebas de fuerza bruta se basan en:",
+          "options": [
+            "Utilización de ficheros con palabras en diferentes idiomas para averiguar por ensayo/error los usuarios y/o contraseña en las pantallas de log in",
+            "Utilización de todas las combinaciones posibles con un set de caracteres definido y una longitud",
+            "Lo que se denominan rainbow tables",
+            "Ninguna de las respuestas anteriores es correcta"
+          ],
+          "correct": "Utilización de todas las combinaciones posibles con un set de caracteres definido y una longitud"
+        },
+        {
+          "index": 4,
+          "question": "¿Qué es el sniffing de paquetes de red?",
+          "options": [
+            "Es la técnica para inyectar paquetes en redes inalámbricas",
+            "Es la técnica pasiva que permite la captura de datos (paquetes de datos) que se distribuyen en una red",
+            "Es la técnica por la que se intercepta y modifica la información en una red",
+            "Es la técnica por la que consigues el control de administración en las máquinas servidoras"
+          ],
+          "correct": "Es la técnica pasiva que permite la captura de datos (paquetes de datos) que se distribuyen en una red"
+        },
+        {
+          "index": 5,
+          "question": "¿A qué tipo de pruebas de penetración pertenece la siguiente afirmación? «Se simulan ataques reales, pero conociendo de antemano gran parte de la información técnica. Se tiene un conocimiento limitado de los activos y las defensas que los protegen».",
+          "options": [
+            "Caja blanca",
+            "Caja negra",
+            "Reversal",
+            "Caja gris"
+          ],
+          "correct": "Caja gris"
+        },
+        {
+          "index": 6,
+          "question": "Las auditorías técnicas de seguridad tienen como objetivo:",
+          "options": [
+            "Analizar la funcionalidad de los sistemas de información de una organización y sus servicios realizando una batería de pruebas planificadas",
+            "Analizar la seguridad implantada en los sistemas de información y telecomunicaciones de una organización y sus servicios realizando una batería de pruebas planificadas que simulen el comportamiento de un atacante",
+            "Verificar los sistemas de información de una organización y sus servicios realizando una batería de pruebas planificadas",
+            "Todas las anteriores"
+          ],
+          "correct": "Analizar la seguridad implantada en los sistemas de información y telecomunicaciones de una organización y sus servicios realizando una batería de pruebas planificadas que simulen el comportamiento de un atacante"
+        },
+        {
+          "index": 7,
+          "question": "¿Cuál de la siguientes es un tipo de auditoría técnica de seguridad?",
+          "options": [
+            "Auditoría de seguridad de sistemas",
+            "Auditoría de redes wifi",
+            "Auditoría de aplicaciones web",
+            "Todas las anteriores son auditorías técnicas de seguridad"
+          ],
+          "correct": "Todas las anteriores son auditorías técnicas de seguridad"
+        },
+        {
+          "index": 8,
+          "question": "¿Qué conjunto de amenazas típicas pueden poner en riesgo una compañía?",
+          "options": [
+            "Del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada",
+            "De origen natural, del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada",
+            "De origen natural, del entorno, defectos de las aplicaciones y causadas por las personas de forma deliberada",
+            "De origen natural, del entorno, defectos de las aplicaciones y causadas por las personas de forma accidental"
+          ],
+          "correct": "De origen natural, del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada"
+        },
+        {
+          "index": 9,
+          "question": "¿Qué define un hacking ético de tipo gris?",
+          "options": [
+            "Se conoce toda información, como direcciones IP, pero no de la infraestructura",
+            "No se conoce nada de información",
+            "Se conoce alguna información, como direcciones IP, pero no de la infraestructura",
+            "Todas las anteriores"
+          ],
+          "correct": "Se conoce alguna información, como direcciones IP, pero no de la infraestructura"
+        },
+        {
+          "index": 10,
+          "question": "Los informes de auditorías técnicas de seguridad:",
+          "options": [
+            "Incluyen como anexo el informe ejecutivo",
+            "Describen con detalle técnico las fases de la auditoría de seguridad que realizan",
+            "No necesitan definir el objetivo y el alcance de la auditoría",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Describen con detalle técnico las fases de la auditoría de seguridad que realizan"
         }
-    ]
+      ]
+    }
+  ]
 }

@@ -1,69 +1,119 @@
 {
-    "quizzes": [
+  "quizzes": [
+    {
+      "title": "week5",
+      "questions": [
         {
-            "title": "week5",
-            "questions": [
-                {
-                    "index": 1,
-                    "question": "A measure of the responsiveness of quantity demanded or quantity supplied to a change in one of its determinants is",
-                    "options": ["elasticity", "responsivity", "demand-supply equilibrium", "pricing"],
-                    "correct": "elasticity"
-                },
-                {
-                    "index": 2,
-                    "question": "The ability to produce a good using fewer inputs than another producer is",
-                    "options": ["comparative advantage", "absolute advantage", "production advantage", "resource advantage"],
-                    "correct": "absolute advantage"
-                },
-                {
-                    "index": 3,
-                    "question": "Common resource goods are",
-                    "options": ["excludable, rival in consumption", "non-excludable, rival in consumption", "excludable, non-rival in consumption", "non-excludable, non-rival in consumption"],
-                    "correct": "non-excludable, rival in consumption"
-                },
-                {
-                    "index": 4,
-                    "question": "If private parties can bargain without cost over the allocation of resources, they can solve the problem of externalities on their own. This is a statement for",
-                    "options": ["Allocation theorem", "Phillips theorem", "Coase theorem", "Nash theorem"],
-                    "correct": "Coase theorem"
-                },
-                {
-                    "index": 5,
-                    "question": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs is known as",
-                    "options": ["Good development", "Sustainable development", "Futuristic development", "Gandhian development"],
-                    "correct": "Sustainable development"
-                },
-                {
-                    "index": 6,
-                    "question": "Club goods are",
-                    "options": ["excludable, rival in consumption", "non-excludable, rival in consumption", "excludable, non-rival in consumption", "non-excludable, non-rival in consumption"],
-                    "correct": "excludable, non-rival in consumption"
-                },
-                {
-                    "index": 7,
-                    "question": "Which of these is not a method of internalisation of externalities?",
-                    "options": ["tradable pollution permits", "charities to social causes", "command-and-control policies", "free market"],
-                    "correct": "free market"
-                },
-                {
-                    "index": 8,
-                    "question": "Private goods are",
-                    "options": ["excludable, rival in consumption", "non-excludable, rival in consumption", "excludable, non-rival in consumption", "non-excludable, non-rival in consumption"],
-                    "correct": "excludable, rival in consumption"
-                },
-                {
-                    "index": 9,
-                    "question": "A simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions is the definition of a / an",
-                    "options": ["equation", "model", "philosophy", "process dynamics"],
-                    "correct": "model"
-                },
-                {
-                    "index": 10,
-                    "question": "The impact of one person’s actions on the well-being of a bystander is",
-                    "options": ["actor-observer effect", "externality", "internality", "benefits principle"],
-                    "correct": "externality"
-                }
-            ]
+          "index": 1,
+          "question": "¿Cuál es uno de los pilares fundamentales de la definición de auditoría?",
+          "options": [
+            "Proceso objetivo",
+            "Proceso subjetivo",
+            "Calculo el riesgo tecnológico",
+            "Calculo el riesgo operacional"
+          ],
+          "correct": "Proceso objetivo"
+        },
+        {
+          "index": 2,
+          "question": "El objetivo final de la auditoría es:",
+          "options": [
+            "Generar un proceso subjetivo",
+            "Dar recomendaciones a la alta dirección",
+            "Entregar un informe",
+            "Comunicar los resultados de manera correcta"
+          ],
+          "correct": "Dar recomendaciones a la alta dirección"
+        },
+        {
+          "index": 3,
+          "question": "Cualquier sistema informático utilizado por las compañías debe:",
+          "options": [
+            "Salvaguardar la propiedad de la información",
+            "Mantener la integridad de los datos",
+            "Asegurar la confidencialidad de la información",
+            "Todas las anteriores"
+          ],
+          "correct": "Asegurar la confidencialidad de la información"
+        },
+        {
+          "index": 4,
+          "question": "¿Cuál de las siguientes afirmaciones es cierta?",
+          "options": [
+            "No hace falta un alineamiento entre el plan estratégico y el plan de las TIC al tratarse de taxonomías de planes totalmente diferentes",
+            "Las organizaciones con consideración a las TI tienen mayor retorno de inversión a medio y largo plazo que aquellas que no lo consideran ante los mismos objetivos estratégicos, de tal forma que con la madurez tecnológica se llegue a un estado de mayor retorno",
+            "El plan informático de TI se tiene que corresponder con el plan estratégico de la empresa",
+            "Ninguna afirmación es cierta"
+          ],
+          "correct": "El plan informático de TI se tiene que corresponder con el plan estratégico de la empresa"
+        },
+        {
+          "index": 5,
+          "question": "La auditoría del CPD, ¿corresponde con una auditoria de sistemas o de seguridad física?",
+          "options": [
+            "Al estar los sistemas dentro del CPD, se corresponde en exclusiva con una auditoria de sistemas",
+            "Al ser una ubicación física, estas auditorías están centradas en las auditorias de seguridad física",
+            "Es una auditoria de sistemas porque no existen las auditorias de seguridad física",
+            "Pueden ser las dos, dependiendo de los objetivos de la auditoria"
+          ],
+          "correct": "Pueden ser las dos, dependiendo de los objetivos de la auditoria"
+        },
+        {
+          "index": 6,
+          "question": "¿Cuáles son las diferencias más relevantes entre auditoría y control internos?",
+          "options": [
+            "Realizan la misma función, por lo que la diferencias simplemente es en la nomenclatura que se le dé en cada empresa",
+            "El control interno tiene mucho más peso que la auditoría interna",
+            "La auditoría interna tiene mucho más peso que control interno",
+            "La periodicidad y frecuencia de sus actuaciones"
+          ],
+          "correct": "La periodicidad y frecuencia de sus actuaciones"
+        },
+        {
+          "index": 7,
+          "question": "Las auditorías de seguridad solo engloban:",
+          "options": [
+            "Los temas tecnológicos",
+            "Los temas físicos",
+            "Los temas operacionales",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
+        },
+        {
+          "index": 8,
+          "question": "¿Cuál es uno de los objetivos principales del auditor?",
+          "options": [
+            "Elaborar un informe de situación y entregarlo",
+            "Evaluar y comprobar, en determinados momentos, los controles y procedimientos informáticos",
+            "Pedir evidencias y analizarlas",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Evaluar y comprobar, en determinados momentos, los controles y procedimientos informáticos"
+        },
+        {
+          "index": 9,
+          "question": "Se denomina auditoría informática porque:",
+          "options": [
+            "Se utilizan muchos sistemas informáticos para encontrar los resultados",
+            "Solo pueden realizarse por personas con unos estudios relacionados con la Informática",
+            "El objeto auditado son los sistemas de información",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "El objeto auditado son los sistemas de información"
+        },
+        {
+          "index": 10,
+          "question": "Cuando se encuentran hallazgos en la auditoría:",
+          "options": [
+            "Se notifica de manera inmediata cualquier hallazgo a la Alta Dirección",
+            "Se notifica de manera inmediata cualquier hallazgo a nuestro interlocutor",
+            "Se documentan formalmente y ya se notificarán",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Se documentan formalmente y ya se notificarán"
         }
-    ]
+      ]
+    }
+  ]
 }

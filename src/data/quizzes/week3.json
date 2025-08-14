@@ -1,69 +1,119 @@
 {
   "quizzes": [
-      {
-          "title": "week3",
-          "questions": [
-              {
-                  "index": 1,
-                  "question": "___ is used to identify which potential impacts are relevant to assess. (Fill in the blank)",
-                  "options": ["screening", "scoping", "reporting", "review"],
-                  "correct": "scoping"
-              },
-              {
-                  "index": 2,
-                  "question": "“the potential or capacity of a material to have adverse effects on living organisms” is",
-                  "options": ["vulnerability", "susceptibility", "sustainability", "toxicity"],
-                  "correct": "toxicity"
-              },
-              {
-                  "index": 3,
-                  "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with soil and species of deciduous forest planted again. This is an example of",
-                  "options": ["recovery", "restoration", "enhancement", "replacement"],
-                  "correct": "restoration"
-              },
-              {
-                  "index": 4,
-                  "question": "Hydrocarbons derived from incomplete burning of mineral oils are",
-                  "options": ["petrogenic hydrocarbons", "pyrogenic hydrocarbons", "biogenic hydrocarbons", "chemoenic hydrocarbons"],
-                  "correct": "pyrogenic hydrocarbons"
-              },
-              {
-                  "index": 5,
-                  "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with water and a lake was created. It is now visited by several migratory birds. This is an example of",
-                  "options": ["recovery", "restoration", "enhancement", "replacement"],
-                  "correct": "replacement"
-              },
-              {
-                  "index": 6,
-                  "question": "“the relative effect of exposure” is",
-                  "options": ["vulnerability", "sensitivity", "sustainability", "toxicity"],
-                  "correct": "sensitivity"
-              },
-              {
-                  "index": 7,
-                  "question": "___ determines which projects or developments require a full or partial impact assessment study. (Fill in the blank)",
-                  "options": ["screening", "scoping", "reporting", "review"],
-                  "correct": "screening"
-              },
-              {
-                  "index": 8,
-                  "question": "“the extent to which a chemical is available for uptake into an organism” is",
-                  "options": ["bioavailability", "bioaccumulation", "biomagnification", "bioresponse"],
-                  "correct": "bioavailability"
-              },
-              {
-                  "index": 9,
-                  "question": "Hydrocarbons derived from biological processes acting on mineral oils are",
-                  "options": ["petrogenic hydrocarbons", "pyrogenic hydrocarbons", "biogenic hydrocarbons", "chemoenic hydrocarbons"],
-                  "correct": "biogenic hydrocarbons"
-              },
-              {
-                  "index": 10,
-                  "question": "“Any changes in natural or human systems that inadvertently increase vulnerability to climatic stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead” is a definition for",
-                  "options": ["adaptation", "mitigation", "maladaptation", "malmitigation"],
-                  "correct": "maladaptation"
-              }
-          ]
-      }
+    {
+      "title": "week3",
+      "questions": [
+        {
+          "index": 1,
+          "question": "En los apuntes de la asignatura se presentan una serie de recomendaciones de buenas prácticas:",
+          "options": [
+            "Manejo de los datos con precaución.",
+            "Confiar en software de terceros en operaciones críticas.",
+            "Usar listas de errores.",
+            "Usar en el código nombres relativos de ficheros."
+          ],
+          "correct": "Manejo de los datos con precaución."
+        },
+        {
+          "index": 2,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? String user_state = \"Unknown\"; try { HttpSession user_session = Init.sessions.get(tmpUser.getUser()); user_state = user_session == null? \"Unknown\": (String)user_session.getAttribute(\"USER STATUs\"); user_state = user_state == null ? \"Available\": user_state; % }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Uso de datos invalidados.",
+            "Use after free."
+          ],
+          "correct": "Uso de datos invalidados."
+        },
+        {
+          "index": 3,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? char *stringcopy(char *str1, char *str2) { while (*str2) *str1++ = *str2++; return str2; } main(int argc, char **argv) { char *buffer = (char *)malloc(16 * sizeof(char)); stringcopy(buffer, argv[1]); printf(\"%s\\n\", buffer); }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Format string.",
+            "Use after free."
+          ],
+          "correct": "Desbordamiento de buffer."
+        },
+        {
+          "index": 4,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? struct hostent *hp; struct in_addr myaddr; char* tHost = \"trustme.com\"; myaddr.s_addr = inet_addr(ip_addr_string); hp = gethostbyaddr((char *) &myaddr, sizeof(struct in_addr), AF_INET); if (hp && !strncmp(hp->h_name, tHost, sizeof(tHost))) { trusted = true; } else { trusted = false; }",
+          "options": [
+            "Buffer overflow.",
+            "Validación límites de confianza.",
+            "Validación de entrada.",
+            "Memory leaks."
+          ],
+          "correct": "Validación de entrada."
+        },
+        {
+          "index": 5,
+          "question": "¿Es el siguiente código correcto? if (path != null && path.length() > 0 && path.length() <= MAXPATH) { fileOperation(path); }",
+          "options": [
+            "Es correcto.",
+            "Es incorrecto.",
+            "No se puede determinar.",
+            "Ninguna de las anteriores."
+          ],
+          "correct": "Es correcto."
+        },
+        {
+          "index": 6,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? u_int nresp; nresp = packet_get_int(); if (nresp > 0) { response = xmalloc(nresp*sizeof(char*)); for (i = 0; i< nresp; i++) response[i] = packet_get_string(NULL); }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Format string.",
+            "Use after free."
+          ],
+          "correct": "Integer overflows."
+        },
+        {
+          "index": 7,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? while (fgets(buf, sizeof buf, f)) { Ireply(200, buf); } void lreply(int n, char *fmt, ...) { char buf[BUFSIZ]; vsnprintf(buf, sizeof buf, fmt, ap); }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Format string",
+            "Use after free."
+          ],
+          "correct": "Format string"
+        },
+        {
+          "index": 8,
+          "question": "Al realizar una buena validación de entrada por defecto, una mejora con API de seguridad aumenta la capacidad de hacer lo siguiente:",
+          "options": [
+            "Entender y mantener la lógica de validación de entrada.",
+            "Actualizar y modificar el intento de introducir la validación coherentemente.",
+            "Aplicar una validación de entrada sensible a contexto coherentemente a toda la entrada.",
+            "Descentralizar la lógica de validación."
+          ],
+          "correct": "Descentralizar la lógica de validación."
+        },
+        {
+          "index": 9,
+          "question": "Señalar la respuesta incorrecta. En el desarrollo de aplicaciones seguras y confiables se requiere el seguimiento de unas buenas prácticas:",
+          "options": [
+            "Insistir en el proceso de revisión de código.",
+            "Formación continua.",
+            "Invocar programas en los que no se confía desde otros en los que se confía.",
+            "Manejo de los datos con precaución."
+          ],
+          "correct": "Invocar programas en los que no se confía desde otros en los que se confía."
+        },
+        {
+          "index": 10,
+          "question": "¿Cuál es la mejor forma de prevenir ataques de desbordamiento de buffer?",
+          "options": [
+            "Tener precauciones al realizar conversiones de tipo.",
+            "Utilizar un lenguaje de programación que fuerce la comprobación de tipos y de memoria",
+            "Comprobar los límites de memoria.",
+            "Comprobar las longitudes del buffer."
+          ],
+          "correct": "Utilizar un lenguaje de programación que fuerce la comprobación de tipos y de memoria"
+        }
+      ]
+    }
   ]
 }

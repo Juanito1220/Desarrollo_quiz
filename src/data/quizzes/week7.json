@@ -1,74 +1,119 @@
 {
-    "quizzes": [
+  "quizzes": [
+    {
+      "title": "week7",
+      "questions": [
         {
-            "title": "week7",
-            "questions": [
-                {
-                    "index": 1,
-                    "question": "The price of a good that prevails in the world market for that good is the definition of",
-                    "options": ["export price", "import price", "world price", "domestic price"],
-                    "correct": "world price"
-                },
-                {
-                    "index": 2,
-                    "question": "The area between the demand curve and the price is an indicator of",
-                    "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-                    "correct": "consumer surplus"
-                },
-                {
-                    "index": 3,
-                    "question": "The amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it is",
-                    "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-                    "correct": "consumer surplus"
-                },
-                {
-                    "index": 4,
-                    "question": "The amount a seller is paid for a good minus the seller’s cost of providing it is",
-                    "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-                    "correct": "producer surplus"
-                },
-                {
-                    "index": 5,
-                    "question": "Value to buyers - Cost to sellers is",
-                    "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-                    "correct": "total surplus"
-                },
-                {
-                    "index": 6,
-                    "question": "The fall in total surplus that results from a market distortion, such as a tax is",
-                    "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-                    "correct": "deadweight loss"
-                },
-                {
-                    "index": 7,
-                    "question": "Laffer's curve is the relationship between",
-                    "options": ["inflation and unemployment", "tax size and tax revenue", "producer surplus and consumer surplus", "tax size and deadweight loss"],
-                    "correct": "tax size and tax revenue"
-                },
-                {
-                    "index": 8,
-                    "question": "Imposition of tariff",
-                    "options": [
-                        "increases producer surplus and government revenue",
-                        "increases consumer surplus and government revenue",
-                        "increases producer surplus, consumer surplus and government revenue",
-                        "increases total surplus"
-                    ],
-                    "correct": "increases producer surplus and government revenue"
-                },
-                {
-                    "index": 9,
-                    "question": "The maximum amount that a buyer will pay for a good is",
-                    "options": ["willingness to pay", "market demand", "demand curve", "buyer’s surplus"],
-                    "correct": "willingness to pay"
-                },
-                {
-                    "index": 10,
-                    "question": "The area between the supply curve and the price is an indicator of",
-                    "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-                    "correct": "producer surplus"
-                }
-            ]
+          "index": 1,
+          "question": "¿Qué acciones son fundamentales en la planificación de una auditoría?",
+          "options": [
+            "Comprensión del negocio",
+            "Posibles riesgos",
+            "Metodología que se debe utilizar",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
+        },
+        {
+          "index": 2,
+          "question": "¿Cuál es la finalidad de un estándar de auditoría?",
+          "options": [
+            "Es una metodología utilizada por cada una de las empresas auditoras",
+            "Los estándares definen los requerimientos obligatorios para la auditoría de sistemas y la generación de informe",
+            "Es una guía y se tiene que seguir de manera exacta",
+            "Ninguna de anteriores"
+          ],
+          "correct": "Los estándares definen los requerimientos obligatorios para la auditoría de sistemas y la generación de informe"
+        },
+        {
+          "index": 3,
+          "question": "¿Cuántos organismos de auditoría existen?",
+          "options": [
+            "Solo uno, ISACA",
+            "Solo uno, IIA",
+            "Dos, ISACA e IIA",
+            "Existen mucho más que dos organismos"
+          ],
+          "correct": "Existen mucho más que dos organismos"
+        },
+        {
+          "index": 4,
+          "question": "¿Para qué se usan las herramientas de auditoría?",
+          "options": [
+            "Para verificar de una manera clara los medios técnicos",
+            "Para valorar registros, planes, presupuestos, programas, controles y otros aspectos que afectan a la administración y control de una organización o las áreas que la integran",
+            "Para industrializar el proceso o actuación de auditoría",
+            "No existen herramientas de auditoría como tal"
+          ],
+          "correct": "Para valorar registros, planes, presupuestos, programas, controles y otros aspectos que afectan a la administración y control de una organización o las áreas que la integran"
+        },
+        {
+          "index": 5,
+          "question": "¿Un conjunto de preguntas que deben ser contestadas oralmente por el interlocutor constituye una herramienta de auditoría?",
+          "options": [
+            "Si",
+            "No",
+            "Depende del conjunto de preguntas",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Si"
+        },
+        {
+          "index": 6,
+          "question": "¿Una herramienta de auditoría es lo mismo que una herramienta de evaluación de seguridad?",
+          "options": [
+            "Si",
+            "No",
+            "Depende de la herramienta",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "No"
+        },
+        {
+          "index": 7,
+          "question": "La metodología de auditoría debería ser establecida y aprobada por:",
+          "options": [
+            "El departamento de auditoría interna de la compañía",
+            "El grupo de seguridad de la compañía",
+            "La gerencia de auditoría",
+            "Es un documento interno y por modificaciones no es conveniente que esté aprobada"
+          ],
+          "correct": "La gerencia de auditoría"
+        },
+        {
+          "index": 8,
+          "question": "Los objetivos de auditoría se centran a menudo en:",
+          "options": [
+            "Entregar un informe de resultados",
+            "Cumplir con los requerimientos legales o regulatorios",
+            "Validar que existen controles internos para minimizar los riesgos del negocio",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Validar que existen controles internos para minimizar los riesgos del negocio"
+        },
+        {
+          "index": 9,
+          "question": "Una evidencia puede ser:",
+          "options": [
+            "Un documento Word",
+            "Un registro de un sistema",
+            "Una conversación con un interlocutor",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
+        },
+        {
+          "index": 10,
+          "question": "El informe final de auditoría:",
+          "options": [
+            "Contiene el informe final",
+            "Contiene el informe preliminar",
+            "Las respuestas A y B son correctas",
+            "Ninguna de las respuestas anteriores es correcta"
+          ],
+          "correct": "Las respuestas A y B son correctas"
         }
-    ]
+      ]
+    }
+  ]
 }

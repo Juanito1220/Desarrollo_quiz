@@ -1,79 +1,119 @@
 {
-    "quizzes": [
-      {
-        "title": "week2",
-        "questions": [
-          {
-            "index": 1,
-            "question": "Which of these is not a pillar of sustainability?",
-            "options": ["Environmental sustainability", "Economic sustainability", "Trans-boundary sustainability", "Social sustainability"],
-            "correct": "Trans-boundary sustainability"
-          },
-          {
-            "index": 2,
-            "question": "The Trinity explosion of 1945 is taken as the beginning of the",
-            "options": ["Holocene", "Cenocene", "Anthropocene", "Eocene"],
-            "correct": "Anthropocene"
-          },
-          {
-            "index": 3,
-            "question": "According to Malthusian model,",
-            "options": [
-              "Population grows in geometric progression, food supply increases in arithmetic progression",
-              "Population grows in geometric progression, food supply increases in geometric progression",
-              "Population grows in arithmetic progression, food supply increases in arithmetic progression",
-              "Population grows in arithmetic progression, food supply increases in geometric progression"
-            ],
-            "correct": "Population grows in geometric progression, food supply increases in arithmetic progression"
-          },
-          {
-            "index": 4,
-            "question": "The demographic transition sees a society move from",
-            "options": [
-              "High birth rate, low death rate to low birth rate, high death rate",
-              "Low birth rate, high death rate to low birth rate, low death rate",
-              "High birth rate, high death rate to low birth rate, low death rate",
-              "High birth rate, high death rate to low birth rate, high death rate"
-            ],
-            "correct": "High birth rate, high death rate to low birth rate, low death rate"
-          },
-          {
-            "index": 5,
-            "question": "Which of these is a pillar of sustainability?",
-            "options": ["Social sustainability", "Industrial sustainability", "Agricultural sustainability", "Trans-boundary sustainability"],
-            "correct": "Social sustainability"
-          },
-          {
-            "index": 6,
-            "question": "Which of these is a preventive check according to Malthus?",
-            "options": ["Foresight", "Vice", "Misery", "Flood"],
-            "correct": "Foresight"
-          },
-          {
-            "index": 7,
-            "question": "The quantum of human impacts can be written as",
-            "options": ["I = P + A + T", "I = P X A + T", "I = P X A X T", "I = P + A X T"],
-            "correct": "I = P X A X T"
-          },
-          {
-            "index": 8,
-            "question": "The book 'An Essay on the Principle of Population' was written by",
-            "options": ["Darwin", "Malthus", "Spencer", "Owens"],
-            "correct": "Malthus"
-          },
-          {
-            "index": 9,
-            "question": "The logistic growth equation curve is",
-            "options": ["I-shaped", "J-shaped", "S-shaped", "U-shaped"],
-            "correct": "S-shaped"
-          },
-          {
-            "index": 10,
-            "question": "Which of these is a positive check according to Malthus?",
-            "options": ["Late marriage", "War", "Celibacy", "Moral restraint"],
-            "correct": "War"
-          }
-        ]
-      }
-    ]
-  }
+  "quizzes": [
+    {
+      "title": "week2",
+      "questions": [
+        {
+          "index": 1,
+          "question": "Señala la respuesta correcta. Las perspectivas de las pruebas de seguridad basadas en el riesgo son las siguientes:",
+          "options": [
+            "Perspectiva gerencia.",
+            "Perspectiva atacante.",
+            "Perspectiva usuario.",
+            "Perspectiva del analista."
+          ],
+          "correct": "Perspectiva atacante."
+        },
+        {
+          "index": 2,
+          "question": "El principal problema de las herramientas de análisis estático es:",
+          "options": [
+            "Falsos negativos que produce.",
+            "Gran cantidad de defectos que encuentra.",
+            "Reglas de la herramienta.",
+            "Falsos positivos que produce."
+          ],
+          "correct": "Falsos negativos que produce."
+        },
+        {
+          "index": 3,
+          "question": "Señala la respuesta incorrecta. Las herramientas de análisis estático realizan varios tipos de análisis:",
+          "options": [
+            "Taint Propagation.",
+            "Análisis puntual.",
+            "Model checking.",
+            "Análisis de flujo de datos."
+          ],
+          "correct": "Análisis puntual."
+        },
+        {
+          "index": 4,
+          "question": "Los tests de penetración:",
+          "options": [
+            "Demuestran que ningún defecto existe.",
+            "Revisan el código.",
+            "El entendimiento del ambiente de ejecución y de los problemas de configuración es el mejor resultado de cualquier prueba de penetración.",
+            "Las conclusiones de seguridad son repetibles a través de equipos diferentes y varían extensamente dependiendo de la habilidad y la experiencia de los probadores."
+          ],
+          "correct": "El entendimiento del ambiente de ejecución y de los problemas de configuración es el mejor resultado de cualquier prueba de penetración."
+        },
+        {
+          "index": 5,
+          "question": "A la hora de realizar la distribución y despliegue del software desarrollado es recomendable el realizar las siguientes buenas prácticas:",
+          "options": [
+            "Distribuir el software con una configuración por defecto segura y lo más restrictiva posible.",
+            "Proporcionar una herramienta de instalación automática.",
+            "Cambiar los valores de configuración predeterminados durante el desarrollo.",
+            "Todas las anteriores."
+          ],
+          "correct": "Todas las anteriores."
+        },
+        {
+          "index": 6,
+          "question": "Señala la respuesta incorrecta. Los objetivos de las pruebas de seguridad basadas en el riesgo son:",
+          "options": [
+            "Verificarla bajo en su entorno de producción.",
+            "Verificar la capacidad de supervivencia del software ante la aparición de anomalías, errores y su manejo de estas mediante excepciones que minimicen el alcance e impacto de los daños que puedan resultar de los ataques.",
+            "Verificar la falta de defectos y debilidades explotables.",
+            "Verificar la fiabilidad del software, en términos de comportamiento seguro y cambios de estado confiables."
+          ],
+          "correct": "Verificarla bajo en su entorno de producción."
+        },
+        {
+          "index": 7,
+          "question": "Señalar la respuesta incorrecta. El análisis estático de código fuente es adecuado para identificar problemas de seguridad por ciertas razones:",
+          "options": [
+            "Las herramientas de análisis estático comprueban el código a fondo y coherentemente, sin ninguna tendencia, que a veces los programadores según su criterio podrían tener sobre algunas partes del código que pudieran ser más «interesantes» desde una perspectiva de seguridad o partes del código que pudieran ser más fáciles para realizar las pruebas dinámicas.",
+            "Examinando el código en sí mismo, las herramientas de análisis estático a menudo pueden indicar la causa de origen de un problema de seguridad, no solamente uno de sus síntomas.",
+            "Cuando un investigador de seguridad descubre una nueva variedad de ataque, las herramientas de análisis estático no ayudan a comprobar de nuevo una gran cantidad de código para ver dónde el nuevo ataque podría tener éxito.",
+            "El análisis estático puede encontrar errores tempranamente en el desarrollo, aún antes de que el programa sea ejecutado por primera vez."
+          ],
+          "correct": "Cuando un investigador de seguridad descubre una nueva variedad de ataque, las herramientas de análisis estático no ayudan a comprobar de nuevo una gran cantidad de código para ver dónde el nuevo ataque podría tener éxito."
+        },
+        {
+          "index": 8,
+          "question": "La principal misión de los tests de penetración es:",
+          "options": [
+            "Revisar estáticamente el código del sistema.",
+            "Comprobar las vulnerabilidades del software.",
+            "Verificar cómo el software se comporta y resiste ante diferentes tipos de ataque.",
+            "Probar la seguridad de la arquitectura del software."
+          ],
+          "correct": "Verificar cómo el software se comporta y resiste ante diferentes tipos de ataque."
+        },
+        {
+          "index": 9,
+          "question": "Indicar la respuesta incorrecta. Los factores principales prácticos que determinan la utilidad de una herramienta de análisis estático son:",
+          "options": [
+            "El equilibrio que la herramienta hace entre la precisión, la profundidad y la escalabilidad.",
+            "Porcentaje de falsos positivos de la herramienta.",
+            "Las características de la herramienta para hacerla fácil de usar.",
+            "La capacidad de la herramienta para comprender el programa que se analiza."
+          ],
+          "correct": "Porcentaje de falsos positivos de la herramienta."
+        },
+        {
+          "index": 10,
+          "question": "Una herramienta de análisis de código reporta que existe una vulnerabilidad de inyección SQL. Sin embargo, después de la correspondiente verificación, se comprueba que en realidad no existe tal vulnerabilidad. ¿Qué tipo de limitación de las herramientas de análisis de código se ha expuesto?",
+          "options": [
+            "Un falso positivo.",
+            "Un falso negativo.",
+            "Una vulnerabilidad específica de un lenguaje de programación.",
+            "Ninguna de las anteriores."
+          ],
+          "correct": "Un falso positivo."
+        }
+      ]
+    }
+  ]
+}

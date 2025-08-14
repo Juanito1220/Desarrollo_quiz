@@ -1,69 +1,119 @@
 {
-    "quizzes": [
+  "quizzes": [
+    {
+      "title": "week6",
+      "questions": [
         {
-            "title": "week6",
-            "questions": [
-                {
-                    "index": 1,
-                    "question": "The claim that, other things being equal, the quantity demanded of a good falls when the price of the good rises is a statement of",
-                    "options": ["law of demand", "law of supply", "law of quantity demanded", "law of quantity supplied"],
-                    "correct": "law of demand"
-                },
-                {
-                    "index": 2,
-                    "question": "A legal maximum on the price at which a good can be sold is",
-                    "options": ["price ceiling", "price floor", "selling ceiling", "selling floor"],
-                    "correct": "price ceiling"
-                },
-                {
-                    "index": 3,
-                    "question": "A good for which, other things being equal, an increase in income leads to a decrease in demand is",
-                    "options": ["normal good", "inferior good", "Giffen good", "common good"],
-                    "correct": "inferior good"
-                },
-                {
-                    "index": 4,
-                    "question": "A table that shows the relationship between the price of a good and the quantity supplied is",
-                    "options": ["demand table", "demand schedule", "supply table", "supply schedule"],
-                    "correct": "supply schedule"
-                },
-                {
-                    "index": 5,
-                    "question": "A graph of the relationship between the price of a good and the quantity demanded is",
-                    "options": ["demand curve", "supply curve", "Laffer's curve", "Phillips curve"],
-                    "correct": "demand curve"
-                },
-                {
-                    "index": 6,
-                    "question": "A table that shows the relationship between the price of a good and the quantity demanded is",
-                    "options": ["demand table", "demand schedule", "supply table", "supply schedule"],
-                    "correct": "demand schedule"
-                },
-                {
-                    "index": 7,
-                    "question": "A measure of how much the quantity demanded of one good responds to a change in the price of another good, computed as the percentage change in quantity demanded of the first good divided by the percentage change in price of the second good is",
-                    "options": ["price elasticity of demand", "income elasticity of demand", "cross-price elasticity of demand", "price elasticity of supply"],
-                    "correct": "cross-price elasticity of demand"
-                },
-                {
-                    "index": 8,
-                    "question": "Rice and wheat are",
-                    "options": ["substitutes", "complements", "club goods", "public goods"],
-                    "correct": "substitutes"
-                },
-                {
-                    "index": 9,
-                    "question": "A good for which, other things being equal, an increase in income leads to an increase in demand is",
-                    "options": ["normal good", "inferior good", "Giffen good", "common good"],
-                    "correct": "normal good"
-                },
-                {
-                    "index": 10,
-                    "question": "A measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity demanded divided by the percentage change in price is",
-                    "options": ["price elasticity of demand", "income elasticity of demand", "cross-price elasticity of demand", "price elasticity of supply"],
-                    "correct": "price elasticity of demand"
-                }
-            ]
+          "index": 1,
+          "question": "Es fundamental que un auditor de sistemas de información:",
+          "options": [
+            "Tenga conocimiento de la legislación aplicable en la compañía",
+            "Tenga conocimiento de los objetivos de la compañía",
+            "Tenga conocimiento de los sistemas de información",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
+        },
+        {
+          "index": 2,
+          "question": "¿Dónde se debe situar un departamento de auditoría interna dentro de una compañía?",
+          "options": [
+            "Su situación no es relevante",
+            "Siempre depende de Tecnología",
+            "Depende de la empresa, pero lo más recomendable es que dependa de Seguridad",
+            "En una ubicación jerárquica en la que pueda realizar sus actuaciones de manera independiente"
+          ],
+          "correct": "En una ubicación jerárquica en la que pueda realizar sus actuaciones de manera independiente"
+        },
+        {
+          "index": 3,
+          "question": "En relación con la clasificación de controles internos, según su naturaleza, podemos afirmar que:",
+          "options": [
+            "Son normalmente detectivos, correctivos y preventivos. En ocasiones, se incluyen los controles alternativos",
+            "Son voluntarios, obligatorios, manuales y automáticos",
+            "Son voluntarios, obligatorios, manuales, automáticos, preventivos, detectivos y correctivos",
+            "Son controles generales, de aplicación, de área y legales"
+          ],
+          "correct": "Son normalmente detectivos, correctivos y preventivos. En ocasiones, se incluyen los controles alternativos"
+        },
+        {
+          "index": 4,
+          "question": "En relación con la clasificación de controles internos, según su naturaleza, podemos afirmar que:",
+          "options": [
+            "Los controles detectivos actúan sobre la causa de los riesgos con el fin de disminuir su probabilidad de ocurrencia",
+            "Los controles preventivos se diseñan para descubrir un evento, irregularidad o resultado no previsto, alertan sobre la presencia de riesgos y permiten tomar medidas inmediatas, pudiendo ser manuales o automáticos",
+            "Las opciones A y B son correctas",
+            "Las opciones A y B son incorrectas"
+          ],
+          "correct": "Las opciones A y B son incorrectas"
+        },
+        {
+          "index": 5,
+          "question": "Los controles generales se clasifican en:",
+          "options": [
+            "Controles de organización y operación, controles de tratamiento de datos, así como controles de hardware y software de sistemas",
+            "Controles de entrada de datos, controles de tratamiento de datos y controles de salida de datos",
+            "Controles de organización y operación, controles de desarrollo de sistemas y documentación, así como controles de hardware y software de sistemas",
+            "Ninguna de las anteriores es cierta"
+          ],
+          "correct": "Controles de organización y operación, controles de desarrollo de sistemas y documentación, así como controles de hardware y software de sistemas"
+        },
+        {
+          "index": 6,
+          "question": "¿Se puede considerar un control como señuelo?",
+          "options": [
+            "No, un control siempre debe tener un objetivo claro",
+            "No, los controles tienen que ser reales",
+            "Sí, se utilizan para desviar la atención de un potencial atacante",
+            "Ninguna de las respuestas anteriores es correcta"
+          ],
+          "correct": "Sí, se utilizan para desviar la atención de un potencial atacante"
+        },
+        {
+          "index": 7,
+          "question": "Dentro de controles generales, podemos afirmar que no son controles de organización y operación:",
+          "options": [
+            "Seguridad lógica y física, controles de procesamiento y control de presupuestos",
+            "Procedimientos, separación de entornos y estándares y nomenclatura",
+            "Controles de segregación de funciones",
+            "Todos los anteriores son controles de organización y operación"
+          ],
+          "correct": "Seguridad lógica y física, controles de procesamiento y control de presupuestos"
+        },
+        {
+          "index": 8,
+          "question": "Los controles deben:",
+          "options": [
+            "Estar implantados",
+            "Cubrir los objetivos por los que fueron implantados",
+            "Ser efectivos",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
+        },
+        {
+          "index": 9,
+          "question": "En relación con los controles de organización y operación, para una segregación de funciones adecuada:",
+          "options": [
+            "Una misma persona no puede realizar funciones determinadas en un mismo entorno",
+            "Una misma persona no puede realizar funciones determinadas en un entorno y en otro",
+            "Las opciones A y B son correctas",
+            "Las opciones A y B son incorrectas"
+          ],
+          "correct": "Una misma persona no puede realizar funciones determinadas en un entorno y en otro"
+        },
+        {
+          "index": 10,
+          "question": "Los controles de hardware y software de sistemas:",
+          "options": [
+            "Preservan las tres dimensiones de la información: confidencialidad, disponibilidad y seguridad",
+            "Preservan las tres dimensiones de la información: fiabilidad, disponibilidad y confidencialidad",
+            "Preservan dos de las tres dimensiones de la información: integridad, disponibilidad y confidencialidad",
+            "Ninguna de las anteriores es correcta"
+          ],
+          "correct": "Preservan dos de las tres dimensiones de la información: integridad, disponibilidad y confidencialidad"
         }
-    ]
+      ]
+    }
+  ]
 }
