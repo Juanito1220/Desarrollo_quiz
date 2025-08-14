@@ -5,73 +5,113 @@
       "questions": [
         {
           "index": 1,
-          "question": "In the word root for conservation, con stands for",
-          "options": ["together", "to keep", "house", "manage"],
-          "correct": "together"
+          "question": "¿Qué incluye la seguridad del software?",
+          "options": [
+            "Patrones de codificación.",
+            "Principios de diseño seguro.",
+            "Casos de uso.",
+            "Buenas prácticas de codificación."
+          ],
+          "correct": "Principios de diseño seguro."
         },
         {
           "index": 2,
-          "question": "“The ability of a single economic actor (or small group of actors) to have a substantial influence on market prices” is known as",
-          "options": ["price power", "market power", "externality", "economic power"],
-          "correct": "market power"
+          "question": "Los patrones de ataque en la fase de diseño y arquitectura:",
+          "options": [
+            "Ayudan a definir el comportamiento del sistema para prevenir o reaccionar ante otros ataques.",
+            "Específicas debilidades no aprovechadas por los ataques, orientando qué técnicas o prácticas de seguridad de desarrollo evitan estas deficiencias.",
+            "Proporcionan el contexto de las amenazas al que el software se va a enfrentar.",
+            "Proporcionan ejemplos de ataques que no aprovechan las vulnerabilidades de la arquitectura elegida."
+          ],
+          "correct": "Proporcionan el contexto de las amenazas al que el software se va a enfrentar."
         },
         {
           "index": 3,
-          "question": "“An economy that allocates resources through the decentralised decisions of many firms and households as they interact in markets for goods and services” is a / an",
-          "options": ["urban economy", "rural economy", "planned economy", "market economy"],
-          "correct": "market economy"
+          "question": "Respecto a los casos de uso de seguridad:",
+          "options": [
+            "Analizan y especifican los requisitos de seguridad funcionales.",
+            "Analizan y especifican las amenazas a la seguridad.",
+            "Análisis de vulnerabilidades de activos y amenazas.",
+            "Análisis forense de las actividades maliciosas."
+          ],
+          "correct": "Analizan y especifican los requisitos de seguridad funcionales."
         },
         {
           "index": 4,
-          "question": "In the word root for conservation, servare stands for",
-          "options": ["together", "to keep", "house", "manage"],
-          "correct": "to keep"
+          "question": "Respecto a la ingeniería de requisitos de seguridad, esta NO incluye:",
+          "options": [
+            "Requisitos de software seguro. Requisitos que afectan directamente a la probabilidad de que el software sea seguro.",
+            "Requisitos servicios de seguridad.",
+            "Los requerimientos no funcionales de seguridad deben especificar: restricciones que el software implementará para poder evitar ataques.",
+            "Los requerimientos no funcionales de seguridad deben especificar: los controles y normas que rigen los procesos de desarrollo, implementación y operación del software."
+          ],
+          "correct": "Los requerimientos no funcionales de seguridad deben especificar: los controles y normas que rigen los procesos de desarrollo, implementación y operación del software."
         },
         {
           "index": 5,
-          "question": "Which of these is true?",
+          "question": "¿Cuál de estas opciones NO forma parte de los tres pasos básicos del análisis de riesgo arquitectónico?",
           "options": [
-            "Wants are unlimited, resources are unlimited",
-            "Wants are limited, resources are limited",
-            "Wants are unlimited, resources are limited",
-            "Wants are limited, resources are unlimited"
+            "Análisis de ambigüedad.",
+            "Análisis de resistencia al ataque.",
+            "Análisis de robustez.",
+            "Análisis de debilidad."
           ],
-          "correct": "Wants are unlimited, resources are limited"
+          "correct": "Análisis de robustez."
         },
         {
           "index": 6,
-          "question": "“An increase in the overall level of prices in the economy” is",
-          "options": ["inflation", "deflation", "stagflation", "priceflation"],
-          "correct": "inflation"
+          "question": "¿Cuál de las siguientes respuestas es una de las perspectivas que el equipo de desarrollo tiene que adoptar a la hora de diseñar unas pruebas de seguridad basadas en el riesgo?",
+          "options": [
+            "Perspectiva gerencia.",
+            "Perspectiva atacante.",
+            "Perspectiva usuario.",
+            "Perspectiva del analista."
+          ],
+          "correct": "Perspectiva atacante."
         },
         {
           "index": 7,
-          "question": "Phillips curve shows the relation between",
+          "question": "¿Cuál de estas opciones NO es una razón principal para añadir prácticas de seguridad en el SDLC?",
           "options": [
-            "profit and loss",
-            "marked price and selling price",
-            "inflation rate and unemployment rate",
-            "electricity consumption and heat output"
+            "Mayor probabilidad de capturar adecuadamente los requisitos.",
+            "Mayor probabilidad de tomar decisiones de diseño correctas y no cometer errores involuntarios de codificación.",
+            "Dificultad de los agentes maliciosos para explotar vulnerabilidades y debilidades del software.",
+            "Mayor probabilidad de que el software funcione correctamente."
           ],
-          "correct": "inflation rate and unemployment rate"
+          "correct": "Mayor probabilidad de que el software funcione correctamente."
         },
         {
           "index": 8,
-          "question": "In the word root for Economics, oikos stands for",
-          "options": ["together", "to keep", "house", "manage"],
-          "correct": "house"
+          "question": "Un método sistemático para caracterizar la seguridad de un sistema, basado en la combinación y dependencias de las vulnerabilidades de este, que un atacante puede aprovechar para comprometerlo:",
+          "options": [
+            "Método de ataque.",
+            "Patrones de ataque.",
+            "Árboles de ataque.",
+            "Modelo de ataque."
+          ],
+          "correct": "Árboles de ataque."
         },
         {
           "index": 9,
-          "question": "Most of rational thinking occurs",
-          "options": ["before the margin", "at the margin", "after the margin", "none of these"],
-          "correct": "at the margin"
+          "question": "Señalar la respuesta incorrecta sobre los casos de abuso:",
+          "options": [
+            "Los casos de abuso constituyen unas buenas prácticas para la obtención de los requisitos funcionales de una aplicación, referidos a actividades que debería realizar el sistema.",
+            "Un caso de abuso es la inversa de un caso de uso, es decir, una función que el sistema no debe permitir o una secuencia completa de acciones que resulta en una pérdida para la organización.",
+            "Los casos de abuso, o casos de mal uso, son un instrumento que puede ayudar a pensar de la misma forma que lo hacen los atacantes.",
+            "Establecen la base para otros casos de uso de seguridad que proporcionan los medios para contrarrestar o mitigar las amenazas capturadas en los mismos y una manera altamente reutilizable de organizar, analizar y especificar los requisitos de seguridad."
+          ],
+          "correct": "Los casos de abuso constituyen unas buenas prácticas para la obtención de los requisitos funcionales de una aplicación, referidos a actividades que debería realizar el sistema."
         },
         {
           "index": 10,
-          "question": "Input costs that do not require an outlay of money are",
-          "options": ["explicit costs", "implicit costs", "opportunity costs", "phantom costs"],
-          "correct": "implicit costs"
+          "question": "Indica en qué fase del ciclo de vida de desarrollo del software NO es aplicable el análisis de riesgo arquitectónico:",
+          "options": [
+            "Especificación de requisitos.",
+            "Diseño del sistema.",
+            "Codificación.",
+            "Operación."
+          ],
+          "correct": "Codificación."
         }
       ]
     }
