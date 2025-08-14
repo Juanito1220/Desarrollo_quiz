@@ -15,19 +15,15 @@ export function ConservationWeeks() {
 }
 
 export const quizzes = [
-  { title: "Week 0", description: "Practice/Intro Quiz", link: "week0" },
-  { title: "Week 1", description: "What is Economics?", link: "week1" },
-  { title: "Week 2", description: "What is Conservation?", link: "week2" },
-  { title: "Week 3", description: "Modern Impacts Necessitating Conservation", link: "week3" },
-  { title: "Week 4", description: "Threats To Wildlife", link: "week4" },
-  { title: "Week 5", description: "How Can Economics Help?", link: "week5" },
-  { title: "Week 6", description: "Markets - Places Where Economics Works", link: "week6" },
-  { title: "Week 7", description: "Markets, Welfare And Conservation", link: "week7" },
-  { title: "Week 8", description: "Public Sector And Conservation", link: "week8" },
-  { title: "Week 9", description: "Industrial Organization And Conservation", link: "week9" },
-  { title: "Week 10", description: "Labour Market Economics And Conservation", link: "week10" },
-  { title: "Week 11", description: "Practical Issues In Economics And Conservation", link: "week11" },
-  { title: "Week 12", description: "Case Studies", link: "week12" },
-  { title: "Extras", description: "Some Extra Questions Relvant for The Exam", link: "extras" },
-  { title: "Final Exam", description: 'Take the conmbined exam, with total 150+ questions', link: "finalexam" } 
+  { title: "Tema 1", description: "Practice/Intro Quiz", link: "week0" },
+  { title: "Tema 2", description: "What is Economics?", link: "week1" },
+  { title: "Tema 3", description: "What is Conservation?", link: "week2" },
+  { title: "Tema 4", description: "Modern Impacts Necessitating Conservation", link: "week3" },
+  { title: "Tema 5", description: "Threats To Wildlife", link: "week4" },
+  { title: "Tema 6", description: "How Can Economics Help?", link: "week5" },
+  { title: "Tema 7", description: "Markets - Places Where Economics Works", link: "week6" },
+  { title: "Tema 8", description: "Markets, Welfare And Conservation", link: "week7" },
+  { title: "Tema 9", description: "Public Sector And Conservation", link: "week8" },
+  { title: "Tema 10", description: "Industrial Organization And Conservation", link: "week9" },
+  { title: "Examen Completo", description: 'Take the conmbined exam, with total 150+ questions', link: "finalexam" } 
 ];
