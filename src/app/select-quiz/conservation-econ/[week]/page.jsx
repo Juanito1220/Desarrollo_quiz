@@ -97,7 +97,7 @@ export default function QuizPage() {
   return (
     <div className="max-w-3xl mx-auto p-6 mt-2">
       <h1 className="text-2xl font-bold mb-6 text-center">
-        Quiz For {week === "finalexam" ? "Final Exam" : week.replace("week", "Week").charAt(0).toUpperCase() + week.slice(1)}
+        Evaluación {week === "finalexam"? "Final Exam": "Tema " + (parseInt(week.replace("week", ""), 10) + 1)}
       </h1>
 
       {isLoading ? (
@@ -106,7 +106,7 @@ export default function QuizPage() {
         <form onSubmit={handleSubmit} className="space-y-6">
           {questions.map((q, index) => (
             <div key={index} className="p-4 border rounded-lg">
-              <h2 className="font-semibold mb-4">Q{index + 1}. {q.question}</h2>
+              <h2 className="font-semibold mb-4">Pregunta{index + 1}. {q.question}</h2>
               
               {/* Show message for unanswered questions after submission */}
               {results && results[index] === "unanswered" && (
