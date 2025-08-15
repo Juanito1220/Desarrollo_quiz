@@ -82,14 +82,14 @@
         },
         {
           "index": 8,
-          "question": "Señala la incorrecta. Errores comunes con funciones de strings limitadas:",
+          "question": "Señala la incorrecta. Las funciones de strings limitadas son más seguras que las funciones ilimitadas, pero hay todavía mucho margen para el error. Los fallos de programación más comunes que se pueden cometer con las funciones de string limitadas:",
           "options": [
-            "El buffer de destino se desborda por depender del tamaño de la fuente.",
-            "El buffer de destino se desborda por usar el tamaño total del buffer.",
+            "El buffer de destino se desborda porque el límite depende del tamaño de los datos de la fuente, más bien que del tamaño del buffer de destino.",
+            "El buffer de destino se desborda porque su límite se especifica como el tamaño total del buffer, más bien que como el espacio restante.",
             "El buffer de destino se deja sin terminador nulo.",
-            "El programa escribe a una posición arbitraria por terminar con carácter nulo."
+            "El programa escribe a una posición arbitraria en la memoria porque el buffer de destino se termina con el carácter nulo."
           ],
-          "correct": "El programa escribe a una posición arbitraria por terminar con carácter nulo."
+          "correct": "El programa escribe a una posición arbitraria en la memoria porque el buffer de destino se termina con el carácter nulo."
         },
         {
           "index": 9,
