@@ -49,7 +49,7 @@
         },
         {
           "index": 5,
-          "question": "Señala la respuesta incorrecta. Los ataques de escalada de privilegios pueden tener como objetivo:",
+          "question": "Señala la respuesta incorrecta.  Los ataques de escalada de privilegios pueden tener como objetivo cualquier variedad de vulnerabilidades de software, que son principalmente un riesgo en programas privilegiados:",
           "options": [
             "Archivos de sistema",
             "Condiciones de carrera de acceso a archivos",
@@ -71,7 +71,7 @@
         },
         {
           "index": 7,
-          "question": "Revisando el programa con lista de caracteres prohibidos, ¿qué hace la función?",
+          "question": "Señala la respuesta correcta. Revisando el programa ¿cuál de las siguientes preguntas describe mejor lo que está haciendo la función? void aFunction(char *buf) {static char BANNED CHARACTERS[] = {'>, '<', ! int 1 = strlen(buf);int i;for(i = 0; i <l; i++) {int j;int k = sizeof(BANNED_CHARACTERS)/sizeof(char);for(j = 0; j<k; j++) {if(buf[i] == BANNED_CHARACTERS[j])buf[i] = '';}}",
           "options": [
             "Asegurar la no violabilidad espacial de la memoria",
             "Validar la entrada mediante lista blanca",
