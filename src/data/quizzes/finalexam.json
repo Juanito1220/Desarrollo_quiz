@@ -3,1061 +3,1112 @@
       {
         "title": "finalexam",
         "questions": [
-          {
-            "index": 1,
-            "question": "The ability to produce a good at a lower opportunity cost than another producer is a definition of",
-            "options": ["Real advantage", "Monetary advantage", "Comparative advantage", "Opportunity advantage"],
-            "correct": "Comparative advantage"
-          },
-          {
-            "index": 2,
-            "question": "Fluctuations in economic activity, such as employment and production, are referred to as",
-            "options": ["Business cycles", "Economic cycles", "Production cycles", "Market cycles"],
-            "correct": "Business cycles"
-          },
-          {
-            "index": 3,
-            "question": "The property of society getting the most it can from its scarce resources is a definition of",
-            "options": ["Efficiency", "Equality", "Prudence", "Sustainability"],
-            "correct": "Efficiency"
-          },
-          {
-            "index": 4,
-            "question": "In the word root for Economics, 'nemein' stands for",
-            "options": ["Together", "To keep", "House", "Manage"],
-            "correct": "Manage"
-          },
-          {
-            "index": 5,
-            "question": "Whatever must be given up to obtain some item is a definition of",
-            "options": ["Explicit costs", "Implicit costs", "Opportunity costs", "Phantom costs"],
-            "correct": "Opportunity costs"
-          },
-          {
-            "index": 6,
-            "question": "Rational decision making compares",
-            "options": ["Average benefits to average costs", "Average benefits to marginal costs", "Marginal benefits to average costs", "Marginal benefits to marginal costs"],
-            "correct": "Marginal benefits to marginal costs"
-          },
-          {
-            "index": 7,
-            "question": "Something that induces a person to act is a definition of",
-            "options": ["Enticement", "Attraction", "Incentive", "Occupation"],
-            "correct": "Incentive"
-          },
-          {
-            "index": 8,
-            "question": "Input costs that require an outlay of money are",
-            "options": ["Explicit costs", "Implicit costs", "Opportunity costs", "Phantom costs"],
-            "correct": "Explicit costs"
-          },
-          {
-            "index": 9,
-            "question": "The property of distributing economic prosperity uniformly among the members of society is a definition of",
-            "options": ["Efficiency", "Equality", "Prudence", "Sustainability"],
-            "correct": "Equality"
-          },
-          {
-            "index": 10,
-            "question": "The ability of an individual to own and exercise control over scarce resources is known as",
-            "options": ["Property rights", "Resource rights", "Individual rights", "Social rights"],
-            "correct": "Property rights"
-          },
-          {
-            "index": 11,
-            "question": "In the word root for conservation, con stands for",
-            "options": ["together", "to keep", "house", "manage"],
-            "correct": "together"
-          },
-          {
-            "index": 12,
-            "question": "“The ability of a single economic actor (or small group of actors) to have a substantial influence on market prices” is known as",
-            "options": ["price power", "market power", "externality", "economic power"],
-            "correct": "market power"
-          },
-          {
-            "index": 13,
-            "question": "“An economy that allocates resources through the decentralised decisions of many firms and households as they interact in markets for goods and services” is a / an",
-            "options": ["urban economy", "rural economy", "planned economy", "market economy"],
-            "correct": "market economy"
-          },
-          {
-            "index": 14,
-            "question": "In the word root for conservation, servare stands for",
-            "options": ["together", "to keep", "house", "manage"],
-            "correct": "to keep"
-          },
-          {
-            "index": 15,
-            "question": "Which of these is true?",
-            "options": [
-              "Wants are unlimited, resources are unlimited",
-              "Wants are limited, resources are limited",
-              "Wants are unlimited, resources are limited",
-              "Wants are limited, resources are unlimited"
-            ],
-            "correct": "Wants are unlimited, resources are limited"
-          },
-          {
-            "index": 16,
-            "question": "“An increase in the overall level of prices in the economy” is",
-            "options": ["inflation", "deflation", "stagflation", "priceflation"],
-            "correct": "inflation"
-          },
-          {
-            "index": 17,
-            "question": "Phillips curve shows the relation between",
-            "options": [
-              "profit and loss",
-              "marked price and selling price",
-              "inflation rate and unemployment rate",
-              "electricity consumption and heat output"
-            ],
-            "correct": "inflation rate and unemployment rate"
-          },
-          {
-            "index": 18,
-            "question": "In the word root for Economics, oikos stands for",
-            "options": ["together", "to keep", "house", "manage"],
-            "correct": "house"
-          },
-          {
-            "index": 19,
-            "question": "Most of rational thinking occurs",
-            "options": ["before the margin", "at the margin", "after the margin", "none of these"],
-            "correct": "at the margin"
-          },
-          {
-            "index": 20,
-            "question": "Input costs that do not require an outlay of money are",
-            "options": ["explicit costs", "implicit costs", "opportunity costs", "phantom costs"],
-            "correct": "implicit costs"
-          },
-          {
-            "index": 21,
-            "question": "Which of these is not a pillar of sustainability?",
-            "options": ["Environmental sustainability", "Economic sustainability", "Trans-boundary sustainability", "Social sustainability"],
-            "correct": "Trans-boundary sustainability"
-          },
-          {
-            "index": 22,
-            "question": "The Trinity explosion of 1945 is taken as the beginning of the",
-            "options": ["Holocene", "Cenocene", "Anthropocene", "Eocene"],
-            "correct": "Anthropocene"
-          },
-          {
-            "index": 23,
-            "question": "According to Malthusian model,",
-            "options": [
-              "Population grows in geometric progression, food supply increases in arithmetic progression",
-              "Population grows in geometric progression, food supply increases in geometric progression",
-              "Population grows in arithmetic progression, food supply increases in arithmetic progression",
-              "Population grows in arithmetic progression, food supply increases in geometric progression"
-            ],
-            "correct": "Population grows in geometric progression, food supply increases in arithmetic progression"
-          },
-          {
-            "index": 24,
-            "question": "The demographic transition sees a society move from",
-            "options": [
-              "High birth rate, low death rate to low birth rate, high death rate",
-              "Low birth rate, high death rate to low birth rate, low death rate",
-              "High birth rate, high death rate to low birth rate, low death rate",
-              "High birth rate, high death rate to low birth rate, high death rate"
-            ],
-            "correct": "High birth rate, high death rate to low birth rate, low death rate"
-          },
-          {
-            "index": 25,
-            "question": "Which of these is a pillar of sustainability?",
-            "options": ["Social sustainability", "Industrial sustainability", "Agricultural sustainability", "Trans-boundary sustainability"],
-            "correct": "Social sustainability"
-          },
-          {
-            "index": 26,
-            "question": "Which of these is a preventive check according to Malthus?",
-            "options": ["Foresight", "Vice", "Misery", "Flood"],
-            "correct": "Foresight"
-          },
-          {
-            "index": 27,
-            "question": "The quantum of human impacts can be written as",
-            "options": ["I = P + A + T", "I = P X A + T", "I = P X A X T", "I = P + A X T"],
-            "correct": "I = P X A X T"
-          },
-          {
-            "index": 28,
-            "question": "The book 'An Essay on the Principle of Population' was written by",
-            "options": ["Darwin", "Malthus", "Spencer", "Owens"],
-            "correct": "Malthus"
-          },
-          {
-            "index": 29,
-            "question": "The logistic growth equation curve is",
-            "options": ["I-shaped", "J-shaped", "S-shaped", "U-shaped"],
-            "correct": "S-shaped"
-          },
-          {
-            "index": 30,
-            "question": "Which of these is a positive check according to Malthus?",
-            "options": ["Late marriage", "War", "Celibacy", "Moral restraint"],
-            "correct": "War"
-          },
-          {
-            "index": 31,
-            "question": "___ is used to identify which potential impacts are relevant to assess. (Fill in the blank)",
-            "options": ["screening", "scoping", "reporting", "review"],
-            "correct": "scoping"
+         {
+          "index": 1,
+          "question": "Indica cuál de las siguientes respuestas no es una causa de aparición de vulnerabilidades en el software:",
+          "options": [
+            "No realización de pruebas de seguridad basadas en riesgo.",
+            "Cambios de requisitos del proyecto durante la etapa de especificación.",
+            "Mezcla de código proveniente de varios orígenes.",
+            "Tamaño excesivo y complejidad de las aplicaciones."
+          ],
+          "correct": "Cambios de requisitos del proyecto durante la etapa de especificación."
         },
         {
-            "index": 32,
-            "question": "“the potential or capacity of a material to have adverse effects on living organisms” is",
-            "options": ["vulnerability", "susceptibility", "sustainability", "toxicity"],
-            "correct": "toxicity"
+          "index": 2,
+          "question": "Indica la respuesta incorrecta respecto al ataque a las aplicaciones durante las diferentes fases de su ciclo de vida:",
+          "options": [
+            "Distribución e instalación. Ocurre cuando el instalador del software bastiona la plataforma en la que lo instala.",
+            "Desarrollo. Un desarrollador puede alterar de forma intencionada o no el software bajo desarrollo.",
+            "Operación. Cualquier software que se ejecuta en una plataforma conectada a la red tiene sus vulnerabilidades expuestas durante su funcionamiento.",
+            "Mantenimiento o sostenimiento. No publicación de parches de las vulnerabilidades detectadas en el momento oportuno o incluso introducción de código malicioso por el personal de mantenimiento en las versiones actualizadas del código."
+          ],
+          "correct": "Distribución e instalación. Ocurre cuando el instalador del software bastiona la plataforma en la que lo instala."
         },
         {
-            "index": 33,
-            "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with soil and species of deciduous forest planted again. This is an example of",
-            "options": ["recovery", "restoration", "enhancement", "replacement"],
-            "correct": "restoration"
+          "index": 3,
+          "question": "Señala la respuesta incorrecta. Las fuentes de las vulnerabilidades se deben a:",
+          "options": [
+            "Fallos provenientes de la codificación de los diseños del software realizados.",
+            "Fallos provenientes de la cadena de distribución del software.",
+            "Los sistemas hardware o software contienen frecuentemente fallos de diseño que pueden ser utilizados para realizar un ataque.",
+            "La instalación de software por defecto implica la instalación de servicios que no se usan, pero que pueden presentar debilidades que comprometan la máquina."
+          ],
+          "correct": "Fallos provenientes de la cadena de distribución del software."
         },
         {
-            "index": 34,
-            "question": "Hydrocarbons derived from incomplete burning of mineral oils are",
-            "options": ["petrogenic hydrocarbons", "pyrogenic hydrocarbons", "biogenic hydrocarbons", "chemoenic hydrocarbons"],
-            "correct": "pyrogenic hydrocarbons"
+          "index": 4,
+          "question": "Señala la respuesta incorrecta. Entre las técnicas y mecanismos para salvaguardar la integridad tenemos:",
+          "options": [
+            "Identificación del modo de transmisión y procesado de los datos por la aplicación.",
+            "Uso de arquitecturas de alta disponibilidad, con diferentes tipos de redundancias.",
+            "Uso de firma digital.",
+            "Estricta gestión de sesiones."
+          ],
+          "correct": "Uso de arquitecturas de alta disponibilidad, con diferentes tipos de redundancias."
         },
         {
-            "index": 35,
-            "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with water and a lake was created. It is now visited by several migratory birds. This is an example of",
-            "options": ["recovery", "restoration", "enhancement", "replacement"],
-            "correct": "replacement"
+          "index": 5,
+          "question": "Señala la respuesta incorrecta. Algunas de las opciones específicas de diseño del software que lo simplifican son:",
+          "options": [
+            "Favorecer procesos deterministas sobre los no deterministas.",
+            "Limitar el número de estados posibles en el software.",
+            "El uso de técnicas de interrupciones en lugar de sondeo.",
+            "Desacoplar los componentes y procesos para minimizar las interdependencias entre ellos."
+          ],
+          "correct": "El uso de técnicas de interrupciones en lugar de sondeo."
         },
         {
-            "index": 36,
-            "question": "“the relative effect of exposure” is",
-            "options": ["vulnerability", "sensitivity", "sustainability", "toxicity"],
-            "correct": "sensitivity"
+          "index": 6,
+          "question": "Para conseguir que el desarrollo de una aplicación posea las propiedades y principios de diseño del software seguro, se necesita que el personal de diseño y desarrollo lleve a cabo:",
+          "options": [
+            "Perspectiva administrador.",
+            "Perspectiva defensor.",
+            "Perspectiva usuario.",
+            "Perspectiva del atacante."
+          ],
+          "correct": "Perspectiva del atacante."
         },
         {
-            "index": 37,
-            "question": "___ determines which projects or developments require a full or partial impact assessment study. (Fill in the blank)",
-            "options": ["screening", "scoping", "reporting", "review"],
-            "correct": "screening"
+          "index": 7,
+          "question": "¿Cómo se define la resiliencia?",
+          "options": [
+            "Capacidad de resistencia y tolerancia a los ataques realizados por los agentes maliciosos (malware, hackers, etc.).",
+            "Capacidad que garantiza la posibilidad de imputar las acciones relacionadas en un software a la persona, entidad o proceso que la ha originado.",
+            "Capacidad del software para aislar, contener y limitar los daños ocasionados por fallos causados por ataques explotando vulnerabilidades, recuperarse lo más rápido posible y reanudar su operación en un nivel aceptable en un tiempo oportuno.",
+            "Capacidad del software para tolerar errores y fallos de ataques con éxito y seguir funcionando como si no se hubieran producido."
+          ],
+          "correct": "Capacidad del software para aislar, contener y limitar los daños ocasionados por fallos causados por ataques explotando vulnerabilidades, recuperarse lo más rápido posible y reanudar su operación en un nivel aceptable en un tiempo oportuno."
         },
         {
-            "index": 38,
-            "question": "“the extent to which a chemical is available for uptake into an organism” is",
-            "options": ["bioavailability", "bioaccumulation", "biomagnification", "bioresponse"],
-            "correct": "bioavailability"
+          "index": 8,
+          "question": "¿A qué principio de diseño corresponde la afirmación: «Estrategia de protección consistente en introducir múltiples capas de seguridad para reducir la probabilidad de compromiso y minimizar el impacto si una capa falla»?",
+          "options": [
+            "Seguridad por defecto.",
+            "Separación de privilegios.",
+            "Separación de dominios.",
+            "Defensa en profundidad."
+          ],
+          "correct": "Defensa en profundidad."
         },
         {
-            "index": 39,
-            "question": "Hydrocarbons derived from biological processes acting on mineral oils are",
-            "options": ["petrogenic hydrocarbons", "pyrogenic hydrocarbons", "biogenic hydrocarbons", "chemoenic hydrocarbons"],
-            "correct": "biogenic hydrocarbons"
+          "index": 9,
+          "question": "Señala la respuesta incorrecta. Los elementos clave de un proceso de S-SDLC son:",
+          "options": [
+            "Gestión de configuración versiones.",
+            "Pruebas de seguridad.",
+            "Hitos de control en las fases del SDLC.",
+            "Despliegue y distribución."
+          ],
+          "correct": "Despliegue y distribución."
         },
         {
-            "index": 40,
-            "question": "“Any changes in natural or human systems that inadvertently increase vulnerability to climatic stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead” is a definition for",
-            "options": ["adaptation", "mitigation", "maladaptation", "malmitigation"],
-            "correct": "maladaptation"
+          "index": 10,
+          "question": "Señala la respuesta incorrecta. El cálculo de código CVSS se realiza en base a tres tipos de métricas ambientales:",
+          "options": [
+            "Métricas estadísticas.",
+            "Métricas base.",
+            "Métricas temporales.",
+            "Métricas ambientales."
+          ],
+          "correct": "Métricas estadísticas."
+        },
+        {
+          "index": 11,
+          "question": "¿Qué incluye la seguridad del software?",
+          "options": [
+            "Patrones de codificación.",
+            "Principios de diseño seguro.",
+            "Casos de uso.",
+            "Buenas prácticas de codificación."
+          ],
+          "correct": "Principios de diseño seguro."
+        },
+        {
+          "index": 12,
+          "question": "Los patrones de ataque en la fase de diseño y arquitectura:",
+          "options": [
+            "Ayudan a definir el comportamiento del sistema para prevenir o reaccionar ante otros ataques.",
+            "Específicas debilidades no aprovechadas por los ataques, orientando qué técnicas o prácticas de seguridad de desarrollo evitan estas deficiencias.",
+            "Proporcionan el contexto de las amenazas al que el software se va a enfrentar.",
+            "Proporcionan ejemplos de ataques que no aprovechan las vulnerabilidades de la arquitectura elegida."
+          ],
+          "correct": "Proporcionan el contexto de las amenazas al que el software se va a enfrentar."
+        },
+        {
+          "index": 13,
+          "question": "Respecto a los casos de uso de seguridad:",
+          "options": [
+            "Analizan y especifican los requisitos de seguridad funcionales.",
+            "Analizan y especifican las amenazas a la seguridad.",
+            "Análisis de vulnerabilidades de activos y amenazas.",
+            "Análisis forense de las actividades maliciosas."
+          ],
+          "correct": "Analizan y especifican los requisitos de seguridad funcionales."
+        },
+        {
+          "index": 14,
+          "question": "Respecto a la ingeniería de requisitos de seguridad, esta NO incluye:",
+          "options": [
+            "Requisitos de software seguro. Requisitos que afectan directamente a la probabilidad de que el software sea seguro.",
+            "Requisitos servicios de seguridad.",
+            "Los requerimientos no funcionales de seguridad deben especificar: restricciones que el software implementará para poder evitar ataques.",
+            "Los requerimientos no funcionales de seguridad deben especificar: los controles y normas que rigen los procesos de desarrollo, implementación y operación del software."
+          ],
+          "correct": "Los requerimientos no funcionales de seguridad deben especificar: los controles y normas que rigen los procesos de desarrollo, implementación y operación del software."
+        },
+        {
+          "index": 15,
+          "question": "¿Cuál de estas opciones NO forma parte de los tres pasos básicos del análisis de riesgo arquitectónico?",
+          "options": [
+            "Análisis de ambigüedad.",
+            "Análisis de resistencia al ataque.",
+            "Análisis de robustez.",
+            "Análisis de debilidad."
+          ],
+          "correct": "Análisis de robustez."
+        },
+        {
+          "index": 16,
+          "question": "¿Cuál de las siguientes respuestas es una de las perspectivas que el equipo de desarrollo tiene que adoptar a la hora de diseñar unas pruebas de seguridad basadas en el riesgo?",
+          "options": [
+            "Perspectiva gerencia.",
+            "Perspectiva atacante.",
+            "Perspectiva usuario.",
+            "Perspectiva del analista."
+          ],
+          "correct": "Perspectiva atacante."
+        },
+        {
+          "index": 17,
+          "question": "¿Cuál de estas opciones NO es una razón principal para añadir prácticas de seguridad en el SDLC?",
+          "options": [
+            "Mayor probabilidad de capturar adecuadamente los requisitos.",
+            "Mayor probabilidad de tomar decisiones de diseño correctas y no cometer errores involuntarios de codificación.",
+            "Dificultad de los agentes maliciosos para explotar vulnerabilidades y debilidades del software.",
+            "Mayor probabilidad de que el software funcione correctamente."
+          ],
+          "correct": "Mayor probabilidad de que el software funcione correctamente."
+        },
+        {
+          "index": 18,
+          "question": "Un método sistemático para caracterizar la seguridad de un sistema, basado en la combinación y dependencias de las vulnerabilidades de este, que un atacante puede aprovechar para comprometerlo:",
+          "options": [
+            "Método de ataque.",
+            "Patrones de ataque.",
+            "Árboles de ataque.",
+            "Modelo de ataque."
+          ],
+          "correct": "Árboles de ataque."
+        },
+        {
+          "index": 19,
+          "question": "Señalar la respuesta incorrecta sobre los casos de abuso:",
+          "options": [
+            "Los casos de abuso constituyen unas buenas prácticas para la obtención de los requisitos funcionales de una aplicación, referidos a actividades que debería realizar el sistema.",
+            "Un caso de abuso es la inversa de un caso de uso, es decir, una función que el sistema no debe permitir o una secuencia completa de acciones que resulta en una pérdida para la organización.",
+            "Los casos de abuso, o casos de mal uso, son un instrumento que puede ayudar a pensar de la misma forma que lo hacen los atacantes.",
+            "Establecen la base para otros casos de uso de seguridad que proporcionan los medios para contrarrestar o mitigar las amenazas capturadas en los mismos y una manera altamente reutilizable de organizar, analizar y especificar los requisitos de seguridad."
+          ],
+          "correct": "Los casos de abuso constituyen unas buenas prácticas para la obtención de los requisitos funcionales de una aplicación, referidos a actividades que debería realizar el sistema."
+        },
+        {
+          "index": 20,
+          "question": "Indica en qué fase del ciclo de vida de desarrollo del software NO es aplicable el análisis de riesgo arquitectónico:",
+          "options": [
+            "Especificación de requisitos.",
+            "Diseño del sistema.",
+            "Codificación.",
+            "Operación."
+          ],
+          "correct": "Codificación."
+        },
+        {
+          "index": 21,
+          "question": "Señala la respuesta correcta. Las perspectivas de las pruebas de seguridad basadas en el riesgo son las siguientes:",
+          "options": [
+            "Perspectiva gerencia.",
+            "Perspectiva atacante.",
+            "Perspectiva usuario.",
+            "Perspectiva del analista."
+          ],
+          "correct": "Perspectiva atacante."
+        },
+        {
+          "index": 22,
+          "question": "El principal problema de las herramientas de análisis estático es:",
+          "options": [
+            "Falsos negativos que produce.",
+            "Gran cantidad de defectos que encuentra.",
+            "Reglas de la herramienta.",
+            "Falsos positivos que produce."
+          ],
+          "correct": "Falsos negativos que produce."
+        },
+        {
+          "index": 23,
+          "question": "Señala la respuesta incorrecta. Las herramientas de análisis estático realizan varios tipos de análisis:",
+          "options": [
+            "Taint Propagation.",
+            "Análisis puntual.",
+            "Model checking.",
+            "Análisis de flujo de datos."
+          ],
+          "correct": "Análisis puntual."
+        },
+        {
+          "index": 24,
+          "question": "Los tests de penetración:",
+          "options": [
+            "Demuestran que ningún defecto existe.",
+            "Revisan el código.",
+            "El entendimiento del ambiente de ejecución y de los problemas de configuración es el mejor resultado de cualquier prueba de penetración.",
+            "Las conclusiones de seguridad son repetibles a través de equipos diferentes y varían extensamente dependiendo de la habilidad y la experiencia de los probadores."
+          ],
+          "correct": "El entendimiento del ambiente de ejecución y de los problemas de configuración es el mejor resultado de cualquier prueba de penetración."
+        },
+        {
+          "index": 25,
+          "question": "A la hora de realizar la distribución y despliegue del software desarrollado es recomendable el realizar las siguientes buenas prácticas:",
+          "options": [
+            "Distribuir el software con una configuración por defecto segura y lo más restrictiva posible.",
+            "Proporcionar una herramienta de instalación automática.",
+            "Cambiar los valores de configuración predeterminados durante el desarrollo.",
+            "Todas las anteriores."
+          ],
+          "correct": "Todas las anteriores."
+        },
+        {
+          "index": 26,
+          "question": "Señala la respuesta incorrecta. Los objetivos de las pruebas de seguridad basadas en el riesgo son:",
+          "options": [
+            "Verificar la operación del software bajo en su entorno de producción.",
+            "Verificar la capacidad de supervivencia del software ante la aparición de anomalías, errores y su manejo de estas mediante excepciones que minimicen el alcance e impacto de los daños que puedan resultar de los ataques.",
+            "Verificar la falta de defectos y debilidades explotables.",
+            "Verificar la fiabilidad del software, en términos de comportamiento seguro y cambios de estado confiables."
+          ],
+          "correct": "Verificar la operación del software bajo en su entorno de producción."
+        },
+        {
+          "index": 27,
+          "question": "Señalar la respuesta incorrecta. El análisis estático de código fuente es adecuado para identificar problemas de seguridad por ciertas razones:",
+          "options": [
+            "Las herramientas de análisis estático comprueban el código a fondo y coherentemente, sin ninguna tendencia, que a veces los programadores según su criterio podrían tener sobre algunas partes del código que pudieran ser más «interesantes» desde una perspectiva de seguridad o partes del código que pudieran ser más fáciles para realizar las pruebas dinámicas.",
+            "Examinando el código en sí mismo, las herramientas de análisis estático a menudo pueden indicar la causa de origen de un problema de seguridad, no solamente uno de sus síntomas.",
+            "Cuando un investigador de seguridad descubre una nueva variedad de ataque, las herramientas de análisis estático no ayudan a comprobar de nuevo una gran cantidad de código para ver dónde el nuevo ataque podría tener éxito.",
+            "El análisis estático puede encontrar errores tempranamente en el desarrollo, aún antes de que el programa sea ejecutado por primera vez."
+          ],
+          "correct": "Cuando un investigador de seguridad descubre una nueva variedad de ataque, las herramientas de análisis estático no ayudan a comprobar de nuevo una gran cantidad de código para ver dónde el nuevo ataque podría tener éxito."
+        },
+        {
+          "index": 28,
+          "question": "La principal misión de los tests de penetración es:",
+          "options": [
+            "Revisar estáticamente el código del sistema.",
+            "Comprobar las vulnerabilidades del software.",
+            "Verificar cómo el software se comporta y resiste ante diferentes tipos de ataque.",
+            "Probar la seguridad de la arquitectura del software."
+          ],
+          "correct": "Verificar cómo el software se comporta y resiste ante diferentes tipos de ataque."
+        },
+        {
+          "index": 29,
+          "question": "Indicar la respuesta incorrecta. Los factores principales prácticos que determinan la utilidad de una herramienta de análisis estático son:",
+          "options": [
+            "El equilibrio que la herramienta hace entre la precisión, la profundidad y la escalabilidad.",
+            "Porcentaje de falsos positivos de la herramienta.",
+            "Las características de la herramienta para hacerla fácil de usar.",
+            "La capacidad de la herramienta para comprender el programa que se analiza."
+          ],
+          "correct": "Porcentaje de falsos positivos de la herramienta."
+        },
+        {
+          "index": 30,
+          "question": "Una herramienta de análisis de código reporta que existe una vulnerabilidad de inyección SQL. Sin embargo, después de la correspondiente verificación, se comprueba que en realidad no existe tal vulnerabilidad. ¿Qué tipo de limitación de las herramientas de análisis de código se ha expuesto?",
+          "options": [
+            "Un falso positivo.",
+            "Un falso negativo.",
+            "Una vulnerabilidad específica de un lenguaje de programación.",
+            "Ninguna de las anteriores."
+          ],
+          "correct": "Un falso positivo."
+        },
+
+       {
+          "index": 31,
+          "question": "En los apuntes de la asignatura se presentan una serie de recomendaciones de buenas prácticas:",
+          "options": [
+            "Manejo de los datos con precaución.",
+            "Confiar en software de terceros en operaciones críticas.",
+            "Usar listas de errores.",
+            "Usar en el código nombres relativos de ficheros."
+          ],
+          "correct": "Manejo de los datos con precaución."
+        },
+        {
+          "index": 32,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? String user_state = \"Unknown\"; try { HttpSession user_session = Init.sessions.get(tmpUser.getUser()); user_state = user_session == null? \"Unknown\": (String)user_session.getAttribute(\"USER STATUs\"); user_state = user_state == null ? \"Available\": user_state; % }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Uso de datos invalidados.",
+            "Use after free."
+          ],
+          "correct": "Uso de datos invalidados."
+        },
+        {
+          "index": 33,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? char *stringcopy(char *str1, char *str2) { while (*str2) *str1++ = *str2++; return str2; } main(int argc, char **argv) { char *buffer = (char *)malloc(16 * sizeof(char)); stringcopy(buffer, argv[1]); printf(\"%s\\n\", buffer); }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Format string.",
+            "Use after free."
+          ],
+          "correct": "Desbordamiento de buffer."
+        },
+        {
+          "index": 34,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? struct hostent *hp; struct in_addr myaddr; char* tHost = \"trustme.com\"; myaddr.s_addr = inet_addr(ip_addr_string); hp = gethostbyaddr((char *) &myaddr, sizeof(struct in_addr), AF_INET); if (hp && !strncmp(hp->h_name, tHost, sizeof(tHost))) { trusted = true; } else { trusted = false; }",
+          "options": [
+            "Buffer overflow.",
+            "Validación límites de confianza.",
+            "Validación de entrada DNS.",
+            "Memory leaks."
+          ],
+          "correct": "Validación de entrada DNS."
+        },
+        {
+          "index": 35,
+          "question": "¿Es el siguiente código correcto? if (path != null && path.length() > 0 && path.length() <= MAXPATH) { fileOperation(path); }",
+          "options": [
+            "Es correcto.",
+            "Es incorrecto.",
+            "No se puede determinar.",
+            "Ninguna de las anteriores."
+          ],
+          "correct": "Es correcto."
+        },
+        {
+          "index": 36,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? u_int nresp; nresp = packet_get_int(); if (nresp > 0) { response = xmalloc(nresp*sizeof(char*)); for (i = 0; i< nresp; i++) response[i] = packet_get_string(NULL); }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Format string.",
+            "Use after free."
+          ],
+          "correct": "Integer overflows."
+        },
+        {
+          "index": 37,
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? while (fgets(buf, sizeof buf, f)) { Ireply(200, buf); } void lreply(int n, char *fmt, ...) { char buf[BUFSIZ]; vsnprintf(buf, sizeof buf, fmt, ap); }",
+          "options": [
+            "Integer overflows.",
+            "Desbordamiento de buffer.",
+            "Format string",
+            "Use after free."
+          ],
+          "correct": "Format string"
+        },
+        {
+          "index": 38,
+          "question": "Al realizar una buena validación de entrada por defecto, una mejora con API de seguridad aumenta la capacidad de hacer lo siguiente:",
+          "options": [
+            "Entender y mantener la lógica de validación de entrada.",
+            "Actualizar y modificar el intento de introducir la validación coherentemente.",
+            "Aplicar una validación de entrada sensible a contexto coherentemente a toda la entrada.",
+            "Descentralizar la lógica de validación."
+          ],
+          "correct": "Descentralizar la lógica de validación."
+        },
+        {
+          "index": 39,
+          "question": "Señalar la respuesta incorrecta. En el desarrollo de aplicaciones seguras y confiables se requiere el seguimiento de unas buenas prácticas:",
+          "options": [
+            "Insistir en el proceso de revisión de código.",
+            "Formación continua.",
+            "Invocar programas en los que no se confía desde otros en los que se confía.",
+            "Manejo de los datos con precaución."
+          ],
+          "correct": "Invocar programas en los que no se confía desde otros en los que se confía."
+        },
+        {
+          "index": 40,
+          "question": "¿Cuál es la mejor forma de prevenir ataques de desbordamiento de buffer?",
+          "options": [
+            "Tener precauciones al realizar conversiones de tipo.",
+            "Utilizar un lenguaje de programación que fuerce la comprobación de tipos y de memoria",
+            "Comprobar los límites de memoria.",
+            "Comprobar las longitudes del buffer."
+          ],
+          "correct": "Utilizar un lenguaje de programación que fuerce la comprobación de tipos y de memoria"
         },
         {
           "index": 41,
-          "question": "Which of these is a deterministic factor?",
-          "options": ["environmental variation", "forest fire", "death rate", "diseases"],
-          "correct": "death rate"
+          "question": "Señala la respuesta incorrecta. Con respecto a los errores y excepciones:",
+          "options": [
+            "Si un método declara que lanza una excepción checked, todos los objetos que lo utilizan deben manejar la excepción o declarar que lo lanzan también.",
+            "Los compiladores de Java no hacen cumplir las reglas en cuanto a excepciones checked.",
+            "Todas las excepciones en C++ son checked.",
+            "Las excepciones unchecked no tienen que ser declaradas o manejadas."
+          ],
+          "correct": "Todas las excepciones en C++ son checked."
         },
         {
           "index": 42,
-          "question": "I tried growing vegetables under my teak plantation, but the vegetable plants died out. I should be concerned about",
-          "options": ["autophagy", "allelophagy", "autopathy", "allelopathy"],
-          "correct": "allelopathy"
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código? public ResultSet execSQL(...) { stmt.executeQuery(sql); ... }",
+          "options": [
+            "Integer overflows",
+            "Desbordamiento de buffer",
+            "Format string",
+            "Manipulación de información privada"
+          ],
+          "correct": "Manipulación de información privada"
         },
         {
           "index": 43,
-          "question": "The movement of lions across the Gir landscape is an example of",
-          "options": ["diffusion", "secular dispersal", "jump dispersal", "drifting"],
-          "correct": "diffusion"
+          "question": "Señala la respuesta correcta. Se tienen dos opciones para crear archivos temporales de forma segura:",
+          "options": [
+            "Generar los nombres de archivo temporales que sean difíciles de adivinar, usando un generador de números pseudo-aleatorios (PRNG) criptográficamente seguros para crear un elemento aleatorio en cada nombre del archivo temporal.",
+            "Almacenar los archivos temporales bajo un directorio no accesible públicamente.",
+            "Almacenar los archivos temporales bajo un directorio público.",
+            "Generar nombres difíciles de adivinar usando un PRNG estadístico."
+          ],
+          "correct": "Generar los nombres de archivo temporales que sean difíciles de adivinar, usando un generador de números pseudo-aleatorios (PRNG) criptográficamente seguros para crear un elemento aleatorio en cada nombre del archivo temporal."
         },
         {
           "index": 44,
-          "question": "The geographical distribution of a species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance. This is the statement for",
-          "options": ["Liebig’s law of the minimum", "Liebig’s law of the maximum", "Shelford’s law of tolerance", "Shelford’s law of intolerance"],
-          "correct": "Shelford’s law of tolerance"
+          "question": "Señala la respuesta incorrecta. Métodos para detectar y prevenir integers overflows:",
+          "options": [
+            "Usar tipos sin signo.",
+            "Verificar el tipo de los buffers.",
+            "Restringir la entrada numérica de usuario.",
+            "Entender las reglas de conversión entre enteros."
+          ],
+          "correct": "Verificar el tipo de los buffers."
         },
         {
           "index": 45,
-          "question": "The regular, seasonal movement of animals, often along fixed routes is called",
-          "options": ["translocation", "migration", "dispersal", "drifting"],
-          "correct": "migration"
+          "question": "Señala la respuesta incorrecta.  Los ataques de escalada de privilegios pueden tener como objetivo cualquier variedad de vulnerabilidades de software, que son principalmente un riesgo en programas privilegiados:",
+          "options": [
+            "Archivos de sistema",
+            "Condiciones de carrera de acceso a archivos",
+            "Inyección de comandos",
+            "Mal uso de descriptores de archivo estándar"
+          ],
+          "correct": "Archivos de sistema"
         },
         {
           "index": 46,
-          "question": "Which of these is a stochastic factor?",
-          "options": ["birth rate", "death rate", "population structure", "environmental fluctuation"],
-          "correct": "environmental fluctuation"
+          "question": "Señala la respuesta incorrecta. Consideraciones sobre potenciales vulnerabilidades de Java:",
+          "options": [
+            "Seguridad de tipos. Los campos que son declarados privados o protegidos, o que tienen protección, por defecto, deberían ser públicamente accesibles.",
+            "Campos públicos. Un campo que es declarado público directamente puede ser no ser accedido por cualquier parte de un programa Java y puede ser modificado por las mismas (a no ser que el campo sea declarado como final).",
+            "Serialización. Esta facilidad posibilita que el estado del programa sea capturado y convertido en un byte stream que puede ser restaurado por la operación inversa, que es la deserialización.",
+            " JVM. La JVM, en sí misma, a menudo está escrita en C para una plataforma dada. Esto quiere decir que, sin la atención cuidadosa a detalles de puesta en práctica, la JVM en sí misma no susceptible a problemas de desbordamiento."
+          ],
+          "correct": "Campos públicos. Un campo que es declarado público directamente puede ser no ser accedido por cualquier parte de un programa Java y puede ser modificado por las mismas (a no ser que el campo sea declarado como final)."
         },
         {
           "index": 47,
-          "question": "The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called",
-          "options": ["translocation", "migration", "dispersal", "drifting"],
-          "correct": "dispersal"
+          "question": "Señala la respuesta correcta. Revisando el programa ¿cuál de las siguientes preguntas describe mejor lo que está haciendo la función? void aFunction(char *buf) {static char BANNED CHARACTERS[] = {'>, '<', ! int 1 = strlen(buf);int i;for(i = 0; i <l; i++) {int j;int k = sizeof(BANNED_CHARACTERS)/sizeof(char);for(j = 0; j<k; j++) {if(buf[i] == BANNED_CHARACTERS[j])buf[i] = '';}}",
+          "options": [
+            "Asegurar la no violabilidad espacial de la memoria",
+            "Validar la entrada mediante lista blanca",
+            "Asegurar la no violabilidad temporal de la memoria",
+            "Validar la entrada mediante lista negra"
+          ],
+          "correct": "Validar la entrada mediante lista negra"
         },
         {
           "index": 48,
-          "question": "Scarcity of food is a",
-          "options": ["chemical factor", "demographic factor", "push factor", "pull factor"],
-          "correct": "push factor"
+          "question": "Señala la incorrecta. Las funciones de strings limitadas son más seguras que las funciones ilimitadas, pero hay todavía mucho margen para el error. Los fallos de programación más comunes que se pueden cometer con las funciones de string limitadas:",
+          "options": [
+            "El buffer de destino se desborda porque el límite depende del tamaño de los datos de la fuente, más bien que del tamaño del buffer de destino.",
+            "El buffer de destino se desborda porque su límite se especifica como el tamaño total del buffer, más bien que como el espacio restante.",
+            "El buffer de destino se deja sin terminador nulo.",
+            "El programa escribe a una posición arbitraria en la memoria porque el buffer de destino se termina con el carácter nulo."
+          ],
+          "correct": "El programa escribe a una posición arbitraria en la memoria porque el buffer de destino se termina con el carácter nulo."
         },
         {
           "index": 49,
-          "question": "Which of these correctly represents the process of habitat fragmentation and loss?",
+          "question": "¿Qué tipo de vulnerabilidad se comete en este código con fopen('/tmp/file.tmp')?",
           "options": [
-            "Original forest → Dissection → Perforation → Fragmentation → Attrition",
-            "Original forest → Dissection → Attrition → Fragmentation → Perforation",
-            "Original forest → Dissection → Perforation → Attrition → Fragmentation",
-            "Original forest → Dissection → Fragmentation → Perforation → Attrition"
+            "Integer overflows",
+            "Desbordamiento de buffer",
+            "Condiciones de carrera",
+            "Use after free"
           ],
-          "correct": "Original forest → Dissection → Perforation → Fragmentation → Attrition"
+          "correct": "Condiciones de carrera"
         },
         {
           "index": 50,
-          "question": "A root zone treatment plant is an example of",
-          "options": ["phytoremediation", "biological control", "biomagnification", "bioaccumulation"],
-          "correct": "phytoremediation"
+          "question": "¿Cuándo ocurre un ataque de integer overflow?",
+          "options": [
+            "Al realizar una resta",
+            "Un entero es usado como puntero",
+            "Un entero es usado para acceder a un buffer fuera de sus límites",
+            "No hay espacio para almacenar un entero"
+          ],
+          "correct": "Un entero es usado para acceder a un buffer fuera de sus límites"
         },
         {
           "index": 51,
-          "question": "A measure of the responsiveness of quantity demanded or quantity supplied to a change in one of its determinants is",
-          "options": ["elasticity", "responsivity", "demand-supply equilibrium", "pricing"],
-          "correct": "elasticity"
+          "question": "¿Cuál es uno de los pilares fundamentales de la definición de auditoría?",
+          "options": [
+            "Proceso objetivo",
+            "Proceso subjetivo",
+            "Calculo el riesgo tecnológico",
+            "Calculo el riesgo operacional"
+          ],
+          "correct": "Proceso objetivo"
         },
         {
           "index": 52,
-          "question": "The ability to produce a good using fewer inputs than another producer is",
-          "options": ["comparative advantage", "absolute advantage", "production advantage", "resource advantage"],
-          "correct": "absolute advantage"
+          "question": "El objetivo final de la auditoría es:",
+          "options": [
+            "Generar un proceso subjetivo",
+            "Dar recomendaciones a la alta dirección",
+            "Entregar un informe",
+            "Comunicar los resultados de manera correcta"
+          ],
+          "correct": "Dar recomendaciones a la alta dirección"
         },
         {
           "index": 53,
-          "question": "Common resource goods are",
-          "options": ["excludable, rival in consumption", "non-excludable, rival in consumption", "excludable, non-rival in consumption", "non-excludable, non-rival in consumption"],
-          "correct": "non-excludable, rival in consumption"
+          "question": "Cualquier sistema informático utilizado por las compañías debe:",
+          "options": [
+            "Salvaguardar la propiedad de la información",
+            "Mantener la integridad de los datos",
+            "Asegurar la confidencialidad de la información",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
         },
         {
           "index": 54,
-          "question": "If private parties can bargain without cost over the allocation of resources, they can solve the problem of externalities on their own. This is a statement for",
-          "options": ["Allocation theorem", "Phillips theorem", "Coase theorem", "Nash theorem"],
-          "correct": "Coase theorem"
+          "question": "¿Cuál de las siguientes afirmaciones es cierta?",
+          "options": [
+            "No hace falta un alineamiento entre el plan estratégico y el plan de las TIC al tratarse de taxonomías de planes totalmente diferentes",
+            "Las organizaciones con consideración a las TI tienen mayor retorno de inversión a medio y largo plazo que aquellas que no lo consideran ante los mismos objetivos estratégicos, de tal forma que con la madurez tecnológica se llegue a un estado de mayor retorno",
+            "El plan informático de TI se tiene que corresponder con el plan estratégico de la empresa",
+            "Ninguna afirmación es cierta"
+          ],
+          "correct": "El plan informático de TI se tiene que corresponder con el plan estratégico de la empresa"
         },
         {
           "index": 55,
-          "question": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs is known as",
-          "options": ["Good development", "Sustainable development", "Futuristic development", "Gandhian development"],
-          "correct": "Sustainable development"
+          "question": "La auditoría del CPD, ¿corresponde con una auditoria de sistemas o de seguridad física?",
+          "options": [
+            "Al estar los sistemas dentro del CPD, se corresponde en exclusiva con una auditoria de sistemas",
+            "Al ser una ubicación física, estas auditorías están centradas en las auditorias de seguridad física",
+            "Es una auditoria de sistemas porque no existen las auditorias de seguridad física",
+            "Pueden ser las dos, dependiendo de los objetivos de la auditoria"
+          ],
+          "correct": "Pueden ser las dos, dependiendo de los objetivos de la auditoria"
         },
         {
           "index": 56,
-          "question": "Club goods are",
-          "options": ["excludable, rival in consumption", "non-excludable, rival in consumption", "excludable, non-rival in consumption", "non-excludable, non-rival in consumption"],
-          "correct": "excludable, non-rival in consumption"
+          "question": "¿Cuáles son las diferencias más relevantes entre auditoría y control internos?",
+          "options": [
+            "Realizan la misma función, por lo que la diferencias simplemente es en la nomenclatura que se le dé en cada empresa",
+            "El control interno tiene mucho más peso que la auditoría interna",
+            "La auditoría interna tiene mucho más peso que control interno",
+            "La periodicidad y frecuencia de sus actuaciones"
+          ],
+          "correct": "La periodicidad y frecuencia de sus actuaciones"
         },
         {
           "index": 57,
-          "question": "Which of these is not a method of internalisation of externalities?",
-          "options": ["tradable pollution permits", "charities to social causes", "command-and-control policies", "free market"],
-          "correct": "free market"
+          "question": "Las auditorías de seguridad solo engloban:",
+          "options": [
+            "Los temas tecnológicos",
+            "Los temas físicos",
+            "Los temas operacionales",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
         },
         {
           "index": 58,
-          "question": "Private goods are",
-          "options": ["excludable, rival in consumption", "non-excludable, rival in consumption", "excludable, non-rival in consumption", "non-excludable, non-rival in consumption"],
-          "correct": "excludable, rival in consumption"
+          "question": "¿Cuál es uno de los objetivos principales del auditor?",
+          "options": [
+            "Elaborar un informe de situación y entregarlo",
+            "Evaluar y comprobar, en determinados momentos, los controles y procedimientos informáticos",
+            "Pedir evidencias y analizarlas",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Evaluar y comprobar, en determinados momentos, los controles y procedimientos informáticos"
         },
         {
           "index": 59,
-          "question": "A simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions is the definition of a / an",
-          "options": ["equation", "model", "philosophy", "process dynamics"],
-          "correct": "model"
+          "question": "Se denomina auditoría informática porque:",
+          "options": [
+            "Se utilizan muchos sistemas informáticos para encontrar los resultados",
+            "Solo pueden realizarse por personas con unos estudios relacionados con la Informática",
+            "El objeto auditado son los sistemas de información",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "El objeto auditado son los sistemas de información"
         },
         {
           "index": 60,
-          "question": "The impact of one person’s actions on the well-being of a bystander is",
-          "options": ["actor-observer effect", "externality", "internality", "benefits principle"],
-          "correct": "externality"
+          "question": "Cuando se encuentran hallazgos en la auditoría:",
+          "options": [
+            "Se notifica de manera inmediata cualquier hallazgo a la Alta Dirección",
+            "Se notifica de manera inmediata cualquier hallazgo a nuestro interlocutor",
+            "Se documentan formalmente y ya se notificarán",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Se documentan formalmente y ya se notificarán"
         },
+
         {
           "index": 61,
-          "question": "The claim that, other things being equal, the quantity demanded of a good falls when the price of the good rises is a statement of",
-          "options": ["law of demand", "law of supply", "law of quantity demanded", "law of quantity supplied"],
-          "correct": "law of demand"
+          "question": "Es fundamental que un auditor de sistemas de información:",
+          "options": [
+            "Tenga conocimiento de la legislación aplicable en la compañía",
+            "Tenga conocimiento de los objetivos de la compañía",
+            "Tenga conocimiento de los sistemas de información",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
         },
         {
           "index": 62,
-          "question": "A legal maximum on the price at which a good can be sold is",
-          "options": ["price ceiling", "price floor", "selling ceiling", "selling floor"],
-          "correct": "price ceiling"
+          "question": "¿Dónde se debe situar un departamento de auditoría interna dentro de una compañía?",
+          "options": [
+            "Su situación no es relevante",
+            "Siempre depende de Tecnología",
+            "Depende de la empresa, pero lo más recomendable es que dependa de Seguridad",
+            "En una ubicación jerárquica en la que pueda realizar sus actuaciones de manera independiente"
+          ],
+          "correct": "En una ubicación jerárquica en la que pueda realizar sus actuaciones de manera independiente"
         },
         {
           "index": 63,
-          "question": "A good for which, other things being equal, an increase in income leads to a decrease in demand is",
-          "options": ["normal good", "inferior good", "Giffen good", "common good"],
-          "correct": "inferior good"
+          "question": "En relación con la clasificación de controles internos, según su naturaleza, podemos afirmar que:",
+          "options": [
+            "Son normalmente detectivos, correctivos y preventivos. En ocasiones, se incluyen los controles alternativos",
+            "Son voluntarios, obligatorios, manuales y automáticos",
+            "Son voluntarios, obligatorios, manuales, automáticos, preventivos, detectivos y correctivos",
+            "Son controles generales, de aplicación, de área y legales"
+          ],
+          "correct": "Son normalmente detectivos, correctivos y preventivos. En ocasiones, se incluyen los controles alternativos"
         },
         {
           "index": 64,
-          "question": "A table that shows the relationship between the price of a good and the quantity supplied is",
-          "options": ["demand table", "demand schedule", "supply table", "supply schedule"],
-          "correct": "supply schedule"
+          "question": "En relación con la clasificación de controles internos, según su naturaleza, podemos afirmar que:",
+          "options": [
+            "Los controles detectivos actúan sobre la causa de los riesgos con el fin de disminuir su probabilidad de ocurrencia",
+            "Los controles preventivos se diseñan para descubrir un evento, irregularidad o resultado no previsto, alertan sobre la presencia de riesgos y permiten tomar medidas inmediatas, pudiendo ser manuales o automáticos",
+            "Las opciones A y B son correctas",
+            "Las opciones A y B son incorrectas"
+          ],
+          "correct": "Las opciones A y B son incorrectas"
         },
         {
           "index": 65,
-          "question": "A graph of the relationship between the price of a good and the quantity demanded is",
-          "options": ["demand curve", "supply curve", "Laffer's curve", "Phillips curve"],
-          "correct": "demand curve"
+          "question": "Los controles generales se clasifican en:",
+          "options": [
+            "Controles de organización y operación, controles de tratamiento de datos, así como controles de hardware y software de sistemas",
+            "Controles de entrada de datos, controles de tratamiento de datos y controles de salida de datos",
+            "Controles de organización y operación, controles de desarrollo de sistemas y documentación, así como controles de hardware y software de sistemas",
+            "Ninguna de las anteriores es cierta"
+          ],
+          "correct": "Controles de organización y operación, controles de desarrollo de sistemas y documentación, así como controles de hardware y software de sistemas"
         },
         {
           "index": 66,
-          "question": "A table that shows the relationship between the price of a good and the quantity demanded is",
-          "options": ["demand table", "demand schedule", "supply table", "supply schedule"],
-          "correct": "demand schedule"
+          "question": "¿Se puede considerar un control como señuelo?",
+          "options": [
+            "No, un control siempre debe tener un objetivo claro",
+            "No, los controles tienen que ser reales",
+            "Sí, se utilizan para desviar la atención de un potencial atacante",
+            "Ninguna de las respuestas anteriores es correcta"
+          ],
+          "correct": "Sí, se utilizan para desviar la atención de un potencial atacante"
         },
         {
           "index": 67,
-          "question": "A measure of how much the quantity demanded of one good responds to a change in the price of another good, computed as the percentage change in quantity demanded of the first good divided by the percentage change in price of the second good is",
-          "options": ["price elasticity of demand", "income elasticity of demand", "cross-price elasticity of demand", "price elasticity of supply"],
-          "correct": "cross-price elasticity of demand"
+          "question": "Dentro de controles generales, podemos afirmar que no son controles de organización y operación:",
+          "options": [
+            "Seguridad lógica y física, controles de procesamiento y control de presupuestos",
+            "Procedimientos, separación de entornos y estándares y nomenclatura",
+            "Controles de segregación de funciones",
+            "Todos los anteriores son controles de organización y operación"
+          ],
+          "correct": "Seguridad lógica y física, controles de procesamiento y control de presupuestos"
         },
         {
           "index": 68,
-          "question": "Rice and wheat are",
-          "options": ["substitutes", "complements", "club goods", "public goods"],
-          "correct": "substitutes"
+          "question": "Los controles deben:",
+          "options": [
+            "Estar implantados",
+            "Cubrir los objetivos por los que fueron implantados",
+            "Ser efectivos",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
         },
         {
           "index": 69,
-          "question": "A good for which, other things being equal, an increase in income leads to an increase in demand is",
-          "options": ["normal good", "inferior good", "Giffen good", "common good"],
-          "correct": "normal good"
+          "question": "En relación con los controles de organización y operación, para una segregación de funciones adecuada:",
+          "options": [
+            "Una misma persona no puede realizar funciones determinadas en un mismo entorno",
+            "Una misma persona no puede realizar funciones determinadas en un entorno y en otro",
+            "Las opciones A y B son correctas",
+            "Las opciones A y B son incorrectas"
+          ],
+          "correct": "Una misma persona no puede realizar funciones determinadas en un entorno y en otro"
         },
         {
           "index": 70,
-          "question": "A measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity demanded divided by the percentage change in price is",
-          "options": ["price elasticity of demand", "income elasticity of demand", "cross-price elasticity of demand", "price elasticity of supply"],
-          "correct": "price elasticity of demand"
+          "question": "Los controles de hardware y software de sistemas:",
+          "options": [
+            "Preservan las tres dimensiones de la información: confidencialidad, disponibilidad y seguridad",
+            "Preservan las tres dimensiones de la información: fiabilidad, disponibilidad y confidencialidad",
+            "Preservan dos de las tres dimensiones de la información: integridad, disponibilidad y confidencialidad",
+            "Ninguna de las anteriores es correcta"
+          ],
+          "correct": "Preservan dos de las tres dimensiones de la información: integridad, disponibilidad y confidencialidad"
         },
+
         {
           "index": 71,
-          "question": "The price of a good that prevails in the world market for that good is the definition of",
-          "options": ["export price", "import price", "world price", "domestic price"],
-          "correct": "world price"
+          "question": "¿Qué acciones son fundamentales en la planificación de una auditoría?",
+          "options": [
+            "Comprensión del negocio",
+            "Posibles riesgos",
+            "Metodología que se debe utilizar",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
         },
         {
           "index": 72,
-          "question": "The area between the demand curve and the price is an indicator of",
-          "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-          "correct": "consumer surplus"
+          "question": "¿Cuál es la finalidad de un estándar de auditoría?",
+          "options": [
+            "Es una metodología utilizada por cada una de las empresas auditoras",
+            "Los estándares definen los requerimientos obligatorios para la auditoría de sistemas y la generación de informe",
+            "Es una guía y se tiene que seguir de manera exacta",
+            "Ninguna de anteriores"
+          ],
+          "correct": "Los estándares definen los requerimientos obligatorios para la auditoría de sistemas y la generación de informe"
         },
         {
           "index": 73,
-          "question": "The amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it is",
-          "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-          "correct": "consumer surplus"
+          "question": "¿Cuántos organismos de auditoría existen?",
+          "options": [
+            "Solo uno, ISACA",
+            "Solo uno, IIA",
+            "Dos, ISACA e IIA",
+            "Existen mucho más que dos organismos"
+          ],
+          "correct": "Existen mucho más que dos organismos"
         },
         {
           "index": 74,
-          "question": "The amount a seller is paid for a good minus the seller’s cost of providing it is",
-          "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-          "correct": "producer surplus"
+          "question": "¿Para qué se usan las herramientas de auditoría?",
+          "options": [
+            "Para verificar de una manera clara los medios técnicos",
+            "Para valorar registros, planes, presupuestos, programas, controles y otros aspectos que afectan a la administración y control de una organización o las áreas que la integran",
+            "Para industrializar el proceso o actuación de auditoría",
+            "No existen herramientas de auditoría como tal"
+          ],
+          "correct": "Para valorar registros, planes, presupuestos, programas, controles y otros aspectos que afectan a la administración y control de una organización o las áreas que la integran"
         },
         {
           "index": 75,
-          "question": "Value to buyers - Cost to sellers is",
-          "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-          "correct": "total surplus"
+          "question": "¿Un conjunto de preguntas que deben ser contestadas oralmente por el interlocutor constituye una herramienta de auditoría?",
+          "options": [
+            "Si",
+            "No",
+            "Depende del conjunto de preguntas",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Si"
         },
         {
           "index": 76,
-          "question": "The fall in total surplus that results from a market distortion, such as a tax is",
-          "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-          "correct": "deadweight loss"
+          "question": "¿Una herramienta de auditoría es lo mismo que una herramienta de evaluación de seguridad?",
+          "options": [
+            "Si",
+            "No",
+            "Depende de la herramienta",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "No"
         },
         {
           "index": 77,
-          "question": "Laffer's curve is the relationship between",
-          "options": ["inflation and unemployment", "tax size and tax revenue", "producer surplus and consumer surplus", "tax size and deadweight loss"],
-          "correct": "tax size and tax revenue"
+          "question": "La metodología de auditoría debería ser establecida y aprobada por:",
+          "options": [
+            "El departamento de auditoría interna de la compañía",
+            "El grupo de seguridad de la compañía",
+            "La gerencia de auditoría",
+            "Es un documento interno y por modificaciones no es conveniente que esté aprobada"
+          ],
+          "correct": "La gerencia de auditoría"
         },
         {
           "index": 78,
-          "question": "Imposition of tariff",
+          "question": "Los objetivos de auditoría se centran a menudo en:",
           "options": [
-            "increases producer surplus and government revenue",
-            "increases consumer surplus and government revenue",
-            "increases producer surplus, consumer surplus and government revenue",
-            "increases total surplus"
+            "Entregar un informe de resultados",
+            "Cumplir con los requerimientos legales o regulatorios",
+            "Validar que existen controles internos para minimizar los riesgos del negocio",
+            "Ninguna de las anteriores"
           ],
-          "correct": "increases producer surplus and government revenue"
+          "correct": "Validar que existen controles internos para minimizar los riesgos del negocio"
         },
         {
           "index": 79,
-          "question": "The maximum amount that a buyer will pay for a good is",
-          "options": ["willingness to pay", "market demand", "demand curve", "buyer’s surplus"],
-          "correct": "willingness to pay"
+          "question": "Una evidencia puede ser:",
+          "options": [
+            "Un documento Word",
+            "Un registro de un sistema",
+            "Una conversación con un interlocutor",
+            "Todas las anteriores"
+          ],
+          "correct": "Todas las anteriores"
         },
         {
           "index": 80,
-          "question": "The area between the supply curve and the price is an indicator of",
-          "options": ["consumer surplus", "producer surplus", "total surplus", "deadweight loss"],
-          "correct": "producer surplus"
+          "question": "El informe final de auditoría:",
+          "options": [
+            "Contiene el informe final",
+            "Contiene el informe preliminar",
+            "Las respuestas A y B son correctas",
+            "Ninguna de las respuestas anteriores es correcta"
+          ],
+          "correct": "Las respuestas A y B son correctas"
         },
         {
           "index": 81,
-          "question": "For a positive consumption externality,",
-          "options": ["SMB = PMB", "SMB = PMB − MD", "SMB = PMB + MB", "SMC = PMC / MD"],
-          "correct": "SMB = PMB + MB"
+          "question": "Una prueba de intrusión es:",
+          "options": [
+            "Solo un análisis de vulnerabilidades",
+            "Un tipo de hacking ético",
+            "Habitualmente de caja blanca, gris y negra",
+            "No es un pen test"
+          ],
+          "correct": "Habitualmente de caja blanca, gris y negra"
         },
         {
           "index": 82,
-          "question": "For a positive production externality,",
-          "options": ["SMB = PMB", "SMB = PMB − MD", "SMB = PMB + MB", "SMC = PMC / MD"],
-          "correct": "SMB = PMB"
+          "question": "¿Qué fases habitualmente se utilizan en una auditoría técnica de seguridad (test de intrusión)?",
+          "options": [
+            "La recopilación de información del sistema por auditar, análisis de vulnerabilidades, explotación/ataque de las vulnerabilidades detectadas y realización de informe técnico y ejecutivo",
+            "La recopilación de información del sistema por auditar, explotación/ataque de las vulnerabilidades detectadas. Nunca se realiza informe",
+            "Explotación/ataque de las vulnerabilidades detectadas y realización de informe técnico",
+            "La recopilación de información del sistema por auditar y realización de informe técnico y ejecutivo"
+          ],
+          "correct": "La recopilación de información del sistema por auditar, análisis de vulnerabilidades, explotación/ataque de las vulnerabilidades detectadas y realización de informe técnico y ejecutivo"
         },
         {
           "index": 83,
-          "question": "The direct cost to producers of producing an additional unit of a good is",
-          "options": ["private marginal cost (PMC)", "social marginal cost (SMC)", "private marginal benefit (PMB)", "social marginal benefit (SMB)"],
-          "correct": "private marginal cost (PMC)"
+          "question": "Las pruebas de fuerza bruta se basan en:",
+          "options": [
+            "Utilización de ficheros con palabras en diferentes idiomas para averiguar por ensayo/error los usuarios y/o contraseña en las pantallas de log in",
+            "Utilización de todas las combinaciones posibles con un set de caracteres definido y una longitud",
+            "Lo que se denominan rainbow tables",
+            "Ninguna de las respuestas anteriores es correcta"
+          ],
+          "correct": "Utilización de todas las combinaciones posibles con un set de caracteres definido y una longitud"
         },
         {
           "index": 84,
-          "question": "For a negative production externality,",
-          "options": ["SMC = PMC + MD", "SMC = PMC - MD", "SMC = PMC", "SMC = PMC - MB"],
-          "correct": "SMC = PMC + MD"
+          "question": "¿Qué es el sniffing de paquetes de red?",
+          "options": [
+            "Es la técnica para inyectar paquetes en redes inalámbricas",
+            "Es la técnica pasiva que permite la captura de datos (paquetes de datos) que se distribuyen en una red",
+            "Es la técnica por la que se intercepta y modifica la información en una red",
+            "Es la técnica por la que consigues el control de administración en las máquinas servidoras"
+          ],
+          "correct": "Es la técnica pasiva que permite la captura de datos (paquetes de datos) que se distribuyen en una red"
         },
         {
           "index": 85,
-          "question": "The private marginal cost to producers plus any costs associated with the production of the good that are imposed on others is",
-          "options": ["private marginal cost (PMC)", "social marginal cost (SMC)", "private marginal benefit (PMB)", "social marginal benefit (SMB)"],
-          "correct": "social marginal cost (SMC)"
+          "question": "¿A qué tipo de pruebas de penetración pertenece la siguiente afirmación? «Se simulan ataques reales, pero conociendo de antemano gran parte de la información técnica. Se tiene un conocimiento limitado de los activos y las defensas que los protegen».",
+          "options": [
+            "Caja blanca",
+            "Caja negra",
+            "Reversal",
+            "Caja gris"
+          ],
+          "correct": "Caja gris"
         },
         {
           "index": 86,
-          "question": "Partying with loud noise is an example of",
-          "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-          "correct": "negative consumption externality"
+          "question": "Las auditorías técnicas de seguridad tienen como objetivo:",
+          "options": [
+            "Analizar la funcionalidad de los sistemas de información de una organización y sus servicios realizando una batería de pruebas planificadas",
+            "Analizar la seguridad implantada en los sistemas de información y telecomunicaciones de una organización y sus servicios realizando una batería de pruebas planificadas que simulen el comportamiento de un atacante",
+            "Verificar los sistemas de información de una organización y sus servicios realizando una batería de pruebas planificadas",
+            "Todas las anteriores"
+          ],
+          "correct": "Analizar la seguridad implantada en los sistemas de información y telecomunicaciones de una organización y sus servicios realizando una batería de pruebas planificadas que simulen el comportamiento de un atacante"
         },
         {
           "index": 87,
-          "question": "When an individual’s consumption increases the well-being of others, but the individual is not compensated by those others, we have",
-          "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-          "correct": "positive consumption externality"
+          "question": "¿Cuál de la siguientes es un tipo de auditoría técnica de seguridad?",
+          "options": [
+            "Auditoría de seguridad de sistemas",
+            "Auditoría de redes wifi",
+            "Auditoría de aplicaciones web",
+            "Todas las anteriores son auditorías técnicas de seguridad"
+          ],
+          "correct": "Todas las anteriores son auditorías técnicas de seguridad"
         },
         {
           "index": 88,
-          "question": "When a firm’s production increases the well-being of others but the firm is not compensated by those others, we have",
-          "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-          "correct": "positive production externality"
+          "question": "¿Qué conjunto de amenazas típicas pueden poner en riesgo una compañía?",
+          "options": [
+            "Del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada",
+            "De origen natural, del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada",
+            "De origen natural, del entorno, defectos de las aplicaciones y causadas por las personas de forma deliberada",
+            "De origen natural, del entorno, defectos de las aplicaciones y causadas por las personas de forma accidental"
+          ],
+          "correct": "De origen natural, del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada"
         },
         {
           "index": 89,
-          "question": "When an individual’s consumption reduces the well-being of others who are not compensated by the individual, we have",
-          "options": ["negative production externality", "positive production externality", "negative consumption externality", "positive consumption externality"],
-          "correct": "negative consumption externality"
+          "question": "¿Qué define un hacking ético de tipo gris?",
+          "options": [
+            "Se conoce toda información, como direcciones IP, pero no de la infraestructura",
+            "No se conoce nada de información",
+            "Se conoce alguna información, como direcciones IP, pero no de la infraestructura",
+            "Todas las anteriores"
+          ],
+          "correct": "Se conoce alguna información, como direcciones IP, pero no de la infraestructura"
         },
         {
           "index": 90,
-          "question": "For a negative consumption externality,",
-          "options": ["SMB = PMB", "SMB = PMB − MD", "SMB = PMB + MB", "SMC = PMC / MD"],
-          "correct": "SMB = PMB − MD"
+          "question": "Los informes de auditorías técnicas de seguridad:",
+          "options": [
+            "Incluyen como anexo el informe ejecutivo",
+            "Describen con detalle técnico las fases de la auditoría de seguridad que realizan",
+            "No necesitan definir el objetivo y el alcance de la auditoría",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Describen con detalle técnico las fases de la auditoría de seguridad que realizan"
         },
+
         {
           "index": 91,
-          "question": "Costs that have already been committed and cannot be recovered are",
-          "options": ["Fixed costs", "Variable costs", "Marginal costs", "Sunk costs"],
-          "correct": "Sunk costs"
+          "question": "La finalidad de una auditoría de cumplimiento es:",
+          "options": [
+            "Evaluar el grado de cumplimiento de una norma de seguridad",
+            "Analizar el código estático del código de aplicaciones para buscar vulnerabilidades, tanto de aplicaciones del tipo web como de cualquier tipo de aplicación",
+            "Evaluar el nivel de seguridad de las LAN corporativas de carácter interno de una organización",
+            "Analizar la protección que proporciona una red de seguridad perimetral desde el exterior"
+          ],
+          "correct": "Evaluar el grado de cumplimiento de una norma de seguridad"
         },
         {
           "index": 92,
-          "question": "Total revenue minus total cost, including both explicit and implicit costs is a definition of",
-          "options": ["Economic profit", "Accounting profit", "Profit", "Loss"],
-          "correct": "Economic profit"
+          "question": "Las auditorías de cumplimiento son del tipo:",
+          "options": [
+            "Caja blanca",
+            "Caja negra",
+            "Caja gris",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Caja blanca"
         },
         {
           "index": 93,
-          "question": "The increase in total cost that arises from an extra unit of production are",
-          "options": ["Fixed costs", "Variable costs", "Marginal costs", "Sunk costs"],
-          "correct": "Marginal costs"
+          "question": "Señala la respuesta incorrecta. Una metodología tiene que proporcionar finalmente un proceso sencillo y estructurado de pruebas que sea:",
+          "options": [
+            "Válido para siempre",
+            "Coherente con las leyes individuales y locales y el derecho a la privacidad",
+            "Basado en el mérito y esfuerzo de los probadores y analistas",
+            "Consistente y repetible"
+          ],
+          "correct": "Válido para siempre"
         },
         {
           "index": 94,
-          "question": "A monopolist firm’s profit is given by",
-          "options": ["(Price - ATC) × Q", "(Price - Q) × ATC", "(ATC - Q) × Price", "Price × Q - ATC"],
-          "correct": "(Price - ATC) × Q"
+          "question": "¿Cuál de las siguientes metodologías se considera un marco de trabajo?",
+          "options": [
+            "Open Source Security Testing Methodology Manual (OSSTMM)",
+            "Penetration Testing Execution Standard (PTES)",
+            "Technical Guide to Information Security Testing and Assessment (NIST 800-115)",
+            "Information System Security Assessment Framework (ISSAF)"
+          ],
+          "correct": "Information System Security Assessment Framework (ISSAF)"
         },
         {
           "index": 95,
-          "question": "Which of the following is true for a competitive firm?",
-          "options": ["P > MR", "P > MC", "MR > MC", "MR = MC"],
-          "correct": "MR = MC"
+          "question": "¿Qué metodología se enfoca en criterios de evaluación?",
+          "options": [
+            "The Open Source Security Testing Methodology Manual (OSSTMM)",
+            "The Information System Security Assessment Framework (ISSAF)",
+            "Technical Guide to Information Security Testing and Assessment (NIST 800-115)",
+            "The Penetration Testing Execution Standard (PTES)"
+          ],
+          "correct": "The Information System Security Assessment Framework (ISSAF)"
         },
         {
           "index": 96,
-          "question": "The amount a firm receives for the sale of its output is a definition of",
-          "options": ["Total revenue", "Total cost", "Profit", "Loss"],
-          "correct": "Total revenue"
+          "question": "¿Cuál no es una metodología de pruebas de penetración?",
+          "options": [
+            "PTES",
+            "ISSAF",
+            "OSSTMM",
+            "PMBOK"
+          ],
+          "correct": "PMBOK"
         },
         {
           "index": 97,
-          "question": "When the cost of production for a single firm is much lesser than the cost of production for competitive firms, we have a / an",
-          "options": ["natural monopoly", "artificial monopoly", "oligopoly", "duopoly"],
-          "correct": "natural monopoly"
+          "question": "Dentro de la metodología OSSTMM se definen una serie de pruebas, ¿cuál de las siguientes no lo es?",
+          "options": [
+            "Búsqueda de vulnerabilidades",
+            "Escaneo de la seguridad",
+            "Test de intrusión",
+            "Auditoría de informática"
+          ],
+          "correct": "Auditoría de informática"
         },
         {
           "index": 98,
-          "question": "Costs that do not vary with the quantity of output produced are",
-          "options": ["fixed costs", "variable costs", "marginal costs", "sunk costs"],
-          "correct": "fixed costs"
+          "question": "¿En qué metodología se testea la seguridad desde un entorno no privilegiado hacia un entorno privilegiado para evadir los componentes de seguridad, procesos y alarmas, y ganar acceso privilegiado?",
+          "options": [
+            "ITIL",
+            "PMBOK",
+            "ISSAF",
+            "OSSTMM"
+          ],
+          "correct": "OSSTMM"
         },
         {
           "index": 99,
-          "question": "Costs that vary with the quantity of output produced are",
-          "options": ["fixed costs", "variable costs", "marginal costs", "sunk costs"],
-          "correct": "variable costs"
+          "question": "¿Cuál no es un control de la metodología Open Web Application Security Project (OWASP)?",
+          "options": [
+            "Autorización",
+            "Gestión de sesiones",
+            "Información clasificada",
+            "Manejo de errores"
+          ],
+          "correct": "Información clasificada"
         },
         {
           "index": 100,
-          "question": "The increase in output that arises from an additional unit of input is",
-          "options": ["marginal product", "marginal profit", "marginal loss", "marginal cost"],
-          "correct": "marginal product"
-        },
-        {
-          "index": 101,
-          "question": "“An absolute level of income set by the government for each family size below which a family is deemed to be in poverty” is known as",
-          "options": ["Deprivation Line", "Poverty Line", "Deprivation Index", "Poverty Index"],
-          "correct": "Poverty Line"
-        },
-        {
-          "index": 102,
-          "question": "Absolute poverty depends",
+          "question": "Señala la respuesta incorrecta. De acuerdo con la metodología Common Criteria ISO 15408 (CC), el proceso de evaluación comienza mediante el envío al laboratorio acreditado por parte del proveedor del producto de una serie de documentos:",
           "options": [
-            "On Income But Not On Access To Social Services",
-            "Not On Income But On Access To Social Services",
-            "On Income And On Access To Social Services",
-            "Neither On Income Nor On Access To Social Services"
+            "Protection profile (PP). Identifica los requisitos y especificaciones de seguridad que debe cumplir una familia de productos TIC por evaluar",
+            "Target of evaluation (TOE). Es el producto TIC que pretende validar con respecto a las características de seguridad y su funcionamiento",
+            "Security target (ST). Especifica los requisitos funcionales de seguridad que se solicitan evaluar en el TOE, con respecto a su PP tomado como referencia",
+            "System design (SD). Incluye el diseño detallado de la familia de productos TIC por evaluar"
           ],
-          "correct": "On Income And On Access To Social Services"
-        },
-        {
-          "index": 103,
-          "question": "“The equipment and structures used to produce goods and services” is the definition of",
-          "options": ["Tools", "Machinery", "Capital", "Factors Of Production"],
-          "correct": "Capital"
-        },
-        {
-          "index": 104,
-          "question": "“Above-equilibrium wages paid by firms to increase worker productivity” are known as",
-          "options": ["Compensating Wage", "Efficiency Wage", "Productivity Wage", "Retention Wage"],
-          "correct": "Efficiency Wage"
-        },
-        {
-          "index": 105,
-          "question": "“Government policy aimed at protecting people against the risk of adverse events” is",
-          "options": ["Social Protection", "Social Insurance", "Social Security", "Socialism"],
-          "correct": "Social Insurance"
-        },
-        {
-          "index": 106,
-          "question": "“A difference in wages that arises to offset the non-monetary characteristics of different jobs” is known as",
-          "options": ["Differentiating Differential", "Compensating Differential", "Differentiating Integral", "Compensating Integral"],
-          "correct": "Compensating Differential"
-        },
-        {
-          "index": 107,
-          "question": "For a competitive and profit-maximising firm,",
-          "options": [
-            "Each Factor’s Rental Price < The Value Of The Marginal Product For That Factor",
-            "Each Factor’s Rental Price = The Value Of The Marginal Product For That Factor",
-            "Each Factor’s Rental Price > The Value Of The Marginal Product For That Factor",
-            "Each Factor’s Rental Price = The Value Of The Average Product For That Factor"
-          ],
-          "correct": "Each Factor’s Rental Price = The Value Of The Marginal Product For That Factor"
-        },
-        {
-          "index": 108,
-          "question": "“A condition characterised by severe deprivation of basic human needs, including food, safe drinking water, sanitation facilities, health, shelter, education and information” is known as",
-          "options": ["Absolute Poverty", "Relative Poverty", "Median Poverty", "Poverty Line"],
-          "correct": "Absolute Poverty"
-        },
-        {
-          "index": 109,
-          "question": "“A condition where a household’s income is lower than the median income in the particular country” is known as",
-          "options": ["Absolute Poverty", "Relative Poverty", "Median Poverty", "Poverty Line"],
-          "correct": "Relative Poverty"
-        },
-        {
-          "index": 110,
-          "question": "“The increase in the amount of output from an additional unit of labor” is",
-          "options": ["Marginal Product Of Labour", "Marginal Product Of Input", "Average Product Of Labour", "Average Product Of Input"],
-          "correct": "Marginal Product Of Labour"
-        },
-        {
-          "index": 111,
-          "question": "An action taken by an uninformed party to induce an informed party to reveal information is known as",
-          "options": ["signalling", "screening", "informing", "heuristics"],
-          "correct": "screening"
-        },
-        {
-          "index": 112,
-          "question": "The part of actual resources that can be developed profitably in the future are",
-          "options": ["potential resources", "actual resources", "reserve resources", "stock resources"],
-          "correct": "reserve resources"
-        },
-        {
-          "index": 113,
-          "question": "The limit on the consumption bundles that a consumer can afford is known as",
-          "options": ["consumption constraint", "budget constraint", "bundle constraint", "affordability constraint"],
-          "correct": "budget constraint"
-        },
-        {
-          "index": 114,
-          "question": "Mental short cut using emotion (gut feeling) to influence the decision is",
-          "options": ["affect heuristic", "availability heuristic", "effort heuristic", "familiarity heuristic"],
-          "correct": "affect heuristic"
-        },
-        {
-          "index": 115,
-          "question": "Those resources that are currently being used after surveying, quantification and qualification are",
-          "options": ["potential resources", "actual resources", "reserve resources", "stock resources"],
-          "correct": "actual resources"
-        },
-        {
-          "index": 116,
-          "question": "The change in consumption that results when a price change moves the consumer along a given indifference curve to a point with a new marginal rate of substitution is known as",
-          "options": ["income effect", "substitution effect", "indifference effect", "budget effect"],
-          "correct": "substitution effect"
-        },
-        {
-          "index": 117,
-          "question": "An inferior good whose demand increases with price is called as",
-          "options": ["Normal good", "Veblen good", "Giffen good", "Demand good"],
-          "correct": "Giffen good"
-        },
-        {
-          "index": 118,
-          "question": "Which of these is not a property of indifference curves?",
-          "options": [
-            "Higher indifference curves are preferred to lower ones",
-            "Indifference curves are downward-sloping",
-            "Indifference curves cross at right angles",
-            "Indifference curves are bowed inwards"
-          ],
-          "correct": "Indifference curves cross at right angles"
-        },
-        {
-          "index": 119,
-          "question": "An action taken by an informed party to reveal private information to an uninformed party is known as",
-          "options": ["signalling", "screening", "informing", "heuristics"],
-          "correct": "signalling"
-        },
-        {
-          "index": 120,
-          "question": "Simple strategies or mental processes used to quickly form judgments, make decisions, and find solutions to complex problems is known as",
-          "options": ["signalling", "screening", "informing", "heuristics"],
-          "correct": "heuristics"
-        },
-        {
-          "index": 121,
-          "question": "As per Wildlife Protection Act 1972 (WPA 1972), wild life includes any animal, aquatic or land vegetation which forms part of any _____ .",
-          "options": ["ecosystem", "state", "country", "habitat"],
-          "correct": "habitat"
-        },
-        {
-          "index": 122,
-          "question": "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
-          "options": ["umbrella species", "keystone species", "flagship species", "all of the above"],
-          "correct": "all of the above"
-        },
-        {
-          "index": 123,
-          "question": "Soil formation is an example of",
-          "options": ["provisioning service", "regulating service", "supporting service", "cultural service"],
-          "correct": "supporting service"
-        },
-        {
-          "index": 124,
-          "question": "Zoo is an example of",
-          "options": ["in-situ conservation", "ex-situ conservation", "in-situ preservation", "ex-situ preservation"],
-          "correct": "ex-situ conservation"
-        },
-        {
-          "index": 125,
-          "question": "The fig tree bears fruits in times when animals do not have much access to food. In this context, it would be a good example of",
-          "options": ["least concern species", "keystone species", "flagship species", "extinct species"],
-          "correct": "keystone species"
-        },
-        {
-          "index": 126,
-          "question": "Nutrient cycling is an example of",
-          "options": ["provisioning service", "regulating service", "supporting service", "cultural service"],
-          "correct": "supporting service"
-        },
-        {
-          "index": 127,
-          "question": "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
-          "options": ["umbrella species", "keystone species", "flagship species", "extinct species"],
-          "correct": "flagship species"
-        },
-        {
-          "index": 128,
-          "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
-          "options": ["very high", "medium", "very low", "non-existent"],
-          "correct": "very low"
-        },
-        {
-          "index": 129,
-          "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
-          "options": ["umbrella species", "keystone species", "flagship species", "all of the above"],
-          "correct": "all of the above"
-        },
-        {
-          "index": 130,
-          "question": "Biological control of pest populations is an example of",
-          "options": ["provisioning service", "regulating service", "supporting service", "cultural service"],
-          "correct": "regulating service"
-        },
-        {
-          "index": 131,
-          "question": "The inputs used to produce goods and services",
-          "options": ["Factors of input", "Factors of production", "Factors of industry", "Factors of market"],
-          "correct": "Factors of production"
-        },
-        {
-          "index": 132,
-          "question": "When a consumer is at risk of getting sold a good of cheap quality, that situation is called",
-          "options": ["NA", "NA", "NA", "NA"],
-          "correct": "Adverse selection"
-        },
-        {
-          "index": 133,
-          "question": "Defence is a",
-          "options": ["Public good", "Private good", "Common resources", "Club resource"],
-          "correct": "Public good"
-        },
-        {
-          "index": 134,
-          "question": "Environment is a",
-          "options": ["Public good", "Private good", "Common resources", "Club resource"],
-          "correct": "Common resource"
-        },
-        {
-          "index": 135,
-          "question": "The political philosophy according to which the government should punish crimes and enforce voluntary agreements but not redistribute income is",
-          "options": ["Utilitarianism", "Liberalism", "Libertarianism", "Socialism"],
-          "correct": "Libertarianism"
-        },
-        {
-          "index": 136,
-          "question": "Mesodebris size",
-          "options": ["5mm <", "5mm - 20mm", "> 20mm", "NA"],
-          "correct": "5mm - 20mm"
-        },
-        {
-          "index": 137,
-          "question": "Size of macrodebris w.r.t plastic",
-          "options": ["NA", "NA", "NA", "NA"],
-          "correct": "> 20mm"
-        },
-        {
-          "index": 138,
-          "question": "What affects Earth the least",
-          "options": ["Sun's orbit", "Earth's orbit", "Sun's rays", "Earth's tectonic plates"],
-          "correct": "Sun's orbit"
-        },
-        {
-          "index": 139,
-          "question": "A question was asked on something increasing",
-          "options": ["NA", "NA", "NA", "NA"],
-          "correct": "Escalating"
-        },
-        {
-          "index": 140,
-          "question": "For a positive consumption externality",
-          "options": ["SMC = PMC + MD", "SMC = PMC - MD", "SMC = PMC", "SMC = PMC - MB"],
-          "correct": "SMC = PMC"
-        },
-        {
-          "index": 141,
-          "question": "Impact of carbon",
-          "options": ["Cost of carbon", "Economic cost of carbon", "Cultural cost of carbon", "Social cost of carbon"],
-          "correct": "Economic cost of carbon"
-        },
-        {
-          "index": 142,
-          "question": "Which of the following is true for monopoly?",
-          "options": ["P > MR", "MR > MC", "MC > P", "MC > MR"],
-          "correct": "P > MR"
-        },
-        {
-          "index": 143,
-          "question": "Government policies for \"veil of ignorance\"",
-          "options": ["NA", "NA", "NA", "NA"],
-          "correct": "Policies focusing on fairness, equality, justice, or protecting the disadvantaged"
-        },
-        {
-          "index": 144,
-          "question": "Supply of medicines is an example of",
-          "options": ["Provisioning service", "Regulating service", "Supporting service", "Cultural service"],
-          "correct": "Provisioning service"
-        },
-        {
-          "index": 145,
-          "question": "The rate of any biological process is limited by that factor in least amount relative to requirement. This is the statement for",
-          "options": ["Liebig's law of the minimum", "Liebig's law of the maximum", "Shelford's law of tolerance", "Shelford's law of intolerance"],
-          "correct": "Liebig's law of the minimum"
-        },
-        {
-          "index": 146,
-          "question": "The claim that, other things being equal, the quantity supplied of a good rises when the price of the good rises is a statement of",
-          "options": ["Law of demand", "Law of supply", "Law of quantity demanded", "Law of quantity supplied"],
-          "correct": "Law of supply"
-        },
-        {
-          "index": 147,
-          "question": "Captive breeding is an example of",
-          "options": ["In-situ conservation", "Ex-situ conservation", "In-situ preservation", "Ex-situ preservation"],
-          "correct": "Ex-situ conservation"
-        },
-        {
-          "index": 148,
-          "question": "A legal minimum on the price at which a good can be sold is",
-          "options": ["Price ceiling", "Price floor", "Selling ceiling", "Selling floor"],
-          "correct": "Price floor"
-        },
-        {
-          "index": 149,
-          "question": "A graph of the relationship between the price of a good and the quantity supplied is",
-          "options": ["Demand curve", "Supply curve", "Laffer's curve", "Phillips curve"],
-          "correct": "Supply curve"
-        },
-        {
-          "index": 150,
-          "question": "Hydrogen for nuclear fusion is an example of",
-          "options": ["Potential resource", "Actual resource", "Reserve resource", "Stock resource"],
-          "correct": "Stock resource"
-        },
-        {
-          "index": 151,
-          "question": "Loss of ecosystem services due to mining is an example of",
-          "options": ["Negative production externality", "Positive production externality", "Negative consumption externality", "Positive consumption externality"],
-          "correct": "Negative production externality"
-        },
-        {
-          "index": 152,
-          "question": "The fig tree would be a good example of",
-          "options": ["Least concern species", "Keystone species", "Flagship species", "Extinct species"],
-          "correct": "Keystone species"
-        },
-        {
-          "index": 153,
-          "question": "Supply of medicines is an example of",
-          "options": ["Provisioning service", "Regulating service", "Supporting service", "Cultural service"],
-          "correct": "Provisioning service"
-        },
-        {
-          "index": 154,
-          "question": "The extent to which a chemical substance is available for uptake into an organism is",
-          "options": ["Bioavailability", "Bioaccumulation", "Biomagnification", "Bioresponse"],
-          "correct": "Bioavailability"
-        },
-        {
-          "index": 155,
-          "question": "Because of climate change, Mudumalai Tiger Reserve is suffering from frequent droughts. The management builds artificial water holes and fills them with tankers. This action is called",
-          "options": ["Adaptation", "Mitigation", "Deceleration", "Maladaptation"],
-          "correct": "Adaptation"
-        },
-        {
-          "index": 156,
-          "question": "The market value of the inputs a firm uses in production is",
-          "options": ["Total revenue", "Total cost", "Profit", "Loss"],
-          "correct": "Total cost"
-        },
-        {
-          "index": 157,
-          "question": "Which of these is not an impact of toxic chemicals?",
-          "options": ["Lethal effects", "Sub-lethal effects", "Reduction of existing stressors", "Reduced fecundity"],
-          "correct": "Reduction of existing stressors"
-        },
-        {
-          "index": 158,
-          "question": "A visual model of the economy showing how money flows through markets among households and firms is",
-          "options": ["Phillips curve", "Laffer's curve", "Circular flow diagram", "Production possibilities frontier"],
-          "correct": "Circular flow diagram"
-        },
-        {
-          "index": 159,
-          "question": "Coffee powder and sugar are",
-          "options": ["Substitutes", "Complements", "Club goods", "Public goods"],
-          "correct": "Complements"
-        },
-        {
-          "index": 160,
-          "question": "Total revenue minus total explicit cost is a definition of",
-          "options": ["Economic profit", "Accounting profit", "Profit", "Loss"],
-          "correct": "Accounting profit"
-        },
-        {
-          "index": 161,
-          "question": "Public goods are",
-          "options": ["Excludable, rival in consumption", "Non-excludable, rival in consumption", "Excludable, non-rival in consumption", "Non-excludable, non-rival in consumption"],
-          "correct": "Non-excludable, non-rival in consumption"
-        },
-        {
-          "index": 162,
-          "question": "The rate at which a consumer is willing to trade one good for another is known as",
-          "options": ["Marginal rate of substitution", "Marginal rate of exchange", "Marginal rate of trade", "Marginal rate of transfer"],
-          "correct": "Marginal rate of substitution"
-        },
-        {
-          "index": 163,
-          "question": "\"Apple's iPod is good, so Apple should be good for other devices as well.\" This is an example of",
-          "options": ["Confirmation bias", "Halo effect", "Horn effect", "Priming"],
-          "correct": "Halo effect"
-        },
-        {
-          "index": 164,
-          "question": "Those resources that have been surveyed but we lack the technology to use them are",
-          "options": ["Potential resources", "Actual resources", "Reserve resources", "Stock resources"],
-          "correct": "Potential resources"
-        },
-        {
-          "index": 165,
-          "question": "The government mandated replacing incandescent bulbs with LED bulbs to reduce electricity and CO₂ emissions. This is called",
-          "options": ["Adaptation", "Mitigation", "Deceleration", "Maladaptation"],
-          "correct": "Mitigation"
-        },
-        {
-          "index": 166,
-          "question": "Mental shortcut justifying increased investment in a decision because prior investment was made is",
-          "options": ["Affect heuristic", "Availability heuristic", "Effort heuristic", "Escalation of commitment"],
-          "correct": "Escalation of commitment"
-        },
-        {
-          "index": 167,
-          "question": "The increasing concentration of a toxic substance in organisms at higher levels of a food chain is called",
-          "options": ["Bioavailability", "Bioaccumulation", "Biomagnification", "Bioresponse"],
-          "correct": "Biomagnification"
-        },
-        {
-          "index": 168,
-          "question": "A measure of how the quantity supplied of a good responds to a change in its price is",
-          "options": ["Price elasticity of demand", "Income elasticity of demand", "Cross-price elasticity of demand", "Price elasticity of supply"],
-          "correct": "Price elasticity of supply"
+          "correct": "System design (SD). Incluye el diseño detallado de la familia de productos TIC por evaluar"
         }
-        ]
-      }
-    ]
-  }
+      ]
+    }
+  ]
+}
   
