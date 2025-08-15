@@ -42,10 +42,10 @@
           "options": [
             "Buffer overflow.",
             "Validación límites de confianza.",
-            "Validación de entrada.",
+            "Validación de entrada DNS.",
             "Memory leaks."
           ],
-          "correct": "Validación de entrada."
+          "correct": "Validación de entrada DNS."
         },
         {
           "index": 5,
