@@ -27,14 +27,14 @@
         },
         {
           "index": 3,
-          "question": "Se tienen dos opciones para crear archivos temporales de forma segura:",
+          "question": "Señala la respuesta correcta. Se tienen dos opciones para crear archivos temporales de forma segura:",
           "options": [
-            "Generar nombres difíciles de adivinar usando un PRNG criptográficamente seguro.",
+            "Generar los nombres de archivo temporales que sean difíciles de adivinar, usando un generador de números pseudo-aleatorios (PRNG) criptográficamente seguros para crear un elemento aleatorio en cada nombre del archivo temporal.",
             "Almacenar los archivos temporales bajo un directorio no accesible públicamente.",
             "Almacenar los archivos temporales bajo un directorio público.",
             "Generar nombres difíciles de adivinar usando un PRNG estadístico."
           ],
-          "correct": "Generar nombres difíciles de adivinar usando un PRNG criptográficamente seguro."
+          "correct": "Generar los nombres de archivo temporales que sean difíciles de adivinar, usando un generador de números pseudo-aleatorios (PRNG) criptográficamente seguros para crear un elemento aleatorio en cada nombre del archivo temporal."
         },
         {
           "index": 4,
@@ -62,12 +62,12 @@
           "index": 6,
           "question": "Señala la respuesta incorrecta. Consideraciones sobre potenciales vulnerabilidades de Java:",
           "options": [
-            "Seguridad de tipos: campos privados o protegidos deberían ser públicos.",
-            "Campos públicos: no pueden ser accedidos por cualquier parte del programa.",
-            "Serialización: permite capturar y restaurar el estado del programa.",
-            "JVM: puede ser susceptible a desbordamientos si está implementada en C."
+            "Seguridad de tipos. Los campos que son declarados privados o protegidos, o que tienen protección, por defecto, deberían ser públicamente accesibles.",
+            "Campos públicos. Un campo que es declarado público directamente puede ser no ser accedido por cualquier parte de un programa Java y puede ser modificado por las mismas (a no ser que el campo sea declarado como final).",
+            "Serialización. Esta facilidad posibilita que el estado del programa sea capturado y convertido en un byte stream que puede ser restaurado por la operación inversa, que es la deserialización.",
+            " JVM. La JVM, en sí misma, a menudo está escrita en C para una plataforma dada. Esto quiere decir que, sin la atención cuidadosa a detalles de puesta en práctica, la JVM en sí misma no susceptible a problemas de desbordamiento."
           ],
-          "correct": "Campos públicos: no pueden ser accedidos por cualquier parte del programa."
+          "correct": "Campos públicos. Un campo que es declarado público directamente puede ser no ser accedido por cualquier parte de un programa Java y puede ser modificado por las mismas (a no ser que el campo sea declarado como final)."
         },
         {
           "index": 7,
