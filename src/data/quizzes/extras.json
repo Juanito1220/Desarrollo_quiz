@@ -1,238 +1,658 @@
 {
     "quizzes": [
-      {
-        "title": "extras",
-        "questions": [
-          {
-            "index": 1,
-            "question": "The inputs used to produce goods and services",
-            "options": ["Factors of input", "Factors of production", "Factors of industry", "Factors of market"],
-            "correct": "Factors of production"
-          },
-          {
-            "index": 2,
-            "question": "When a consumer is at risk of getting sold a good of cheap quality, that situation is called",
-            "options": ["Adverse Selection", "NA", "NA", "NA"],
-            "correct": "Adverse selection"
-          },
-          {
-            "index": 3,
-            "question": "Defence is a",
-            "options": ["Public good", "Private good", "Common resources", "Club resource"],
-            "correct": "Public good"
-          },
-          {
-            "index": 4,
-            "question": "Environment is a",
-            "options": ["Public good", "Private good", "Common resources", "Club resource"],
-            "correct": "Common resources"
-          },
-          {
-            "index": 5,
-            "question": "The political philosophy according to which the government should punish crimes and enforce voluntary agreements but not redistribute income is",
-            "options": ["Utilitarianism", "Liberalism", "Libertarianism", "Socialism"],
-            "correct": "Libertarianism"
-          },
-          {
-            "index": 6,
-            "question": "Mesodebris size",
-            "options": ["5mm <", "5mm - 20mm", "> 20mm", "NA"],
-            "correct": "5mm - 20mm"
-          },
-          {
-            "index": 7,
-            "question": "Size of macrodebris w.r.t plastic",
-            "options": ["> 20mm", "NA", "NA", "NA"],
-            "correct": "> 20mm"
-          },
-          {
-            "index": 8,
-            "question": "What affects Earth the least",
-            "options": ["Sun's orbit", "Earth's orbit", "Sun's rays", "Earth's tectonic plates"],
-            "correct": "Sun's orbit"
-          },
-          {
-            "index": 9,
-            "question": "A question was asked on something increasing",
-            "options": ["Escalating", "NA", "NA", "NA"],
-            "correct": "Escalating"
-          },
-          {
-            "index": 10,
-            "question": "For a positive consumption externality",
-            "options": ["SMC = PMC + MD", "SMC = PMC - MD", "SMC = PMC", "SMC = PMC - MB"],
-            "correct": "SMC = PMC"
-          },
-          {
-            "index": 11,
-            "question": "Impact of carbon",
-            "options": ["Cost of carbon", "Economic cost of carbon", "Cultural cost of carbon", "Social cost of carbon"],
-            "correct": "Economic cost of carbon"
-          },
-          {
-            "index": 12,
-            "question": "Which of the following is true for monopoly?",
-            "options": ["P > MR", "MR > MC", "MC > P", "MC > MR"],
-            "correct": "P > MR"
-          },
-          {
-            "index": 13,
-            "question": "Government policies for \"veil of ignorance\"",
-            "options": ["Policies focusing on fairness, equality, justice, or protecting the disadvantaged", "NA", "NA", "NA"],
-            "correct": "Policies focusing on fairness, equality, justice, or protecting the disadvantaged"
-          },
-          {
-            "index": 14,
-            "question": "Supply of medicines is an example of",
-            "options": ["Provisioning service", "Regulating service", "Supporting service", "Cultural service"],
-            "correct": "Provisioning service"
-          },
-          {
-            "index": 15,
-            "question": "The rate of any biological process is limited by that factor in least amount relative to requirement. This is the statement for",
-            "options": ["Liebig's law of the minimum", "Liebig's law of the maximum", "Shelford's law of tolerance", "Shelford's law of intolerance"],
-            "correct": "Liebig's law of the minimum"
-          },
-          {
-            "index": 16,
-            "question": "The claim that, other things being equal, the quantity supplied of a good rises when the price of the good rises is a statement of",
-            "options": ["Law of demand", "Law of supply", "Law of quantity demanded", "Law of quantity supplied"],
-            "correct": "Law of supply"
-          },
-          {
-            "index": 17,
-            "question": "Captive breeding is an example of",
-            "options": ["In-situ conservation", "Ex-situ conservation", "In-situ preservation", "Ex-situ preservation"],
-            "correct": "Ex-situ conservation"
-          },
-          {
-            "index": 18,
-            "question": "A legal minimum on the price at which a good can be sold is",
-            "options": ["Price ceiling", "Price floor", "Selling ceiling", "Selling floor"],
-            "correct": "Price floor"
-          },
-          {
-            "index": 19,
-            "question": "A graph of the relationship between the price of a good and the quantity supplied is",
-            "options": ["Demand curve", "Supply curve", "Laffer's curve", "Phillips curve"],
-            "correct": "Supply curve"
-          },
-          {
-            "index": 20,
-            "question": "Hydrogen for nuclear fusion is an example of",
-            "options": ["Potential resource", "Actual resource", "Reserve resource", "Stock resource"],
-            "correct": "Stock resource"
-          },
-          {
-            "index": 21,
-            "question": "Loss of ecosystem services due to mining is an example of",
-            "options": ["Negative production externality", "Positive production externality", "Negative consumption externality", "Positive consumption externality"],
-            "correct": "Negative production externality"
-          },
-          {
-            "index": 22,
-            "question": "The fig tree would be a good example of",
-            "options": ["Least concern species", "Keystone species", "Flagship species", "Extinct species"],
-            "correct": "Keystone species"
-          },
-          {
-            "index": 23,
-            "question": "Supply of medicines is an example of",
-            "options": ["Provisioning service", "Regulating service", "Supporting service", "Cultural service"],
-            "correct": "Provisioning service"
-          },
-          {
-            "index": 24,
-            "question": "The extent to which a chemical substance is available for uptake into an organism is",
-            "options": ["Bioavailability", "Bioaccumulation", "Biomagnification", "Bioresponse"],
-            "correct": "Bioavailability"
-          },
-          {
-            "index": 25,
-            "question": "Because of climate change, Mudumalai Tiger Reserve is suffering from frequent droughts. The management builds artificial water holes and fills them with tankers. This action is called",
-            "options": ["Adaptation", "Mitigation", "Deceleration", "Maladaptation"],
-            "correct": "Adaptation"
-          },
-          {
-            "index": 26,
-            "question": "The market value of the inputs a firm uses in production is",
-            "options": ["Total revenue", "Total cost", "Profit", "Loss"],
-            "correct": "Total cost"
-          },
-          {
-            "index": 27,
-            "question": "Which of these is not an impact of toxic chemicals?",
-            "options": ["Lethal effects", "Sub-lethal effects", "Reduction of existing stressors", "Reduced fecundity"],
-            "correct": "Reduction of existing stressors"
-          },
-          {
-            "index": 28,
-            "question": "A visual model of the economy showing how money flows through markets among households and firms is",
-            "options": ["Phillips curve", "Laffer's curve", "Circular flow diagram", "Production possibilities frontier"],
-            "correct": "Circular flow diagram"
-          },
-          {
-            "index": 29,
-            "question": "Coffee powder and sugar are",
-            "options": ["Substitutes", "Complements", "Club goods", "Public goods"],
-            "correct": "Complements"
-          },
-          {
-            "index": 30,
-            "question": "Total revenue minus total explicit cost is a definition of",
-            "options": ["Economic profit", "Accounting profit", "Profit", "Loss"],
-            "correct": "Accounting profit"
-          },
-          {
-            "index": 31,
-            "question": "Public goods are",
-            "options": ["Excludable, rival in consumption", "Non-excludable, rival in consumption", "Excludable, non-rival in consumption", "Non-excludable, non-rival in consumption"],
-            "correct": "Non-excludable, non-rival in consumption"
-          },
-          {
-            "index": 32,
-            "question": "The rate at which a consumer is willing to trade one good for another is known as",
-            "options": ["Marginal rate of substitution", "Marginal rate of exchange", "Marginal rate of trade", "Marginal rate of transfer"],
-            "correct": "Marginal rate of substitution"
-          },
-          {
-            "index": 33,
-            "question": "\"Apple's iPod is good, so Apple should be good for other devices as well.\" This is an example of",
-            "options": ["Confirmation bias", "Halo effect", "Horn effect", "Priming"],
-            "correct": "Halo effect"
-          },
-          {
-            "index": 34,
-            "question": "Those resources that have been surveyed but we lack the technology to use them are",
-            "options": ["Potential resources", "Actual resources", "Reserve resources", "Stock resources"],
-            "correct": "Potential resources"
-          },
-          {
-            "index": 35,
-            "question": "The government mandated replacing incandescent bulbs with LED bulbs to reduce electricity and CO₂ emissions. This is called",
-            "options": ["Adaptation", "Mitigation", "Deceleration", "Maladaptation"],
-            "correct": "Mitigation"
-          },
-          {
-            "index": 36,
-            "question": "Mental shortcut justifying increased investment in a decision because prior investment was made is",
-            "options": ["Affect heuristic", "Availability heuristic", "Effort heuristic", "Escalation of commitment"],
-            "correct": "Escalation of commitment"
-          },
-          {
-            "index": 37,
-            "question": "The increasing concentration of a toxic substance in organisms at higher levels of a food chain is called",
-            "options": ["Bioavailability", "Bioaccumulation", "Biomagnification", "Bioresponse"],
-            "correct": "Biomagnification"
-          },
-          {
-            "index": 38,
-            "question": "A measure of how the quantity supplied of a good responds to a change in its price is",
-            "options": ["Price elasticity of demand", "Income elasticity of demand", "Cross-price elasticity of demand", "Price elasticity of supply"],
-            "correct": "Price elasticity of supply"
-          }
-        ]
-      }
+        {
+            "title": "extras",
+            "questions": [
+                {
+                    "index": 1,
+                    "question": "Señalar la respuesta incorrecta. Los factores principales prácticos que determinan la utilidad de una herramienta de análisis estático son:",
+                    "options": [
+                        "El equilibrio que la herramienta hace entre la extensión del código fuente y el tipo de lenguaje de programación.",
+                        "Porcentaje de falsos positivos y falsos negativos de la herramienta.",
+                        "El conjunto de errores que la herramienta comprueba.",
+                        "Las características de la herramienta para hacerla fácil de usar."
+                    ],
+                    "correct": "El equilibrio que la herramienta hace entre la extensión del código fuente y el tipo de lenguaje de programación."
+                },
+                {
+                    "index": 2,
+                    "question": "Señalar la respuesta correcta. ¿Qué es un caso de abuso?",
+                    "options": [
+                        "Un escenario que ilustra de manera gráfica y textual potenciales fallos de seguridad ante específicas circunstancias.",
+                        "Una base de datos del MITRE.",
+                        "Un escenario que ilustra de manera gráfica y textual funcionalidades de seguridad del software ante específicas circunstancias.",
+                        "Un patrón de diseño para un desarrollador."
+                    ],
+                    "correct": "Un escenario que ilustra de manera gráfica y textual potenciales fallos de seguridad ante específicas circunstancias."
+                },
+                {
+                    "index": 3,
+                    "question": "Señalar la respuesta correcta. Con respecto a las guías de estilo:",
+                    "options": [
+                        "Son aconsejables, porque unifican la construcción de software.",
+                        "No son aconsejables, porque otorgan al adversario conocimiento del sistema.",
+                        "Ni son aconsejables, ni están desaconsejadas, depende de la situación.",
+                        "Son aconsejables porque ayudan al posicionamiento del producto en el mercado."
+                    ],
+                    "correct": "Son aconsejables, porque unifican la construcción de software."
+                },
+                {
+                    "index": 4,
+                    "question": "Señalar la respuesta incorrecta. Un profesional del software que se preocupa por la seguridad y actúa en conciencia reconoce que las vulnerabilidades y debilidades del software se pueden originar en cualquier punto del ciclo de desarrollo del software, como:",
+                    "options": [
+                        "Aplicación de requisitos inadecuados.",
+                        "Casos de uso de seguridad.",
+                        "Malas decisiones de diseño e implementación.",
+                        "Inclusión de involuntarios errores de codificación o de configuración."
+                    ],
+                    "correct": "Casos de uso de seguridad."
+                },
+                {
+                    "index": 5,
+                    "question": "Señalar la respuesta correcta. ¿Cuál es la razón de la existencia de la función de auditoría de sistemas?",
+                    "options": [
+                        "La información es un recurso clave.",
+                        "Los riesgos tienden a aumentar.",
+                        "El permanente avance tecnológico.",
+                        "Todas las respuestas son correctas."
+                    ],
+                    "correct": "Todas las respuestas son correctas."
+                },
+                {
+                    "index": 6,
+                    "question": "Señalar la respuesta correcta. El comité de Informática:",
+                    "options": [
+                        "Se encargan de hacer de interfaz entre los usuarios y los informáticos. Está compuesto por expertos en una materia, y conocen muy bien el negocio/modelo de datos que manejan.",
+                        "Diseña el plan estratégico de la compañía.",
+                        "Elabora el Plan Director de Informática, que se corresponde con el Plan Estratégico. Puede ser a un año o a dos.",
+                        "Ninguna de las respuestas."
+                    ],
+                    "correct": "Se encargan de hacer de interfaz entre los usuarios y los informáticos. Está compuesto por expertos en una materia, y conocen muy bien el negocio/modelo de datos que manejan."
+                },
+                {
+                    "index": 7,
+                    "question": "Señalar la respuesta incorrecta. En términos de activos de sistemas de información, podemos distinguir los siguientes elementos:",
+                    "options": [
+                        "Humanware.",
+                        "Software.",
+                        "Hardware.",
+                        "Activos."
+                    ],
+                    "correct": "Activos."
+                },
+                {
+                    "index": 8,
+                    "question": "Señalar la respuesta correcta. ¿Cuál de las siguientes técnicas es utilizada habitualmente para las auditorías de seguridad de sistemas?",
+                    "options": [
+                        "Sniffing de red.",
+                        "Man in the middle.",
+                        "ARP poisoning.",
+                        "Fingerprint."
+                    ],
+                    "correct": "Fingerprint."
+                },
+                {
+                    "index": 9,
+                    "question": "Señalar la respuesta correcta. En un SGSI - Sistema de Gestión de Seguridad de la Información, el análisis de riesgos es un requisito de:",
+                    "options": [
+                        "ISO 15504",
+                        "ISO 27002",
+                        "ISO 27001",
+                        "ISO 20000-1"
+                    ],
+                    "correct": "ISO 27001"
+                },
+                {
+                    "index": 10,
+                    "question": "Señalar la respuesta correcta. Indicar la utilidad de los Patrones de Ataque en la etapa de Especificación de requisitos.",
+                    "options": [
+                        "Proporciona ejemplos de ataques que aprovechan las vulnerabilidades de la arquitectura elegida.",
+                        "Pueden ser utilizados para orientar las pruebas de seguridad del software en un contexto práctico y realista identificando debilidades concretas para generar casos de prueba para cada componente.",
+                        "Permitirá la selección de políticas de seguridad y configuraciones acordes a las amenazas obtenidas de los patrones de ataque.",
+                        "Ayuda a definir el comportamiento del sistema para prevenir o reaccionar ante un tipo específico de ataque probable."
+                    ],
+                    "correct": "Ayuda a definir el comportamiento del sistema para prevenir o reaccionar ante un tipo específico de ataque probable."
+                },
+                {
+                    "index": 11,
+                    "question": "Señalar la respuesta correcta. El incorporar una característica en la aplicación como \"Guardar información en archivos binarios\" corresponde al Principio de diseño:",
+                    "options": [
+                        "Entorno de producción o ejecución inseguro.",
+                        "Fallar de Forma Segura.",
+                        "Diseño de software resistente.",
+                        "La seguridad por oscuridad: error."
+                    ],
+                    "correct": "La seguridad por oscuridad: error."
+                },
+                {
+                    "index": 12,
+                    "question": "Señalar la respuesta correcta. En relación a las metodologías de auditoría, podemos afirmar que:",
+                    "options": [
+                        "Realmente solo existe una y es basada en Riesgos o Risk Oriented Approach.",
+                        "Cada firma (empresa) de auditoría puede desarrollar la suya propia, siendo la más difundida la basada en riesgos EDR (ROA).",
+                        "La basada en cuestionarios o checklist es utilizada por auditores con experiencia pues se la envían por correo electrónico al cliente para que la complete.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Cada firma (empresa) de auditoría puede desarrollar la suya propia, siendo la más difundida la basada en riesgos EDR (ROA)."
+                },
+                {
+                    "index": 13,
+                    "question": "Señalar la respuesta correcta. ¿Qué metodología de auditoría se adapta mejor a las compañías?",
+                    "options": [
+                        "Cualquiera que tenga relación con los sistemas de información.",
+                        "La metodología marcada por entidades reconocidas como IAI, ISACA,...",
+                        "La que sea completa y este adecuada las necesidades de la compañía.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "La que sea completa y este adecuada las necesidades de la compañía."
+                },
+                {
+                    "index": 14,
+                    "question": "Señalar la respuesta correcta. ¿Por qué es necesario disponer de procedimientos de operación de las plataformas?",
+                    "options": [
+                        "Porque es necesario tener documentadas estas actividades para poder hacer pruebas de cumplimiento en los mismos",
+                        "Para que las tareas de administración puedan ser realizadas por todos los administradores, incluso para las nuevas incorporaciones o personal de menor experiencia",
+                        "Para que cualquier persona pueda realizar las funciones de administración de sistemas, siempre que encuentre los procedimientos que custodian los administradores",
+                        "Las opciones b y c son correctas."
+                    ],
+                    "correct": "Para que las tareas de administración puedan ser realizadas por todos los administradores, incluso para las nuevas incorporaciones o personal de menor experiencia"
+                },
+                {
+                    "index": 15,
+                    "question": "Señalar la respuesta correcta. ¿Cuál de los estándares de clasificación y gestión de vulnerabilidades incluye “Bases de datos con listas de comprobación de configuraciones de seguridad de productos”?",
+                    "options": [
+                        "CVRF.",
+                        "CVSS.",
+                        "NVD.",
+                        "CVE."
+                    ],
+                    "correct": "NVD."
+                },
+                {
+                    "index": 16,
+                    "question": "Señalar la respuesta incorrecta. Cuando se realiza una auditoría de infraestructura de red, deben tenerse en cuenta los siguientes aspectos:",
+                    "options": [
+                        "Revisión de la instalación de los servidores.",
+                        "Revisión de planes de seguridad.",
+                        "Revisar la documentación de seguridad del software de sistema.",
+                        "Entrevistas al administrador y operadores de red."
+                    ],
+                    "correct": "Revisar la documentación de seguridad del software de sistema."
+                },
+                {
+                    "index": 17,
+                    "question": "Señalar la respuesta correcta. Un tipo de clasificación de controles puede ser:",
+                    "options": [
+                        "Controles Generales (Entrada de Datos, Tratamiento de Datos, Salida de Datos), Controles de Aplicación (Organización y Operación, Desarrollo de Sistemas y Documentación, Hardware y Software de Sistemas) y Controles por área",
+                        "Controles compensatorios y asumibles",
+                        "Controles Generales (Organización y Operación, Desarrollo de Sistemas y Documentación, Hardware y Software de Sistemas), Controles de Aplicación (Entrada de Datos, Tratamiento de Datos, Salida de Datos) y Controles por área",
+                        "Solo existen los controles de productos informáticos y por motivos legales."
+                    ],
+                    "correct": "Controles Generales (Organización y Operación, Desarrollo de Sistemas y Documentación, Hardware y Software de Sistemas), Controles de Aplicación (Entrada de Datos, Tratamiento de Datos, Salida de Datos) y Controles por área"
+                },
+                {
+                    "index": 18,
+                    "question": "Señalar la respuesta correcta. A qué tipo de auditoría se corresponde la siguiente afirmación \"Son auditorías o revisiones de seguridad técnica de un sistema o sistemas informáticos o de telecomunicaciones de una organización o de su operación\"",
+                    "options": [
+                        "Auditoría de seguridad operativa/técnica.",
+                        "Auditoría de cumplimiento de la seguridad de la información.",
+                        "Auditoría de seguridad de sistemas.",
+                        "Auditoría de seguridad de procedimientos."
+                    ],
+                    "correct": "Auditoría de seguridad operativa/técnica."
+                },
+                {
+                    "index": 19,
+                    "question": "Señalar la respuesta correcta. ¿Cuál es la regla de oro?",
+                    "options": [
+                        "Confidencialidad, Integridad y cifrado.",
+                        "La ley de Pareto para auditoría: con el 20% del esfuerzo realizas el 80% de la auditoría.",
+                        "Riesgo vs. Control vs. Coste.",
+                        "Riesgo vs. Control vs. Disponibilidad."
+                    ],
+                    "correct": "Riesgo vs. Control vs. Coste."
+                },
+                {
+                    "index": 20,
+                    "question": "Señalar la respuesta correcta. ¿Cuál es la metodología más adecuada para la evaluación de productos de seguridad?",
+                    "options": [
+                        "Technical Guide to Information Security Testing and Assessment (NIST 800-115).",
+                        "Open Web Application Security Project (OWASP).",
+                        "Common Criteria ISO 15408 (CC).",
+                        "Open Wireless Security Assessment Methodology (OWISAM)."
+                    ],
+                    "correct": "Common Criteria ISO 15408 (CC)."
+                },
+                {
+                    "index": 21,
+                    "question": "Señalar la respuesta correcta. Se tienen dos opciones para crear archivos temporales de forma segura:",
+                    "options": [
+                        "Generar los nombres de archivo temporales que sean difíciles de adivinar usando un generador de números criptográficamente seguros pseudo-aleatorios (PRNG) para crear un elemento aleatorio en cada nombre del archivo temporal.",
+                        "Almacenar los archivos temporales bajo un directorio que es públicamente accesible, eliminando así toda la discusión con respecto a ataques.",
+                        "Almacenar los archivos temporales bajo un directorio que es accesible, eliminando así toda la discusión con respecto a ataques.",
+                        "Generar los nombres de archivo temporales que sean difíciles de adivinar usando un generador de números pseudo-aleatorios (PRNG) estadístico para crear un elemento en cada nombre del archivo temporal."
+                    ],
+                    "correct": "Generar los nombres de archivo temporales que sean difíciles de adivinar usando un generador de números criptográficamente seguros pseudo-aleatorios (PRNG) para crear un elemento aleatorio en cada nombre del archivo temporal."
+                },
+                {
+                    "index": 22,
+                    "question": "Indique la respuesta incorrecta. Respecto del ataque a las aplicaciones durante las diferentes fases de su ciclo de vida:",
+                    "options": [
+                        "Distribución e instalación. Ocurre cuando el instalador del software bastiona la plataforma en la que lo instala.",
+                        "Desarrollo. Un desarrollador puede alterar de forma intencionada o no el software bajo desarrollo.",
+                        "Mantenimiento o sostenimiento. No publicación de parches de las vulnerabilidades detectadas en el momento oportuno o incluso introducción de código malicioso por el personal de mantenimiento en las versiones actualizadas del código.",
+                        "Operación. Cualquier software que se ejecuta en una plataforma conectada a la red tiene sus vulnerabilidades expuestas durante su funcionamiento. El nivel de exposición variará dependiendo de si la red es privada o pública, conectada o no a Internet, y si el entorno de ejecución del software ha sido configurado para minimizar sus vulnerabilidades."
+                    ],
+                    "correct": "Distribución e instalación. Ocurre cuando el instalador del software bastiona la plataforma en la que lo instala."
+                },
+                {
+                    "index": 23,
+                    "question": "Señalar la respuesta correcta. ¿Cuál de los siguientes componentes de un Plan de Continuidad ante desastres (PCD) es principalmente responsabilidad del departamento de SI de una compañía?",
+                    "options": [
+                        "Desarrollar el PCD.",
+                        "Declarar un desastre.",
+                        "Restaurar los sistemas de TI y datos después de un desastre.",
+                        "Seleccionar y aprobar las estrategias de recuperación utilizadas en el PCD."
+                    ],
+                    "correct": "Restaurar los sistemas de TI y datos después de un desastre."
+                },
+                {
+                    "index": 24,
+                    "question": "Señalar la respuesta correcta. Dentro de los tipos de auditorías de los sistemas de información y telecomunicaciones nos interesa las auditorías de seguridad. Esta última engloba los dos siguientes tipos:",
+                    "options": [
+                        "Auditoría de seguridad operativa/técnica y auditoría de cumplimiento de la seguridad de la información.",
+                        "Auditoría de seguridad de procedimientos, y auditoría de cumplimiento de la seguridad de la información.",
+                        "Auditoría de seguridad de sistemas y auditoría de seguridad operativa/técnica.",
+                        "Auditoría de cumplimiento de la seguridad de la información y auditorías tecnológicas de seguridad."
+                    ],
+                    "correct": "Auditoría de seguridad operativa/técnica y auditoría de cumplimiento de la seguridad de la información."
+                },
+                {
+                    "index": 25,
+                    "question": "Señalar la respuesta correcta. Un equipo de desarrollo está iniciando un ciclo de desarrollo de software y planea llevar a cabo tests de penetración en algún momento. ¿En qué etapa del ciclo de desarrollo recomendarías llevar a cabo el test de intrusión?",
+                    "options": [
+                        "Al finalizar el diseño inicial de la aplicación.",
+                        "Cuando se consigue ejecutar la aplicación con éxito por primera vez.",
+                        "Cuando la aplicación está cerca del final del ciclo de desarrollo, en la fase de operación y mantenimiento.",
+                        "Todas las anteriores."
+                    ],
+                    "correct": "Cuando la aplicación está cerca del final del ciclo de desarrollo, en la fase de operación y mantenimiento."
+                },
+                {
+                    "index": 26,
+                    "question": "Señalar la respuesta correcta. El aspecto clave de todo gobierno de TI es:",
+                    "options": [
+                        "Que TI entregue valor al negocio y que los riegos sean gestionados.",
+                        "Que se disminuya el gasto de TI y se optimice los costes.",
+                        "Que se cumpla con la normativa.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Que TI entregue valor al negocio y que los riegos sean gestionados."
+                },
+                {
+                    "index": 27,
+                    "question": "Señalar la respuesta correcta. Una librería que maneja string de forma segura, intentará asegurar lo siguiente:",
+                    "options": [
+                        "Las funciones de manejo de cadenas de la biblioteca segura se puede intercambiar sin modificar nada con las funciones de la biblioteca estándar de cadena, y viceversa.",
+                        "Que las cadenas han sido validadas correctamente.",
+                        "Que hay espacio suficiente en una cadena de origen y / o destino para realizar operaciones como concatenación, copia, etc.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Que hay espacio suficiente en una cadena de origen y / o destino para realizar operaciones como concatenación, copia, etc."
+                },
+                {
+                    "index": 28,
+                    "question": "Señalar la respuesta correcta. El principal problema de las herramientas de análisis estático:",
+                    "options": [
+                        "Falsos negativos que produce.",
+                        "Gran cantidad de defectos que encuentra.",
+                        "Reglas de la herramienta.",
+                        "Falsos positivos que produce."
+                    ],
+                    "correct": "Falsos positivos que produce."
+                },
+                {
+                    "index": 29,
+                    "question": "Señalar la respuesta correcta. Los errores de desbordamiento buffer están muy extendidos y normalmente dan a un atacante un control alto del código vulnerable. Se pueden provocar como consecuencia:",
+                    "options": [
+                        "Manipulación de números enteros.",
+                        "Falsificación de logs.",
+                        "Manipulación de rutas.",
+                        "Manejo correcto de cadenas de caracteres."
+                    ],
+                    "correct": "Manipulación de números enteros."
+                },
+                {
+                    "index": 30,
+                    "question": "Señalar la respuesta correcta. ¿Cuáles son los activos de Sistemas de Información más habituales?",
+                    "options": [
+                        "Solo datos.",
+                        "Cualquiera que tenga valor para la empresa menos las personas.",
+                        "Todos aquellos que aporten conocimiento/sabiduría a la organización.",
+                        "Personas, Datos ó Información, Software, Hardware, Telecomunicaciones, Infraestructura."
+                    ],
+                    "correct": "Personas, Datos ó Información, Software, Hardware, Telecomunicaciones, Infraestructura."
+                },
+                {
+                    "index": 31,
+                    "question": "Señalar la respuesta incorrecta. Controles de la metodología “Open Web Application Security Project (OWASP)\":",
+                    "options": [
+                        "Autorización.",
+                        "Gestión de sesiones.",
+                        "Información clasificada.",
+                        "Manejo de errores."
+                    ],
+                    "correct": "Información clasificada."
+                },
+                {
+                    "index": 32,
+                    "question": "Señalar la respuesta correcta. ¿Cuál de las siguientes NO es una técnica a utilizar en la ejecución de una auditoría?",
+                    "options": [
+                        "Entrevistas.",
+                        "Cuestionarios escritos.",
+                        "Muestreos.",
+                        "Simulaciones."
+                    ],
+                    "correct": "Simulaciones."
+                },
+                {
+                    "index": 33,
+                    "question": "Señalar la respuesta correcta. Se tienen dos opciones para crear archivos temporales de forma segura, indique una de ellas:",
+                    "options": [
+                        "Generar los nombres de archivo temporales que sean difíciles de adivinar usando un generador de números criptográficamente seguros pseudo-aleatorios (PRNG) para crear un elemento aleatorio en cada nombre del archivo temporal.",
+                        "Almacenar los archivos temporales bajo un directorio que es públicamente accesible, eliminando así toda la discusión con respecto a ataques.",
+                        "Almacenar los archivos temporales bajo un directorio que es públicamente accesible, eliminando así toda la discusión con respecto a ataques.",
+                        "Generar los nombres de archivo temporales que sean difíciles de adivinar usando un generador de números pseudo-aleatorios (PRNG) estadístico para crear un elemento en cada nombre del archivo temporal."
+                    ],
+                    "correct": "Generar los nombres de archivo temporales que sean difíciles de adivinar usando un generador de números criptográficamente seguros pseudo-aleatorios (PRNG) para crear un elemento aleatorio en cada nombre del archivo temporal."
+                },
+                {
+                    "index": 34,
+                    "question": "Señalar la respuesta correcta. Los lenguajes seguros deben proporcionar una serie propiedades para asegurar que los programas respetan límites de asignación:",
+                    "options": [
+                        "Seguridad de accesos a disco.",
+                        "Seguridad de algoritmos.",
+                        "Seguridad de memoria.",
+                        "Seguridad ciclomática."
+                    ],
+                    "correct": "Seguridad de memoria."
+                },
+                {
+                    "index": 35,
+                    "question": "Señalar la respuesta correcta. ¿Qué es un caso de abuso?",
+                    "options": [
+                        "Un escenario que ilustra de manera gráfica y textual potenciales fallos de seguridad ante específicas circunstancias.",
+                        "Una base de datos del MITRE.",
+                        "Un escenario que ilustra de manera gráfica y textual funcionalidades de seguridad del software ante específicas circunstancias.",
+                        "Un patrón de diseño para un desarrollador."
+                    ],
+                    "correct": "Un escenario que ilustra de manera gráfica y textual potenciales fallos de seguridad ante específicas circunstancias."
+                },
+                {
+                    "index": 36,
+                    "question": "Señalar la práctica de seguridad a la que corresponde la siguiente afirmación. \"Constituyen otra forma de representar la mentalidad del atacante en base a la descripción comportamiento del sistema bajo un ataque\".",
+                    "options": [
+                        "Test de Penetración.",
+                        "Revisión de código.",
+                        "Casos de abuso.",
+                        "Principios de diseño."
+                    ],
+                    "correct": "Casos de abuso."
+                },
+                {
+                    "index": 37,
+                    "question": "Señalar la respuesta incorrecta. El cálculo de código CVSS se realiza en base a tres tipos de métricas:",
+                    "options": [
+                        "Métricas base.",
+                        "Métricas estadísticas.",
+                        "Métricas temporales.",
+                        "Métricas ambientales."
+                    ],
+                    "correct": "Métricas estadísticas."
+                },
+                {
+                    "index": 38,
+                    "question": "Señalar la respuesta correcta. ¿Qué incluye la seguridad del software?",
+                    "options": [
+                        "Patrones de codificación.",
+                        "Principios de diseño seguro.",
+                        "Casos de uso.",
+                        "Buenas prácticas de codificación."
+                    ],
+                    "correct": "Principios de diseño seguro."
+                },
+                {
+                    "index": 39,
+                    "question": "Señalar la respuesta correcta. ¿Qué es un caso de abuso?",
+                    "options": [
+                        "Un escenario que ilustra de manera gráfica y textual potenciales fallos de seguridad ante específicas circunstancias.",
+                        "Una base de datos del MITRE.",
+                        "Un escenario que ilustra de manera gráfica y textual funcionalidades de seguridad del software ante específicas circunstancias.",
+                        "Un patrón de diseño para un desarrollador."
+                    ],
+                    "correct": "Un escenario que ilustra de manera gráfica y textual potenciales fallos de seguridad ante específicas circunstancias."
+                },
+                {
+                    "index": 40,
+                    "question": "Señalar la respuesta correcta. ¿Cuál es la siguiente propiedad de seguridad: \"capacidad que garantiza la posibilidad de imputar las acciones relacionadas en un software a la persona, entidad o proceso que la ha originado\"?",
+                    "options": [
+                        "Robustez.",
+                        "Resiliencia.",
+                        "Autenticación.",
+                        "Trazabilidad."
+                    ],
+                    "correct": "Trazabilidad."
+                },
+                {
+                    "index": 41,
+                    "question": "Señalar la respuesta correcta. El principal problema de las herramientas de análisis estático:",
+                    "options": [
+                        "Falsos negativos que produce.",
+                        "Gran cantidad de defectos que encuentra.",
+                        "Reglas de la herramienta.",
+                        "Falsos positivos que produce."
+                    ],
+                    "correct": "Falsos positivos que produce."
+                },
+                {
+                    "index": 42,
+                    "question": "Señalar la respuesta correcta. Indicar la utilidad de los Patrones de Ataque en la etapa de Especificación de requisitos.",
+                    "options": [
+                        "Proporciona ejemplos de ataques que aprovechan las vulnerabilidades de la arquitectura elegida.",
+                        "Pueden ser utilizados para orientar las pruebas de seguridad del software en un contexto práctico y realista identificando debilidades concretas para generar casos de prueba para cada componente.",
+                        "Permitirá la selección de políticas de seguridad y configuraciones acordes a las amenazas obtenidas de los patrones de ataque.",
+                        "Ayuda a definir el comportamiento del sistema para prevenir o reaccionar ante un tipo específico de ataque probable."
+                    ],
+                    "correct": "Ayuda a definir el comportamiento del sistema para prevenir o reaccionar ante un tipo específico de ataque probable."
+                },
+                {
+                    "index": 43,
+                    "question": "Señalar la respuesta correcta. En relación a la clasificación de controles internos, según su naturaleza podemos afirmar que",
+                    "options": [
+                        "Los controles Detectivos, actúan sobre la causa de los riesgos con el fin de disminuir su probabilidad de ocurrencia",
+                        "Los controles Preventivos, se diseñan para descubrir un evento, irregularidad o resultado no previsto, alertan sobre la presencia de riesgos y permiten tomar medidas inmediatas, pudiendo ser manuales o automáticos",
+                        "Las opciones a y b son correctas",
+                        "Las opciones a y b son incorrectas."
+                    ],
+                    "correct": "Las opciones a y b son incorrectas."
+                },
+                {
+                    "index": 44,
+                    "question": "Señalar la respuesta correcta. El sistema de Gestión de la Seguridad de la Información-SGSI. ¿Cuál tiene PDCA?",
+                    "options": [
+                        "La ISO 27001 y la ISO 27002.",
+                        "Solo la ISO 27002.",
+                        "La ISO 27001.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "La ISO 27001."
+                },
+                {
+                    "index": 45,
+                    "question": "Señalar la respuesta correcta. Al realizar una auditoría basada en el riesgo, ¿Qué tipo de evaluación de riesgos realiza el auditor de un sistema de información como primer paso?",
+                    "options": [
+                        "Evaluación de riesgos inherentes.",
+                        "Evaluación de riesgos de control.",
+                        "Evaluación de riesgo de fraude.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Evaluación de riesgos inherentes."
+                },
+                {
+                    "index": 46,
+                    "question": "¿Es el EDR una metodología de análisis de riesgos de un Sistema de Gestión de Seguridad de la Información - SGSI?",
+                    "options": [
+                        "Si.",
+                        "No.",
+                        "Depende del control interno.",
+                        "Depende del plan estratégico de compañía."
+                    ],
+                    "correct": "Si."
+                },
+                {
+                    "index": 47,
+                    "question": "Señalar la respuesta correcta. Durante una auditoría de seguridad de procesos de TI, un auditor de SI encontró que no había procedimientos de seguridad documentadas. El auditor de SI debe:",
+                    "options": [
+                        "Crear el documento de procedimientos.",
+                        "Dar por terminada la auditoría.",
+                        "Llevar a cabo pruebas de cumplimiento.",
+                        "Identificar y evaluar las prácticas existentes."
+                    ],
+                    "correct": "Identificar y evaluar las prácticas existentes."
+                },
+                {
+                    "index": 48,
+                    "question": "Señalar la respuesta correcta. Según el comportamiento de los controles, los podemos clasificar en:",
+                    "options": [
+                        "Voluntarios",
+                        "Manuales",
+                        "Generales",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Ninguna de las anteriores."
+                },
+                {
+                    "index": 49,
+                    "question": "Señalar la respuesta correcta. ¿Cuál es la definición más clara de una auditoría?",
+                    "options": [
+                        "Proceso por el cual una persona competente e independiente obtiene y evalúa objetivamente evidencias.",
+                        "Proceso sistemático por el cual una persona competente e independiente obtiene y evalúa objetivamente evidencias.",
+                        "Proceso subjetivo por el cual una persona competente e independiente obtiene y evalúa objetivamente evidencias.",
+                        "Proceso sistemático por el cual una persona obtiene y evalúa objetivamente evidencias."
+                    ],
+                    "correct": "Proceso sistemático por el cual una persona competente e independiente obtiene y evalúa objetivamente evidencias."
+                },
+                {
+                    "index": 50,
+                    "question": "Señalar la respuesta correcta. Los Controles Generales se clasifican en:",
+                    "options": [
+                        "Controles de Organización y Operación, Controles de Tratamiento de Datos, así como Controles de Hardware y Software de Sistemas.",
+                        "Controles de Entrada de datos, Controles de Tratamiento de datos y Controles de Salida de datos.",
+                        "Controles de Organización y Operación, Controles de Desarrollo de Sistemas y Documentación, así como Controles de Hardware y Software de Sistemas.",
+                        "Ninguna de las anteriores es cierta."
+                    ],
+                    "correct": "Controles de Organización y Operación, Controles de Desarrollo de Sistemas y Documentación, así como Controles de Hardware y Software de Sistemas."
+                },
+                {
+                    "index": 51,
+                    "question": "Señalar la respuesta incorrecta. Los casos de abuso, o casos de mal uso, son un instrumento que puede ayudar a pensar de la misma forma que lo hacen los atacantes. Pensando más allá de los aspectos normativos y funcionales y también estudiando eventos negativos o inesperados, los profesionales de seguridad de software entienden mejor cómo crear software seguro, pues permiten obtener una mejor comprensión de las áreas de riesgo del sistema a través de:",
+                    "options": [
+                        "Identificación los objetivos de seguridad que debe cumplir el software",
+                        "Identificación de los puntos seguros del software.",
+                        "Identificación de las amenazas de seguridad a ser neutralizadas por el software.",
+                        "Obtener requisitos de seguridad que garanticen que el software aplica las restricciones necesarias."
+                    ],
+                    "correct": "Identificación de los puntos seguros del software."
+                },
+                {
+                    "index": 52,
+                    "question": "Señalar la respuesta correcta. Pruebas que consisten en la introducción de datos no válidos (por lo general producido por la modificación de una entrada válida) al software a través de su entorno o a través de otro componente de mismo, son pruebas del tipo:",
+                    "options": [
+                        "Inyección de fallos en binarios.",
+                        "Análisis código binario.",
+                        "Inyección de fallos en código fuente.",
+                        "Fuzz testing."
+                    ],
+                    "correct": "Fuzz testing."
+                },
+                {
+                    "index": 53,
+                    "question": "Señalar la respuesta correcta. Una herramienta de análisis de código reporta que no existen vulnerabilidades para una aplicación revisada. La aplicación es distribuida y, un mes más tarde, una inyección SQL es anunciada de forma pública y, posteriormente, explotada. ¿Qué tipo de limitación de las herramientas de análisis de código se ha expuesto?",
+                    "options": [
+                        "Un falso positivo.",
+                        "Un falso negativo.",
+                        "Una vulnerabilidad específica de un lenguaje de programación.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Un falso negativo."
+                },
+                {
+                    "index": 54,
+                    "question": "Señalar la respuesta incorrecta. Las herramientas de análisis estático realizan varios tipos de análisis:",
+                    "options": [
+                        "Taint Propagation.",
+                        "Análisis puntual.",
+                        "Model checking.",
+                        "Análisis de flujo de datos."
+                    ],
+                    "correct": "Análisis puntual."
+                },
+                {
+                    "index": 55,
+                    "question": "Señalar la respuesta correcta. Si el objetivo del tiempo de recuperación (RTO) aumenta:",
+                    "options": [
+                        "La tolerancia al desastre aumenta.",
+                        "El coste de recuperación aumenta.",
+                        "No es posible usar un Cold Site.",
+                        "La frecuencia de los backup de datos aumenta."
+                    ],
+                    "correct": "La tolerancia al desastre aumenta."
+                },
+                {
+                    "index": 56,
+                    "question": "Señalar la respuesta incorrecta. El alcance de la metodología \"Open Wireless Security Assessment Methodology (OWISAM)\" incluye:",
+                    "options": [
+                        "Fingerpinting.",
+                        "Manejo de errores.",
+                        "Pruebas de directivas y normativa.",
+                        "Cifrado de las comunicaciones."
+                    ],
+                    "correct": "Manejo de errores."
+                },
+                {
+                    "index": 57,
+                    "question": "Señalar la respuesta correcta. ¿Qué conjunto de amenazas típicas pueden poner en riesgo a una compañía?",
+                    "options": [
+                        "Del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada.",
+                        "De origen natural, del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada.",
+                        "De origen natural, del entorno, defectos de las aplicaciones y causadas por las personas de forma deliberada.",
+                        "De origen natural, del entorno, defectos de las aplicaciones y causadas por las personas de forma accidental."
+                    ],
+                    "correct": "De origen natural, del entorno, defectos de las aplicaciones, causadas por las personas de forma accidental y causadas por las personas de forma deliberada."
+                },
+                {
+                    "index": 58,
+                    "question": "Señalar la respuesta correcta. Las evidencias tienen 3 características:",
+                    "options": [
+                        "Son pertinentes, fehacientes y suficientes",
+                        "Son suficientes, fehacientes y únicas",
+                        "Son pertinentes, comparables y suficientes",
+                        "Ninguna de las anteriores es cierta."
+                    ],
+                    "correct": "Son pertinentes, fehacientes y suficientes"
+                },
+                {
+                    "index": 59,
+                    "question": "Señalar la respuesta correcta. Podemos clasificar de manera general los controles en:",
+                    "options": [
+                        "Preventivos, detectivos y correctivos.",
+                        "Generales, preventivos y de aplicación.",
+                        "Voluntarios, obligatorios, manuales, automáticos, generales y de aplicación.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Preventivos, detectivos y correctivos."
+                }
+            ]
+        }
     ]
-  }
-  
+}
