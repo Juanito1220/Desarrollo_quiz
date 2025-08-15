@@ -62,12 +62,12 @@
           "index": 6,
           "question": "Señala la respuesta incorrecta. Los objetivos de las pruebas de seguridad basadas en el riesgo son:",
           "options": [
-            "Verificarla bajo en su entorno de producción.",
+            "Verificar la operación del software bajo en su entorno de producción.",
             "Verificar la capacidad de supervivencia del software ante la aparición de anomalías, errores y su manejo de estas mediante excepciones que minimicen el alcance e impacto de los daños que puedan resultar de los ataques.",
             "Verificar la falta de defectos y debilidades explotables.",
             "Verificar la fiabilidad del software, en términos de comportamiento seguro y cambios de estado confiables."
           ],
-          "correct": "Verificarla bajo en su entorno de producción."
+          "correct": "Verificar la operación del software bajo en su entorno de producción."
         },
         {
           "index": 7,
