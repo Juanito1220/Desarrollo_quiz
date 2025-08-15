@@ -1,69 +1,119 @@
 {
-    "quizzes": [
+  "quizzes": [
+    {
+      "title": "week9",
+      "questions": [
         {
-            "title": "week9",
-            "questions": [
-                {
-                    "index": 1,
-                    "question": "Costs that have already been committed and cannot be recovered are",
-                    "options": ["Fixed costs", "Variable costs", "Marginal costs", "Sunk costs"],
-                    "correct": "Sunk costs"
-                },
-                {
-                    "index": 2,
-                    "question": "Total revenue minus total cost, including both explicit and implicit costs is a definition of",
-                    "options": ["Economic profit", "Accounting profit", "Profit", "Loss"],
-                    "correct": "Economic profit"
-                },
-                {
-                    "index": 3,
-                    "question": "The increase in total cost that arises from an extra unit of production are",
-                    "options": ["Fixed costs", "Variable costs", "Marginal costs", "Sunk costs"],
-                    "correct": "Marginal costs"
-                },
-                {
-                    "index": 4,
-                    "question": "A monopolist firm’s profit is given by",
-                    "options": ["(Price - ATC) × Q", "(Price - Q) × ATC", "(ATC - Q) × Price", "Price × Q - ATC"],
-                    "correct": "(Price - ATC) × Q"
-                },
-                {
-                    "index": 5,
-                    "question": "Which of the following is true for a competitive firm?",
-                    "options": ["P > MR", "P > MC", "MR > MC", "MR = MC"],
-                    "correct": "MR = MC"
-                },
-                {
-                    "index": 6,
-                    "question": "The amount a firm receives for the sale of its output is a definition of",
-                    "options": ["Total revenue", "Total cost", "Profit", "Loss"],
-                    "correct": "Total revenue"
-                },
-                {
-                    "index": 7,
-                    "question": "When the cost of production for a single firm is much lesser than the cost of production for competitive firms, we have a / an",
-                    "options": ["natural monopoly", "artificial monopoly", "oligopoly", "duopoly"],
-                    "correct": "natural monopoly"
-                },
-                {
-                    "index": 8,
-                    "question": "Costs that do not vary with the quantity of output produced are",
-                    "options": ["fixed costs", "variable costs", "marginal costs", "sunk costs"],
-                    "correct": "fixed costs"
-                },
-                {
-                    "index": 9,
-                    "question": "Costs that vary with the quantity of output produced are",
-                    "options": ["fixed costs", "variable costs", "marginal costs", "sunk costs"],
-                    "correct": "variable costs"
-                },
-                {
-                    "index": 10,
-                    "question": "The increase in output that arises from an additional unit of input is",
-                    "options": ["marginal product", "marginal profit", "marginal loss", "marginal cost"],
-                    "correct": "marginal product"
-                }
-            ]
+          "index": 1,
+          "question": "La finalidad de una auditoría de cumplimiento es:",
+          "options": [
+            "Evaluar el grado de cumplimiento de una norma de seguridad",
+            "Analizar el código estático del código de aplicaciones para buscar vulnerabilidades, tanto de aplicaciones del tipo web como de cualquier tipo de aplicación",
+            "Evaluar el nivel de seguridad de las LAN corporativas de carácter interno de una organización",
+            "Analizar la protección que proporciona una red de seguridad perimetral desde el exterior"
+          ],
+          "correct": "Evaluar el grado de cumplimiento de una norma de seguridad"
+        },
+        {
+          "index": 2,
+          "question": "Las auditorías de cumplimiento son del tipo:",
+          "options": [
+            "Caja blanca",
+            "Caja negra",
+            "Caja gris",
+            "Ninguna de las anteriores"
+          ],
+          "correct": "Caja blanca"
+        },
+        {
+          "index": 3,
+          "question": "Señala la respuesta incorrecta. Una metodología tiene que proporcionar finalmente un proceso sencillo y estructurado de pruebas que sea:",
+          "options": [
+            "Válido para siempre",
+            "Coherente con las leyes individuales y locales y el derecho a la privacidad",
+            "Basado en el mérito y esfuerzo de los probadores y analistas",
+            "Consistente y repetible"
+          ],
+          "correct": "Válido para siempre"
+        },
+        {
+          "index": 4,
+          "question": "¿Cuál de las siguientes metodologías se considera un marco de trabajo?",
+          "options": [
+            "Open Source Security Testing Methodology Manual (OSSTMM)",
+            "Penetration Testing Execution Standard (PTES)",
+            "Technical Guide to Information Security Testing and Assessment (NIST 800-115)",
+            "Information System Security Assessment Framework (ISSAF)"
+          ],
+          "correct": "Information System Security Assessment Framework (ISSAF)"
+        },
+        {
+          "index": 5,
+          "question": "¿Qué metodología se enfoca en criterios de evaluación?",
+          "options": [
+            "The Open Source Security Testing Methodology Manual (OSSTMM)",
+            "The Information System Security Assessment Framework (ISSAF)",
+            "Technical Guide to Information Security Testing and Assessment (NIST 800-115)",
+            "The Penetration Testing Execution Standard (PTES)"
+          ],
+          "correct": "The Information System Security Assessment Framework (ISSAF)"
+        },
+        {
+          "index": 6,
+          "question": "¿Cuál no es una metodología de pruebas de penetración?",
+          "options": [
+            "PTES",
+            "ISSAF",
+            "OSSTMM",
+            "PMBOK"
+          ],
+          "correct": "PMBOK"
+        },
+        {
+          "index": 7,
+          "question": "Dentro de la metodología OSSTMM se definen una serie de pruebas, ¿cuál de las siguientes no lo es?",
+          "options": [
+            "Búsqueda de vulnerabilidades",
+            "Escaneo de la seguridad",
+            "Test de intrusión",
+            "Auditoría de informática"
+          ],
+          "correct": "Auditoría de informática"
+        },
+        {
+          "index": 8,
+          "question": "¿En qué metodología se testea la seguridad desde un entorno no privilegiado hacia un entorno privilegiado para evadir los componentes de seguridad, procesos y alarmas, y ganar acceso privilegiado?",
+          "options": [
+            "ITIL",
+            "PMBOK",
+            "ISSAF",
+            "OSSTMM"
+          ],
+          "correct": "OSSTMM"
+        },
+        {
+          "index": 9,
+          "question": "¿Cuál no es un control de la metodología Open Web Application Security Project (OWASP)?",
+          "options": [
+            "Autorización",
+            "Gestión de sesiones",
+            "Información clasificada",
+            "Manejo de errores"
+          ],
+          "correct": "Información clasificada"
+        },
+        {
+          "index": 10,
+          "question": "Señala la respuesta incorrecta. De acuerdo con la metodología Common Criteria ISO 15408 (CC), el proceso de evaluación comienza mediante el envío al laboratorio acreditado por parte del proveedor del producto de una serie de documentos:",
+          "options": [
+            "Protection profile (PP). Identifica los requisitos y especificaciones de seguridad que debe cumplir una familia de productos TIC por evaluar",
+            "Target of evaluation (TOE). Es el producto TIC que pretende validar con respecto a las características de seguridad y su funcionamiento",
+            "Security target (ST). Especifica los requisitos funcionales de seguridad que se solicitan evaluar en el TOE, con respecto a su PP tomado como referencia",
+            "System design (SD). Incluye el diseño detallado de la familia de productos TIC por evaluar"
+          ],
+          "correct": "System design (SD). Incluye el diseño detallado de la familia de productos TIC por evaluar"
         }
-    ]
+      ]
+    }
+  ]
 }
