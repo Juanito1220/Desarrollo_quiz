@@ -97,8 +97,22 @@ export default function QuizPage() {
   return (
     <div className="max-w-3xl mx-auto p-6 mt-2">
       <h1 className="text-2xl font-bold mb-6 text-center">
-        Evaluación {week === "finalexam"? "Final Exam": "Tema " + (parseInt(week.replace("week", ""), 10) + 1)}
-      </h1>
+  Evaluación {
+    (() => {
+      switch (week) {
+        case "extras":
+          return "Extra";
+        case "ExamFinal":
+          return "Final";
+        case "finalexam":
+          return "Completo";
+        default:
+          return "Tema " + (parseInt(week.replace("week", ""), 10) + 1);
+      }
+    })()
+  }
+</h1>
+
 
       {isLoading ? (
         <QuizLoader onFinish={() => setIsLoading(false)} />
