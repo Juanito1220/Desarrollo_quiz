@@ -26,5 +26,6 @@ export const quizzes = [
   { title: "Tema 9", description: "Auditorías operativas/técnicas", link: "week8" },
   { title: "Tema 10", description: "Auditorías de cumplimiento y metodologías de auditoría", link: "week9" },
   { title: "Exámen Completo", description: 'Examén con todas las preguntas', link: "finalexam" }, 
-  { title: "Preguntas Extras", description: 'Preguntas formadas de los textos', link: "extras" } 
+  { title: "Preguntas Extras", description: 'Preguntas formadas de los textos', link: "extras" },
+  { title: "Preguntas Examen Final", description: 'Preguntas Examen final', link: "ExamFinal" } 
 ];

@@ -1,0 +1,99 @@
+{
+    "quizzes": [
+        {
+            "title": "ExamFinal",
+            "questions": [
+                {
+                    "index": 1,
+                    "question": "Señalar la respuesta correcta. El informe de auditoría:",
+                    "options": [
+                        "No admite discusión, pues debe ser aclarado todo durante la propia auditoría.",
+                        "Antes del informe final, se distribuye un borrador al que se pueden alegar aspectos que el auditado no esté de acuerdo.",
+                        "El informe final de auditoría también puede ser discutido con las personas auditadas y siempre tiene un apartado principal para la dirección de los controles que se recomienda modificar.",
+                        "A menudo existe un apartado con juicios de valor y un glosario con los nombres y marcas de los productos."
+                    ],
+                    "correct": "Antes del informe final, se distribuye un borrador al que se pueden alegar aspectos que el auditado no esté de acuerdo."
+                },
+                {
+                    "index": 2,
+                    "question": "Señalar la respuesta correcta. ¿Cuál de las siguientes pruebas está un auditor realizando cuando una muestra de programas es seleccionada para determinar si las versiones del código fuente y versiones del código objeto son las mismas?",
+                    "options": [
+                        "Una prueba de controles de biblioteca de programas.",
+                        "Una prueba de cumplimiento de controles de biblioteca de programas.",
+                        "Una prueba de cumplimiento de los controles del área de operación.",
+                        "Una prueba sustantiva de los controles del compilador de programas."
+                    ],
+                    "correct": "Una prueba de cumplimiento de controles de biblioteca de programas."
+                },
+                {
+                    "index": 3,
+                    "question": "Señalar la respuesta correcta. La réplica de datos en espejo (mirroring) se debe implementar como estrategia de recuperación cuando:",
+                    "options": [
+                        "El RPO sea bajo.",
+                        "El RPO sea alto.",
+                        "El RTO sea alto.",
+                        "La tolerancia a desastres sea alta."
+                    ],
+                    "correct": "El RPO sea alto."
+                },
+                {
+                    "index": 4,
+                    "question": "Señalar la respuesta correcta. La siguiente definición \"Una estrategia planificada en fases, constituida por un conjunto de recursos de respaldo, una organización de emergencia y unos procedimientos de actuación, encaminados a conseguir una restauración ordenada, progresiva y ágil de los sistemas de información que soportan la información y los procesos de negocio considerados críticos para la empresa\" se corresponde a:",
+                    "options": [
+                        "Plan de continuidad de negocio.",
+                        "Plan de recuperación ante desastres (DRP).",
+                        "Plan de Contingencia de las Tecnologías de la Información y las Comunicaciones (TIC).",
+                        "Ninguna de las opciones."
+                    ],
+                    "correct": "Plan de Contingencia de las Tecnologías de la Información y las Comunicaciones (TIC)."
+                },
+                {
+                    "index": 5,
+                    "question": "Señalar la respuesta incorrecta. ¿Cuál de las siguientes afirmaciones es incorrecta?",
+                    "options": [
+                        "La revisión por la dirección permitirá realinear los esfuerzos de implantación del SGSI para asegurar su eficiencia y eficacia.",
+                        "La mejora continua del SGSI se desempeña por cualquiera de los recursos de la organización.",
+                        "La revisión de la dirección debe realizarse a intervalos planificados y como mínimo 1 vez al año.",
+                        "Ninguna de las opciones."
+                    ],
+                    "correct": "Ninguna de las opciones."
+                },
+                {
+                    "index": 6,
+                    "question": "Señalar la respuesta correcta. Para conseguir que el desarrollo de una aplicación posea las propiedades y principios de diseño del software seguro, se necesita que el personal de diseño y desarrollo desarrollen alguna de las siguientes perspectivas:",
+                    "options": [
+                        "Perspectiva administrador.",
+                        "Perspectiva atacante.",
+                        "Perspectiva usuario.",
+                        "Perspectiva de arquitecto."
+                    ],
+                    "correct": "Perspectiva atacante."
+                },
+                {
+                    "index": 7,
+                    "question": "Señalar la respuesta incorrecta. Cuando se publica una vulnerabilidad:",
+                    "options": [
+                        "Hay una ventana de tiempo en la que se puede explotar.",
+                        "Si no hay un exploit público, no hay de qué preocuparse.",
+                        "Ha habido previamente una ventana de tiempo en la que ha estado siendo explotada en secreto.",
+                        "Si no hay un exploit público, el riesgo objetivo sobre el sistema es menor."
+                    ],
+                    "correct": "Si no hay un exploit público, no hay de qué preocuparse."
+                },
+                {
+                    "index": 8,
+                    "question": "Señalar la respuesta correcta. Un método para combinar y dependencias de las vulnerabilidades que un atacante puede aprovechar para comprometerlo.",
+                    "options": [
+                        "Método de ataque",
+                        "Patrones de ataque",
+                        "Árboles de ataque",
+                        "Modelo de ataque"
+                    ],
+                    "correct": "Árboles de ataque"
+                }
+               
+            ]
+        }
+  
+    ]
+}
