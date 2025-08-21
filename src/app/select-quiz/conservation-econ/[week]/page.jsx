@@ -105,7 +105,7 @@ export default function QuizPage() {
         case "ExamFinal":
           return "Final";
         case "finalexam":
-          return "Completo";
+          return "Completa";
         default:
           return "Tema " + (parseInt(week.replace("week", ""), 10) + 1);
       }
