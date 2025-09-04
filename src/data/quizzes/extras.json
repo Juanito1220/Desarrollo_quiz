@@ -309,7 +309,7 @@
                         "Reglas de la herramienta.",
                         "Falsos positivos que produce."
                     ],
-                    "correct": "Falsos positivos que produce."
+                    "correct": "Falsos negativos que produce."
                 },
                 {
                     "index": 29,
@@ -452,7 +452,7 @@
                         "Reglas de la herramienta.",
                         "Falsos positivos que produce."
                     ],
-                    "correct": "Falsos positivos que produce."
+                    "correct": "Falsos negativos que produce."
                 },
                 {
                     "index": 42,
@@ -706,6 +706,39 @@
                         "Ninguna de las anteriores."
                     ],
                     "correct": "Ninguna de las anteriores."
+                },
+                 {
+                    "index": 65,
+                    "question": "Señalar la respuesta correcta. ¿Es el EDR una metodología de análisis de riesgos de un Sistema de Gestión de Seguridad de la Información - SGSI?",
+                    "options": [
+                        "Si.",
+                        "No.",
+                        "Depende del control interno.",
+                        "Depende del plan estratégico de compañía."
+                    ],
+                    "correct": "No."
+                },
+                {
+                    "index": 66,
+                    "question": "Señalar la respuesta correcta. La siguiente función acepta como parámetro una cadena EmployeeNumber y dinámicamente crea una petición SQL utilizando los datos no confiables. ¿Contiene la siguiente función una vulnerabilidad de Inyección SQL?",
+                    "options": [
+                        "La función no contiene una vulnerabilidad de inyección de comandos.",
+                        "La función contiene una vulnerabilidad de inyección SQL porque la longitud del parámetro EmployeeNumber puede exceder el tamaño de 150 caracteres.",
+                        "La función contiene una vulnerabilidad de inyección SQL porque el parámetro EmployeeNumber es insertado directamente en la petición SQL sin validarlo.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "La función no contiene una vulnerabilidad de inyección de comandos."
+                },
+                 {
+                    "index": 66,
+                    "question": "Señalar la respuesta correcta. Indique que medida de seguridad puede ser usada para implementar el principio de Defensa en Profundidad en la capa física.",
+                    "options": [
+                        "Mecanismos de cifrado",
+                        "Plataformas virtuales «sandboxes»",
+                        "Sistemas de gestión y correlación de eventos de infraestructura (SIEM)",
+                        "Cortafuegos, proxy reverso, y sistemas de prevención de intrusiones"
+                    ],
+                    "correct": "Cortafuegos, proxy reverso, y sistemas de prevención de intrusiones"
                 }
 
             ]
