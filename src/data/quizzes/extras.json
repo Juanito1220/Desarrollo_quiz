@@ -103,17 +103,18 @@
                     ],
                     "correct": "ISO 27001"
                 },
-                {
-                    "index": 10,
-                    "question": "Señalar la respuesta correcta. Indicar la utilidad de los Patrones de Ataque en la etapa de Especificación de requisitos.",
+                   {
+                    "index": 51,
+                    "question": "Señalar la respuesta correcta. De acuerdo con la metodología Common Criteria ISO 15408 (CC) el nivel de confianza se proporciona evidencia en cuanto a que la evaluación coincide con la descrita en la documentación",
                     "options": [
-                        "Proporciona ejemplos de ataques que aprovechan las vulnerabilidades de la arquitectura elegida.",
-                        "Pueden ser utilizados para orientar las pruebas de seguridad del software en un contexto práctico y realista identificando debilidades concretas para generar casos de prueba para cada componente.",
-                        "Permitirá la selección de políticas de seguridad y configuraciones acordes a las amenazas obtenidas de los patrones de ataque.",
-                        "Ayuda a definir el comportamiento del sistema para prevenir o reaccionar ante un tipo específico de ataque probable."
+                        "EAL1",
+                        "EAL3",
+                        "EAL4",
+                        "EAL5"
                     ],
-                    "correct": "Ayuda a definir el comportamiento del sistema para prevenir o reaccionar ante un tipo específico de ataque probable."
+                    "correct": "EAL1"
                 },
+             
                 {
                     "index": 11,
                     "question": "Señalar la respuesta correcta. El incorporar una característica en la aplicación como \"Guardar información en archivos binarios\" corresponde al Principio de diseño:",
@@ -554,18 +555,8 @@
                         "Presentación de informes, limpieza y destrucción de artefactos."
                     ],
                     "correct": "Acuerdo con la organización auditada."
-                },
-                 {
-                    "index": 51,
-                    "question": "Señalar la respuesta correcta. De acuerdo con la metodología Common Criteria ISO 15408 (CC) el nivel de confianza se proporciona evidencia en cuanto a que la evaluación coincide con la descrita en la documentación",
-                    "options": [
-                        "EAL1",
-                        "EAL3",
-                        "EAL4",
-                        "EAL5"
-                    ],
-                    "correct": "EAL1"
                 }
+              
                
             ]
         }
