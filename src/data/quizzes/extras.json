@@ -651,7 +651,63 @@
                         "Ninguna de las anteriores."
                     ],
                     "correct": "Preventivos, detectivos y correctivos."
+                },
+                 {
+                    "index": 60,
+                    "question": "Señalar la respuesta incorrecta. La fase de la metodología “Information System Security Assessment Framework (ISSAF)” son:",
+                    "options": [
+                        "Evaluación.",
+                        "Planeación y preparación.",
+                        "Acuerdo con la organización auditada.",
+                        "Presentación de informes, limpieza y destrucción de artefactos."
+                    ],
+                    "correct": "Acuerdo con la organización auditada."
+                },
+                 {
+                    "index": 61,
+                    "question": "Señalar la respuesta correcta. De acuerdo con la metodología Common Criteria ISO 15408 (CC) el nivel de confianza se proporciona evidencia en cuanto a que la evaluación coincide con la descrita en la documentación",
+                    "options": [
+                        "EAL1",
+                        "EAL3",
+                        "EAL4",
+                        "EAL5"
+                    ],
+                    "correct": "EAL1"
+                },
+                {
+                    "index": 62,
+                    "question": "Señalar la respuesta incorrecta. Se puede definir la seguridad del software como",
+                    "options": [
+                        "El conjunto de principios de diseño y buenas prácticas a implantar, para detectar, prevenir y corregir los defectos de seguridad en el desarrollo y adquisición de sistemas.",
+                        "La confianza que el software, hardware y servicios funcionan conforme a los estándares",
+                        "Ninguna de las anteriores.",
+                        "El nivel de confianza de que el software funciona según lo previsto y está libre de vulnerabilidades, ya sea intencionada o no diseñada o insertada en el marco del software."
+                    ],
+                    "correct": "La confianza que el software, hardware y servicios funcionan conforme a los estándares"
+                },
+                 {
+                    "index": 63,
+                    "question": "Señalar la respuesta correcta. Entre las perspectivas de las pruebas de seguridad basadas en el riesgo tenemos la siguiente",
+                    "options": [
+                        "Perspectiva gerencia.",
+                        "Perspectiva arquitecto.",
+                        "Perspectiva usuario.",
+                        "Perspectiva defensor."
+                    ],
+                    "correct": "Perspectiva defensor."
+                },
+                 {
+                    "index": 64,
+                    "question": "Señalar la respuesta incorrecta. La activación del DRP podría realizarse como consecuencia de alguno de los incidentes incluidos a continuación:",
+                    "options": [
+                        "Pérdida de un sistema informático clave.",
+                        "Pérdida de datos críticos.",
+                        "Pérdida de un sistema informático.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "Ninguna de las anteriores."
                 }
+
             ]
         }
     ]
