@@ -12,7 +12,7 @@
                         "El conjunto de errores que la herramienta comprueba.",
                         "Las características de la herramienta para hacerla fácil de usar."
                     ],
-                    "correct": "El equilibrio que la herramienta hace entre la extensión del código fuente y el tipo de lenguaje de programación."
+                    "correct": "Porcentaje de falsos positivos y falsos negativos de la herramienta."
                 },
                 {
                     "index": 2,
