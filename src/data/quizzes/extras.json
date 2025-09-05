@@ -566,9 +566,51 @@
                         "Ninguna de las anteriores."
                     ],
                     "correct": "La aplicación de mejora continua con el ciclo de Demming/PDCA."
+                },
+                 {
+                    "index": 52,
+                    "question": "Señalar la respuesta correcta. ¿Quién clasifica los activos del sistema de información?",
+                    "options": [
+                        "La autoridad nacional de seguridad.",
+                        "Una empresa auditora.",
+                        "Una empresa consultora.",
+                        "La propia organización."
+                    ],
+                    "correct": "La propia organización."
+                },
+                 {
+                    "index": 53,
+                    "question": "Señalar la respuesta incorrecta. De acuerdo con ISACA (2019), los controles de seguridad física pueden clasificarse de la siguiente forma:",
+                    "options": [
+                        "Normativa.",
+                        "Administrativos.",
+                        "Técnicos.",
+                        "Físicos."
+                    ],
+                    "correct": "Normativa."
+                },
+                 {
+                    "index": 54,
+                    "question": "Señalar la respuesta correcta. Un fallo de desbordamiento de búfer es:",
+                    "options": [
+                        "Fallos de codificación.",
+                        "Fallos de diseño.",
+                        "Fallos de implantación.",
+                        "Fallos de configuración."
+                    ],
+                    "correct": "Fallos de codificación."
+                },
+                 {
+                    "index": 55,
+                    "question": "Señalar la respuesta correcta. Cuál de estos elementos no entran dentro de los objetivos específicos de la auditoría de sistemas:",
+                    "options": [
+                        "Cumplimiento de la metodología.",
+                        "Identificar faltas del personal a su puesto de trabajo.",
+                        "Opinión de la utilización de los recursos informáticos.",
+                        "FAuditoría de las bases de datos."
+                    ],
+                    "correct": "Identificar faltas del personal a su puesto de trabajo."
                 }
-              
-               
             ]
         }
     ]

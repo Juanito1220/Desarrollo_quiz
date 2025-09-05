@@ -34,7 +34,7 @@
                         "El RTO sea alto.",
                         "La tolerancia a desastres sea alta."
                     ],
-                    "correct": "El RPO sea alto."
+                    "correct": "El RPO sea bajo."
                 },
                 {
                     "index": 4,
