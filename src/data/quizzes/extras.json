@@ -555,6 +555,17 @@
                         "Presentación de informes, limpieza y destrucción de artefactos."
                     ],
                     "correct": "Acuerdo con la organización auditada."
+                },
+                   {
+                    "index": 51,
+                    "question": "Señalar la respuesta correcta. ¿Cuál es la base que aportan los estándares ISO a la Gestión de las TICs?",
+                    "options": [
+                        "Terminología técnica.",
+                        "La aplicación de mejora continua con el ciclo de Demming/PDCA.",
+                        "Indicadores y métricas.",
+                        "Ninguna de las anteriores."
+                    ],
+                    "correct": "La aplicación de mejora continua con el ciclo de Demming/PDCA."
                 }
               
                
